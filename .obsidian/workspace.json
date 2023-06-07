@@ -154,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
@@ -161,8 +162,7 @@
       "canvas:Create new canvas": true,
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "homepage:Open homepage": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "5b875b2157a0550d",
