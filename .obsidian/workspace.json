@@ -154,7 +154,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
@@ -162,10 +161,11 @@
       "canvas:Create new canvas": true,
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "5b875b2157a0550d",
+  "active": "6c66f30df2ae26b2",
   "lastOpenFiles": [
     "notes/藥物化學.md",
     "notes/Homepage.md",
