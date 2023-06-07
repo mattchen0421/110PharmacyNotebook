@@ -1,0 +1,32 @@
+- 基原
+	- 瑞香科 (Thymelaeaceae) 植物 
+	- 白木香 (莞香) 樹 *Aquilaria sinensis* (Lour.) Spreng. 
+	- 沉香樹 A. agallocha Roxb. 
+- 產地
+	- 白木香產於台灣、廣東、廣西、海南島等地 
+	- 沉香樹產於亞洲熱帶國家，如印度、印尼、馬來西亞、越南等 
+- 使用部位 
+	- 木部，有多量黑棕色樹脂的心材
+- 性味、歸經 
+	- 溫，苦、辛，
+	- 歸脾、胃、腎經 
+- 功用主治 
+	1. 理氣調中。治心腹疼痛、氣痢氣淋 
+	2. 暖精助陽
+- 成分 
+	- 白木香含 
+		- ==揮發油== 13% ，
+			- 主成分為 Baimuxinol (白木香醇)(Sesquiterpenoids) 、 Baimuxinic acid、Baimuxinal、Benzylaceton、p- Methoxybenzylacetone 等 
+		- 2-(2-Phenethyl)-4-chromones: 
+			- 6-Methoxy-、6,7- Dimethoxy-、6-Hydroxy- 等衍生物
+- 藥理研究
+	- 本品對家兔離體小腸運動有抑制作用。
+	- 所含揮發油有促進消化液分泌及膽汁分泌等作用 
+- 炮製
+	- 加水磨汁用， 或研末
+- 禁忌 
+	- 凡陰虛火旺，氣虛下陷者忌用 
+- 配伍 
+	- 行氣止痛與木香、烏藥、檳榔同用 
+- 運用方劑 
+	- 況香天麻丸、礞石滾痰丸、順風勻氣散

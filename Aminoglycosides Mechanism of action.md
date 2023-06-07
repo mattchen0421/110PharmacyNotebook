@@ -1,0 +1,11 @@
+- 不可逆結合
+- [[Bacteriostatic and bactericidal|Bactericidal]]
+	- 除了 spectinomycin
+- 結合 30S ribosomal subunit 的 16S ribosomal DNA portion 
+	- 損害 proofreading 功能
+	- 干擾 fMet-tRNA 結合 $\rightarrow$ 干擾 initiation
+	- mRNA 密碼子 misreading (除了 Spectinomycin)
+- 結合時 A site $\rightarrow$ conformational change
+- 穿透 gram-negative bacterial 
+	- passive and active
+- 不穿透 gram-positive bacteria 

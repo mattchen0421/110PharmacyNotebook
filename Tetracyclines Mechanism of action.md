@@ -1,0 +1,3 @@
+- 抑制細菌蛋白質合成
+- 防止 aminoacyl tRNA 結合成 mRNA-ribosome complex (Mg<sup>+2</sup> required)
+- 少數結合至哺乳類 ribosomes 但不影響蛋白質合成

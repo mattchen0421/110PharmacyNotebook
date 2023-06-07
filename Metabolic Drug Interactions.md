@@ -1,0 +1,5 @@
+- Inhibition
+- Induction
+- Polymorphism (CYP2D6; 2C9; 2C19)
+- Formation of reactive, toxic, or active metabolites
+- Disease state

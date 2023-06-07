@@ -1,0 +1,8 @@
+- Pseudoephedrine has fewer CNS effects.
+- The salts pseudoephedrine hydrochloride and pseudoephedrine sulfate are found in many over-the-counter preparations
+- Clinical Use:
+	- Nasal congestion, sinus congestion
+	- To raise blood pressure
+- Side Effects:
+	- central nervous system stimulation, insomnia失眠,
+	- nervousness, excitability, dizziness and anxiety.

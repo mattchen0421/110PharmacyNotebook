@@ -1,0 +1,64 @@
+- [[#Suspensions|Suspensions]]
+- [[#Emulsions|Emulsions]]
+- [[#Freeze-Dried Products|Freeze-Dried Products]]
+- [[#Dry Solids|Dry Solids]]
+
+## Solutions
+- Solutions of medicaments suitable for injection, referred to as “.. Injection ” …注射液
+	- Example: Morphine Injection, Insulin Injection
+- Use Water for Injection as the solvent
+- Water for Injection: 
+	- pyrogen-free, fresh distilled, bacterial-free 
+	- Total solids: maximum ==10 ppm== 
+	- Sterile Water for Injection allows higher total solids 
+- ==NaCl== may be added to Water for Injection to prepare isotonic solution, or Sodium Chloride Injection may be substituted in whole or in part for Water for Injection unless indicated otherwise
+## Suspensions 
+- Suspensions, solids which are suspended in a suitable fluid medium and which are not to be injected intravenously or into the spinal canal, referred to as “Sterile....Suspension“ 無菌…懸浮劑 
+	- Example: Sterile Dexamethasone Acetate Suspension
+- Defined as a sterile heterogeneous system in which insoluble solid particles are dispersed in a liquid medium 
+	- To achieve a prolonged or “depot” drug action 
+	- To suspend an insoluble form of a drug 
+	- To improve chemical and physical stability 
+- Acceptable suspension 
+	- Small and uniform particles 
+	- Suspend material should not settle rapidly 
+	- Settled particles should not form a hard cake and should be easily redispersed upon shaking the container 
+	- Viscosity – to permit ready passage though a needle
+- Use for ==deep IM injection== 
+- Syringeability: 
+	- the ability of the product to pass in and out of a syringe through a needle. 
+	- Reduced syringeability:
+		- High viscosity and high density of the vehicle, large particle size, high concentration of suspended drug 
+- Materials used to gel the suspension during storage: 
+	- partially hydrolyzed gelatin, lecithin, and non-ionic surfactants. 
+	- Example: Mephyton®: 1% lecithin 
+- The sedimentation can be improved by the use of surfactants 
+	- Example: Tweens and Pluronics 
+- Thickening agents for oily suspensions 
+	- Example: Sterile Procaine Penicillin with Aluminum Stearate Suspension - Aluminum Stearate is used to gel the suspension
+## Emulsions
+- Emulsions suitable for parenteral administration, which are not to be injected into the spinal canal, referred to as “Sterile....Emulsion“ 無菌…乳劑 
+	- Example: Sterile Phytonadione Emulsion
+- Oil-in-water type (o/w) 
+- Emulsion for IV injection: 
+	- particle size < ==5mm== 
+- Emulsions are generally sterilized by autoclaving. Therefore, the preparations must be able to tolerate elevated temperatures. Elevated temp. tend to cause coalescence of the dispersed phase, and a stabilizing agent is often required. 
+- The number of emulsifiers and stabilizers with sufficiently low toxicity for this purpose is limited
+## Freeze-Dried Products
+- Dry solids which, upon the addition of suitable solvents, yield solutions conforming to the requirements for injections. 注射用… or 滅菌… 
+	- Example: Sterile Ampicillin Sodium or Methicillin Sodium for Injection (Sterile….. Or ….. for Injection) 
+- A freeze-dried injectable consists of a dry solid cake which is dissolved in water or a suitable diluent prior administration 
+- Lyophilization 冷凍乾燥: 
+	- the process of freeze drying  Dissolving the drug, filtering the solution, filling the container under aseptic condition, and remove water 
+- Usually employed for products that are thermolabile or unstable in aqueous solution - 
+	- e.g., ampicillin sodium, ceftazidime sodium
+## Dry Solids
+- Dry solids, which upon the addition of suitable vehicles yield preparations conforming in all respects to the requirements for sterile suspensions, referred to as “Sterile....for Suspension” 無菌懸浮劑用.. 
+	- Example: Sterile Ampicillin for Suspension 
+- Sterile solids are often packaged in the dry form in containers suitable for reconstitution with sterile solvents
+- For drug unstable in aqueous solution and cannot lyophilize. 
+- Sterile solids are more difficult than liquids to subdivide accurately and precisely into individual dose containers. 
+- Humidity need to be controlled 
+	- High humidity: Caking and sticking 
+	- Low humidity: electrostatic charges to build up 
+- Usually prepared by aseptic crystallization無菌結晶

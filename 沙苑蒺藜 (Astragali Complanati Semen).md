@@ -1,0 +1,36 @@
+#中藥藥物學
+- 基原:
+	- 豆科 (Leguminosae; Fabaceae ) 植物
+	- 扁莖黃耆 *Astragalus complanatus* Bung
+- 產地:
+	- 主產於陝西、河北、山西、內蒙古等地區
+- 使用部位:
+	- 乾燥、成熟的種子
+- 性味、歸經:
+	- 溫，甘
+	- 歸肝、腎經
+- 功用主治:
+	- 補腎益精。治虛勞腰痛，遺精帶下 
+	- 散肝明目 
+	- 瀉肺氣。治咳逆肺痿 
+	- 催生墮胎
+- 成分:
+	- ==Flavonoids==:
+		- Astragalin (黃耆苷)、Complanatosidos A & B (沙苑子苷)、 Neocomplanoside (沙苑子新苷)、 Myricomplanoside (沙苑子楊梅甘) 及異黃酮 Calycosin (毛蕊異黃酮)、Ononin (芒柄花素)等
+	- Amino acids :
+		- 含14 種胺基酸 ，其中以 ==Glutamic acid== 含量最高
+- 藥理作用:
+	- 降血壓、降血脂、保肝、抗氣化、抗老化、抗炎症、提高免疫、抗輻射、抗疲勞等作用
+	- Astragalin: 抗氧化、抗老化、抗炎症等作用
+- 炮製:
+	- 取種子曬乾用或酒拌蒸用
+- 禁忌:
+	- 陰虛火旺者忌服
+- 配伍 :
+	- 鹿角霜相須
+- 運用方劑:
+	- 金鎖固精丸、當歸飲子
+- 其他:
+	- 偽品甚多，常見者為
+		- 豬屎豆屬 (Crotalaria) 多種植物的種子
+			- 含有 Pyrrolizidine 生物鹼，具肝毒性，應注意鑑別

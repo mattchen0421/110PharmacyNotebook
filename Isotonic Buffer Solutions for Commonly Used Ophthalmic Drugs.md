@@ -1,0 +1,31 @@
+## Group I – Buffered to pH 5: 
+- Consists of drugs that should be maintained at pH 5 in order to retard the rapid formation of the irritating free base and thus allow a more gentle and prolonged action 
+---
+- Boric Acid USP 1.9 g 
+- Benzalkonium chloride 1:10,000 
+- Sterile distilled water, to make 100 mL
+---
+- Drug Included in Group I are salts of: 
+	- Cocaine, Dibucaine, Procaine, Tetracaine, Neostigmine, Zinc
+## Group IA – Buffered to pH5: 
+- A modified boric acid buffer is used for salts of physostigmine, phenylephrine, and epinephrine 
+---
+- Boric Acid USP 1.9
+- Phenylmercuric nitrate 1:50,000 
+- Sodium sulfite, anhydrous 0.1 g 
+- Sterile distilled water, to make 100 mL
+---
+- Because of an incompatibility, benzalkonium chloride is replaced with phenylmercuric nitrate. Sodium sulfite is added to prevent discoloration (oxidation) of physostigmine, phenyleprine, and epinephrine
+## Group II – Buffered to pH 6.5: 
+- Consists of drugs that have their greatest stability at pH 2–3, but at the same time have their minimum therapeutic action at this pH range
+---
+- NaH<sub>2</sub>PO<sub>4</sub> 0.56 g 
+- Na<sub>2</sub>HPO<sub>4</sub> 0.284 g 
+- Sodium Chloride USP 0.5 g 
+- Na<sub>2</sub>EDTA 0.1 g 
+- Benzalkonium chloride 1:10,000 
+- Sterile distilled water, to make 100 mL
+---
+- This solution is isotonic with a 0.9% sodium chloride 
+- Drugs included in Group II are salts of : 
+	- Atropine, Ephedrine, Eucatropine, Homatropine, Penicillin, Pilocarpine (HCl salt)

@@ -1,0 +1,7 @@
+- broad spectrum
+- [[Bacteriostatic and bactericidal|bacteriostatic]]
+- against G-(+) and G-(-) bacteria
+	- spirochetes (螺旋體)
+	- mycoplasma (黴漿菌)
+	- rickettsiae (立克次體)
+	- chlamydiae (衣原體)

@@ -1,0 +1,36 @@
+- 基原:
+	-  繖形科 (Umbelliferae；Apiaceae) 植物
+	-  茴香 *Foeniculum vulgare* Mill. 
+-  產地:
+	-  原產於地中海沿岸與東南亞 
+-  使用部位:
+	-  乾燥成熟果實 
+-  性味、歸經:
+	-  溫，辛
+	-  歸肝、腎、脾、胃、膀胱經
+- 功用主治:
+	1. 溫中開胃，下食止嘔 
+	2. 暖肝腎。治寒疝陰腫、腳氣
+- 成分:
+	- ==Volatile oil== (3~8%): 
+		- ==Anethole== (50~60 %)、 Estragole、 Anisaldehyde、*d*-Fenchone、*d*-Limonene、*d*-α-Pinene、 Camphene、Cineol 等 
+	- Fatty acids:
+		-  Petroselic acid、Linoleic acid 
+	-  Coumarins:
+		-  7-Hydroxycoumarin、6, 7- Dihydroxycoumarin 
+	-  Flavonoids:
+		-  Quercetin 3-O-β-glucuronide、 Isoquercetin 等
+- 藥理研究: 
+	-  Anethole: 
+		- 具有中樞抑制及血管擴張作用， 可使神經肌呈箭毒(Curare) 樣麻痺而減弱其興奮性 
+	-  精油可刺激味覺神經末梢，反射性地使唾液及胃液分泌增加，並由嗅覺傳達愉快感 
+	-  具消化道運動亢進、抗消化性潰瘍、利膽 、鎮咳、降血壓及抗氧化等作用
+- 炮製:
+	- 加酒炒黃
+	- 或鹽水炒 
+- 禁忌:
+	- 多食損目發瘡
+- 配伍:
+	-  治疝氣與荔枝核、川楝子同用 
+-  運用方劑:
+	-  還少丹、安中散

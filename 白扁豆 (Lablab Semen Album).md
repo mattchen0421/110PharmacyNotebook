@@ -1,0 +1,42 @@
+#中藥藥物學
+- 基原:
+	- 豆科(Leguminosae ; Fabaceae) 植物 
+	- 扁豆 *Dolichos lablab* L. 
+- 產地:
+	- 中國各地均產 
+- 使用部位: 
+	- 乾燥成熟種子 
+- 性味、歸經: 
+	- 微溫，甘
+	- 歸脾、胃經 
+- 功用主治:
+	- 調脾暖胃，專治中宮之病。治暑濕腹瀉、能解酒毒
+- 成分: 
+	- ==Flavone glycosides==:
+		- 3,7-Dihydroxy-5,6-dimethoxyflavone-7-O-α-L- rhamnosyl-(1→3)-O-β-D-xylosyl-(l→4)-O-β-D-galactoside (A) 
+	- ==Saponin==:
+		- Lablabosides A~F、Chikusetsusaponin IVa ;
+	- 生物鹼:
+		- 葫蘆巴鹼 (Trigonelline) 
+	- 脂肪油: 
+		- Linoleic acid (58%)、Stearic acid (11 %) 
+	- 其他: 
+		- Starch (50%) 、Protein (2.3%) ，
+		- 如 ==Dolichin==; 胺基酸、Vitamins Bl & C 及 Carotene
+-  藥理研究:
+	- 白扁豆煎劑: 對痢疾有抑制作用 
+	- 白扁豆: 對食物中毒引起之嘔吐、急性胃腸炎有緩解之作用 
+	- 3,7-Dihydroxy-5,6- dimethoxyflavone-7-Oα-L-rhamnosyl-(1→3)- O-β-D-xylosyl-(l→4)-Oβ-D-galactoside (A): 對 Bacillus coagulans、Staphylococcus aureus 、 Escherichia coli 及 Pseudomonas aeruginosa 具有良好之抑制效果
+	- Saponins mixture: 具 Ajuvant activity (免疫佐劑活性)
+	- 白扁豆多醣: 具抗氧化活性，對超氧陰離子和羫基自由基有清除 作用
+	- Dolichin: 抗菌蛋白對鐮刀黴菌、絲核菌具抗菌作用
+- 炮製:
+	- 連皮炒研用，亦有浸去皮及生用者 
+- 禁忌:
+	- 多食壅氣 
+- 配伍:
+	- 常配人參、白朮、茯苓等，有健脾止瀉之功 
+- 運用方劑:
+	- 香薷飲、縮脾飲
+- 其他:
+	- 白色新月形隆起種阜, 習稱==白眉==

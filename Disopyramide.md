@@ -1,0 +1,6 @@
+- anti cholinergic blockade
+	- + digitalis glycoside
+- Negative iontropic effect
+	- 減緩心臟收縮力
+	- 降低心臟負荷
+	- 治療肥厚型阻塞性心肌病變 cardiomyopathy

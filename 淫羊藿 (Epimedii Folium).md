@@ -1,0 +1,29 @@
+- 基原:
+	- 小蘗科 (Berberidaceae) 植物
+	- 淫羊藿 *Epimedium brevicornu* Maxim. 
+	- 箭葉淫羊藿 *E. sagittatum* (Siebold. et Zucc.) Maxim.
+	- 鮮淫羊藿 *E. koreanum* Nakai 
+- 產地:
+	- 主產於中國陝西、山西、河南、廣西 
+- 使用部位:
+	- 乾燥葉
+- 性味、歸經: 
+	- 溫，甘、辛
+	- 歸肝、腎經 
+- 功用主治:
+	1. 補腎陽。治絕陽不興、絕陰不產 
+	2. 堅筋骨。治冷風勞氣、四肢不仁
+- 成分:
+	- ==類黃酮 (Flavonoids)==
+	- 淫羊藿地上部含類黃酮 Icariin (淫羊藿苷)等
+- 藥理研究:
+	- 治療關節炎、更年期高血壓及相關癱瘓病症 
+	- Icariin 屬 Phytoestrogen，作用在 Estrogen receptor；也可提高腦部 Monoamine oxidase A/B 活性以及增加腦血循環而改善憂鬱症 
+	- Total flavones: 具治療骨質疏鬆作用
+- 炮製:
+	- 採地上部分，羊脂拌炒 
+- 禁忌:
+	- 陰虛火旺者不宜 
+- 配伍:
+	- 山藥為使
+	- 得酒良

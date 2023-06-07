@@ -1,0 +1,9 @@
+- Recepptor stimulation: β1 > β2 >>> α1
+- β1 stimulation  
+	- ↑ (HR & contractility)
+	- ↑ (CO & SBP)
+- Clinical Use:
+	- Acute management of refractory CHF 鬱血性心臟衰竭
+- Side effects:
+	- Cardiac arrhythmia
+	- Tachycardia

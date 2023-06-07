@@ -1,0 +1,41 @@
+#中藥藥物學
+- 臺灣中藥典含量測定: Ginsenosides R<sub>b1</sub>
+- 基原:
+	- 桔梗科 (Campanulaceae )植物 
+	- 黨參 *Codonopsis pilosula* (Franch.) Nannf. (東黨、潞黨)
+	- 素花黨參 *C. pilosula* Nannf. var. modesta (Nannf.) L.T.Shen (西黨)
+	- 川黨參 *C. tangshen* Oliv. (條黨)
+- 產地:
+	- 東黨為野生品，主產於黑龍江、吉林、遼寧 
+	- 潞黨為栽培品，主產於山西、河南 
+	- 西黨主產於甘肅、陝西、四川及西北部 
+	- 條黨主產於四川、湖北及陝西
+- 使用部位: 
+	- 乾燥根 
+- 性味、歸經: 
+	- 平，甘
+	- 歸脾、肺經 
+- 功用主治: 
+	- 補中益氣、和脾胃、除煩渴。治中氣虛
+- 成分: 
+	- 苯丙烷苷 (phenylpropanoid glycosides): 
+		- Tangshenosides I~IV (黨參苷 I~IV) 、Syringin 
+	- ==三萜類 (triterpenoid)==:
+		- Friedelin 、Taraxerol 
+	- ==固醇類 (steroid)==:
+		- α-Spinasterol、α-Spinasterol-β- D-glucopyranoside 
+	- 生物鹼 (alkaloids): perlolyrine、Choline 、n- Butyl allophanate 
+	- 醣類、多醣類 
+	- 17 種胺基酸
+- 藥理研究:
+	- 抽提物可藉由抑制 Phosphodiesterase 的作用，使細胞內 cAMP 增加，而具有抗冠狀動脈疾病效果 
+	- 抽提物具有增強 T 淋巴球的活性，而達到免疫刺激效果 
+- 炮製:
+	- 挖取根，切片，曬乾用
+- 禁忌:
+	- 實熱證忌服 
+- 配伍:
+	- 不宜與藜蘆同用 
+- 運用方劑:
+	- 功用可代人參
+	- 四君子湯、理中湯、 人參養榮湯

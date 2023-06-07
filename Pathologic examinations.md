@@ -1,0 +1,9 @@
+- 活體組織大體檢查(Gross examination) 
+- 活體組織切片病理檢查(Histopathologic examination)
+- 冷凍組織切片檢查(Frozen diagnosis)
+- 細胞學檢查(Cytologic examination)
+- 電子顯微鏡檢查(Electromicroscopic examination) 
+- 屍體解剖(Autopsy) 
+- 分子病理檢查(Molecular pathology) 
+	- fluorescence in situ hybridization for Her2/neu amplification
+- 免疫組織化學與免疫螢光檢查 (Immunohistochemistry and immunofluorescence)

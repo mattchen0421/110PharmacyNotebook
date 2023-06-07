@@ -1,0 +1,12 @@
+---
+aliases: Intra-arterial
+---
+- Injected directly into an artery. 
+- CAREFUL!! Easy to miss an artery and cause serious damage to nerves 
+- Applications 
+	- Diagnostic agents such as radiopaque media
+		- e.g., Oxilan 
+	- Perfusion of an antineoplastic drug 
+		- e.g., cisplatin 
+- Disadvantages 
+	- A surgical procedure may be required to reach the artery

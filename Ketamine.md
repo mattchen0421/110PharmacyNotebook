@@ -1,0 +1,14 @@
+- S-(+) > R-(-)
+- 部分水溶性和高度脂溶性
+	- 作用迅速
+- 具有顯著的鎮痛作用
+- 被稱為"分離式麻醉劑 dissociative anesthetic"
+	- 患者的眼睛保持睜開（僵直狀態）
+	- 不失去意識
+	- 產生幻覺
+- ==MOA==
+	- 抑制 NMDA (glutamate, excitatory) Receptor 
+- ==有心臟興奮作用（增加血壓，心輸出量）==
+- + [[Benzodiazepines (Midazolam, Lorazepam, Diazepam)]] 
+	- 降低 CNS 副作用
+- 可以靜脈、肌肉注射、口服、直腸給藥、硬膜外給藥。對智力障礙或兒科患者非常有用

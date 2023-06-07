@@ -1,0 +1,16 @@
+- Hypertension: 
+	- 1st line of agent
+- Angina pectoris 
+	- not in vasospastic
+- Myocardia infarction 心肌梗塞 Prophylaxis: 
+	- Prevent reinfarction and Prevent ventricular fibrillation
+- Cardiac arrhythmias: 
+	- Class II type of agent – Propranolol
+- Congestive Heart failure
+- Pheochromocytoma
+- Hyperthyroidism: T4 - T3 + sympathetic symptoms
+- Migraine
+- Anxiety: 
+	- social phobia
+- Essential Tremor
+- Glaucoma

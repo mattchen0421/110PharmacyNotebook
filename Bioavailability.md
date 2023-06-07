@@ -1,0 +1,15 @@
+---
+aliases: 生體可用率
+---
+- Bioavailability is the fraction of administered drug that reaches the systemic circulation
+- defined as the amount of drug that actually makes it to the intended downstream target 
+- $\mathrm{F} = \frac{f_{(oral)}}{f_{(iv)}}$
+- Factors influencing bioavailability 
+	- [[First-pass effect|First Pass Effect]] 
+	- Route of administration 
+	- Lipid solubility of the drug 
+	- Blood flow at the administrations
+	- Chemical instability
+	- Nature of the drug formulation
+- Therapeutic equivalence
+	- Two similar drugs are therapeutically equivalent if they have comparable efficacy and safety

@@ -1,0 +1,14 @@
+- 專一 Class III 藥物
+	- 高選擇性 blocker of K<sup>+</sup> channels
+	- 容易造成 Afterdepolarization (Torsade de pointes)
+		- early type
+- 效果 $\propto$ $\frac{1}{K^+ 濃度}$
+	- 低血鉀 Hypokalemia
+		- 利尿劑
+		- 效果上升
+		- Torsade de pointes
+	- 高血鉀 Hyperkalemia
+		- 大範圍燒燙傷
+		- 效果下降
+## 副作用
+- Torsades de points 心律不整

@@ -1,0 +1,36 @@
+#中藥藥物學
+- 基原:
+	- 百合科 ( Liliaceae ) 植物
+	- 麥冬 *Ophiopogon japonicus* (L.f.) Ker Gawl. 
+- 產地:
+	- 主產中國四川、浙江、湖北等地 
+- 使用部位:
+	- 鬚根上的乾燥小塊根 
+- 性味、歸經: 
+	- 微寒，微苦、甘
+	- 歸肺、心、胃經
+- 功用主治:
+	1. 潤肺益精。治肺痿、客熱虛勞、脈絕短氣 
+	2. 清心除煩
+- 成分:
+	- ==Saponin glycosides==:
+		- Ophiopogonins A-D 、B'-D' 
+	- Flavonoids:
+		- Ophiopogonones A&B (麥冬黃酮 A&B) Methylophiopogonones A&B 、Ophiopogonanone A 、 Methylophiopogonanones A&B 、Isoophiopogonone A 、 Desmethylisoophiopogonones A&B
+	- ==Sterols==:
+		- Stigmasterol、β-Sitosterol、β-Sitosterol-3-O-β- D-gJucoside 
+	-  Saccharides 及 Oligosaccharides (寡酸類)
+- 藥理研究:
+	- Ophiopogonins: 
+		- 增加心收縮力心輸出及 抗心律不整作用
+	-  Ophiopogonin D: 
+		- 具抗發炎作用 
+- 炮製:
+	-  挖取小塊根，去心，曬乾用或酒浸用
+- 禁忌:
+	- 氣虛胃寒人忌用 
+- 配伍:
+	- 地黃、車前為使。
+	- 惡款冬花、苦參、青葙、 木耳 
+- 運用方劑:
+	- 麥門冬湯、甘露飲、炙甘草湯

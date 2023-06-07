@@ -1,0 +1,35 @@
+#中藥藥物學
+- 基原:
+	- 茜草科 (Rubiaceae ) 植物 
+	- 巴戟天 *Morinda officinalis* F.C.How 
+- 產地:
+	- 主產於廣東、廣西、福建、江西，四川等地 
+- 使用部位: 
+	- 乾燥根 
+- 性味、歸經:
+	- 微溫，甘、辛
+	- 歸腎、肝經
+- 功用主治: 
+	1. 補腎陽。治陽萎遺精、宮冷不孕、月經不調、少腹冷痛
+	2. 散風濕。治腳氣水腫、風濕痺痛、筋骨萎軟 
+- 成分:
+	- Anthraquinones:
+		- 1,6-Dihydroxy-2,4-dimemoxyanthraquinone、==Rubiadin== (甲基異茜草素)、1-Hydroxy-2- methoxy-anthraquinone、Physcion (大黃素甲醚)等 
+	- Iridoid glycosides:
+		- Monotropein (水晶蘭苷)、 Morindolide、Asperuloside 、Tetraacetate 、 Morofficinaloside 等
+	- ==Oligosaccharides==:
+		- Nystose (耐斯糖)、Inulin-type hexaoside 和 heptaoside 等 
+	- 其他:
+		- Officinalisin (巴戟天素)
+- 藥理研究:
+	- 具有抗抑鬱、提高機體機能、增強免疫、促進骨骼生長等作用。
+	- 抗抑鬱活性成分可能是Inulin-type hexaoside 和 heptaoside 
+- 炮製:
+	- 取根如連珠，擊破中紫而微有白粉色者去心，酒浸，烙用。
+- 禁忌:
+	- 陰虛火旺及濕熱內盛者不宜服用 
+- 配伍:
+	- 覆盆子為使
+	- 惡丹參 
+- 運用方劑: 
+	- 還少丹、巴戟丸

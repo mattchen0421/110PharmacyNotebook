@@ -1,0 +1,13 @@
+- Extemporaneous compounding is rare 
+- Vehicle generally sterile isotonic solutions 
+- Filtration (0.45 – 1.2 mm) 
+- Sterilization similar to parenterals 
+	- 115 $\degree$C, 30 min or 121 $\degree$C, 15 min 
+	- 0.22 mm filter membrane + aseptic technique 
+- Staphylococcus (葡萄球菌) the most frequent contaminant 
+- Packaging: mostly polyethylene/propylene containers, rarely glass type I
+## Cautions
+- Ophthalmic solutions should be made extemporaneously only if: 
+	- There are no available commercial product alternatives 
+	- The pharmacist possesses the appropriate knowledge and technique 
+	- The necessary equipment and supplies are available to make sterile solutions

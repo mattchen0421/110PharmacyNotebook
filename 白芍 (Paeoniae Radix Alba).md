@@ -1,0 +1,39 @@
+#中藥藥物學
+- 臺灣中藥典含量測定: Paeoniflorin
+- 基原:
+	- 毛茛科 (Ranunculaceae) 植物
+	- 芍藥 *Paeonia lactiflora* Pall.
+- 產地:
+	- 主產於是浙江、安徽、四川、山東等地
+- 使用部位:
+	- 乾燥根
+- 性味、歸經:
+	- 微寒，酸、苦
+	- 歸肝、脾經
+- 功用主治 
+	1. 養血斂陰。治肝血不足、婦人胎產及一切血病 
+	2. 緩中止痛。治脾虛腹痛、心疼脅
+- 成分:
+	- ==單萜苷類 (Monoterpenoids)==
+		- Paeoniflorin (芍藥苷)、Albiflorin (白芍苷)、 Oxypaeoniflorin、Benzoylpaeoniflorin、Paeoniflorigenone (芍藥酮)等 
+	- 三萜類、類黃酮、Gallotannin (沒食子單寧)、 β-Sitosterol、Inositol (肌醇) 及多醣等化合物
+- 藥理研究 
+	-  免疫調節及神經保護作用 
+	- Paeoniflorin: 神經保護、抗發炎、抗痙攣、抗膽鹼、鎮靜、抑制血栓形成作用 
+	- Paeoniflorin 及 Debenzoylpaeoniflorin: 降血糖作用
+- 炮製:
+	- 夏、秋收之，除去外皮水煮後曬乾用 
+	- 炒白芍:
+		- 置鍋內炒黃 
+	- 酒白芍:
+		- 黃酒噴淋後再炒 
+	- 土炒白芍:
+		- 伏龍肝細粉炒
+- 禁忌:
+	- 寒瀉冷痛忌用
+- 配伍:
+	- 惡芒硝、石斛。
+	- 畏鱉甲、小薊。
+	- 反藜蘆
+- 運用方劑:
+	- 芍藥湯、芍藥甘草湯

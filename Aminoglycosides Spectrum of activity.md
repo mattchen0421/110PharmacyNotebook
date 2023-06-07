@@ -1,0 +1,10 @@
+- **G-(-)**
+	- 廣泛，包含 P. aeruginosa
+- **G-(+)**
+	- 配合 b-lactam, glycopeptides
+- **anaerobes**
+	- 極小
+- **Nocardia, certain rapid-growing mycobacteria, gentamicin-resistant G-(-) bacilli**
+	- amikacin
+- **multidrug-resistant tuberculosis, tularemia, and Yersinia infection**
+	- streptomycin

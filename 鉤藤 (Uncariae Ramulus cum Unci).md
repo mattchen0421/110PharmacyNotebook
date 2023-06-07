@@ -1,0 +1,30 @@
+- 基原
+	- 茜草科 (Rubiaceae)植物
+	- 鉤藤 Uncaria rhynchophylla (Miq.) Jacks.
+	- 大葉鉤藤 U. macrophylla Wall.
+	- 華鉤藤 U. sinensis (Oliv.) Havil.
+	- 台灣鉤藤 U. hirsuta Havil.
+- 產地
+	- 鉤藤主產於廣西、江西、湖南、浙江、福建等
+	- 台灣鉤藤分佈於台灣、廣西、貴州、廣東
+- 使用部位
+	- 乾燥帶鉤莖枝
+- 性味、歸經
+	- 微寒,甘; 歸心、心包、肝經
+- 功用主治
+	1. 平肝風。治頭旋目暈,小兒驚啼瘈痰(ㄑㄧㄣㄗㄨㄥ`)(抽風)
+	2. 除心熱、發斑疹
+- 成分
+	- 鉤藤含 ==Indole alkaloids==: 
+		- Rhynchophylline (鉤藤鹼)、Isorhynchophylline(異鉤藤鹼)、Corynoxeine(去氫鉤藤鹼)、Corynantheine、Hirsutine(毛鉤藤鹼)、Hirsuteine 等
+- 藥理研究
+	- Rhynchophylline、Isorhynchophylline 及 Hirsutine 等具有降血壓、血管鬆弛、抗心律不整、保護腦缺氧及安神作用
+	- 具抗癲癇作用
+- 炮製
+	- 採帶鉤嫩枝,去葉,切段,曬乾備用
+- 禁忌
+	- 氣虛者忌服; 無火者不宜服用
+- 配伍
+	- 與天麻、全蠍相須
+- 運用方劑
+	- 鉤藤湯、鉤藤散、抑肝散

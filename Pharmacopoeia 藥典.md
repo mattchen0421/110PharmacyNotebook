@@ -1,0 +1,15 @@
+- Pharmacopeia: a book containing a compilation of pharmaceutical products with their formulas and methods of preparation 
+- ChP中華藥典:
+	- Chinese Pharmacopoeia (ChP 9, 2021) 
+- USP-NF 美國藥典-美國國民處方集:
+	- United States Pharmacopoeia - National Formulary (USP-NF 2023, May 2023) 
+	- Monographs for drug substances and preparations 
+	- National Formulary:
+		- Excipient monographs 
+- BP英國藥典:
+	- British Pharmacopoeia (BP2023) 
+- EP 歐洲藥典:
+	- European Pharmacopoeia (EP 11, 2022) 
+- JP 日本藥典:
+	- Japanese Pharmacopoeia (JP 18, 2022) 
+- A monograph includes the name of the ingredient or preparation; the definition; packaging, storage, and labeling requirements; and the specification. The specification consists of a series of tests, procedures for the tests, and acceptance criteria

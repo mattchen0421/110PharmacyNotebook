@@ -1,0 +1,11 @@
+---
+aliases: Intravenous
+---
+- instantaneous systemic response and moment-by-moment control of dosage 
+- Drugs that are relatively irritating when given orally, intramuscularly, and subcutaneously can often be tolerated intravenously 
+- Large volumes of fluids containing essential electrolytes and nutrient substances can only be administered intravenously 
+- Generally restricted to solutions. 
+- Administration of the solution must be over a sufficient period to allow the drug to mix freely with the blood 
+	- Phlebitis (靜脈炎) and Thromboembolism (血栓[[栓塞 (embolism)|栓塞]]) 
+- Drug that cause hemolysis of red blood cells or precipitation of protein must not be given intravenously.
+	- E.g., anti-malaria drugs (quinolones), sulfonamides, [[nitrofurantoin]], arsenic, etc

@@ -1,0 +1,6 @@
+- azo dyes偶氮, containing the sulfonamide functional group
+- Prontosil 
+	- protect against streptococcal infection in mice
+	- [[prodrug]]
+	- in vitro: inactive![[Pasted image 20230314093817.png]]
+-

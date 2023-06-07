@@ -1,0 +1,12 @@
+- side chain basic amine $\rightarrow$ five-member heterocyclic ring
+- R<sub>2</sub> is a hydrogen (imipenem)
+	- substrate for renal dehydropeptidase-1 (DHP-1)
+	- hydrolysis
+- R2 is a R methyl, 
+	- stable to DHP-1
+- 環上的 S 被置換成 C 
+	- 增加對 transpeptidase 和 ß-lactamase 的反應性
+- C5 C6 trans 和 C6 hydroxyethyl
+	- ß-lactamase 穩定性
+- 四個以上不對稱中心
+![[Pasted image 20230426113534.png]]

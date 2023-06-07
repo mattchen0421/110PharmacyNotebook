@@ -1,0 +1,28 @@
+- 基原
+	- 唇形科(Labiatae ; Lamiaceae)植物
+	- 薄荷Mentha haplocalyx Briq.及同屬近緣植物
+- 產地
+	- 原產於地中海國家及歐洲
+- 使用部位
+	- 乾燥地上部分
+- 性味、歸經
+	- 涼，辛
+	- 歸肺、肝經
+- 功用主治
+	- 宣散風熱。治頭痛頭風、痰嗽口氣、眼耳咽喉口齒諸病、皮膚癮疹、小兒驚熱
+- 成分
+	- Essential oils (1.5-4%): 
+		- *l*-Menthol (主要)、Menthyl acetate、*l*-Menthone、1,8-Cineole、ß-Caryophynene、*l*-Limonene、Isomenthone、Piperitone、Germacrene D、Pulegone、Carvone 等
+- 藥理研究
+	- Menthol具有亢進胃腸管運動、刺激中樞神經系統、弛緩末稍血管和發汗作用。塗佈於皮膚可浸透，具有改善局部循環的作用
+	- 薄荷油 Peppermint oil (Mentha piperita)中所含成分 *l*-Menthol、Menthone 及 Neomenthol 對非病原性及出血性大腸桿菌有抗菌活性
+	- 局部刺激、局部麻醉、鎮痙、驅風以及驅蟲作用
+- 炮製
+	- 取地上部分，洗淨，陰乾用
+- 禁忌
+	- 虛人不宜多用，泄人元氣
+- 配伍
+	- 與桑葉相須
+- 運用方劑
+	- 蒼耳散、銀翹散、桑菊飲
+

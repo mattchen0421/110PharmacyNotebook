@@ -1,0 +1,36 @@
+- 基原
+	- 繖形科(Umbelliferae; Apiaceae)植物
+	- 防風 _Saposhnikovia divaricata_ (Turcz.) Schischk.
+- 產地
+	- 主產於中國東北各省。以黑龍江產量最大。其他如內蒙古、河北、陕西、雲南、山東、湖北、四川等地亦產
+- 使用部位
+	- 乾燥根
+- 性味、歸經
+	- 微溫，辛、甘
+	- 歸膀胱、肝、脾經
+- 功用主治
+	- 祛風勝濕。治頭痛目眩、脊痛項強等膀胱經證、散目赤瘡瘍
+- 成分
+	- 油脂及揮發油:
+		- 主要含 Linoleic acid ethyl ester, 9,12- Octadecadienoic acid、Apiole、Falcarinol 等
+	- ==Coumarins==: 
+		- Psoralen、Bergapten 等
+	- Chromones: 
+		- Hamaudol、Cimifugin、Divaricatol 等
+	- 多醵類：
+		- Saponikovans A-C 等
+- 藥理研究
+	- 具抗氧化、解熱、鎮痛、抗發炎、抗痙攣及抑制瘤細胞生長作用
+	- Hamaudol 及 Divaricatol 具鎮痛作用
+- 炮製
+	- 挖取黃潤根，曬乾用
+- 禁忌
+	- 非風寒濕邪所致之頭痛、泄瀉忌用
+- 配伍
+	- 畏萆薢
+	- 惡乾薑、白斂、芫花
+	- 殺附子毒
+- 運用方劑
+	- 荊防敗毒散
+		- 消風散發汗解表、散風祛濕
+	- 防風通聖散

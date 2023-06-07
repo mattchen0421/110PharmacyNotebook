@@ -1,0 +1,41 @@
+- 基原
+	- 豆科（Leguminosae ; Fabaceae ）植物
+	- 野葛 Pueraria lobata (Willd.) Ohwi
+	- 甘葛藤 *P. thomsonii* Benth
+- 產地
+	- 多為栽培，台灣產品質優，產量多，己能自給自足
+- 使用部位
+	- 塊根
+	- 野葛除去周皮之乾燥根
+- 性味、歸經
+	- 平，辛、甘
+	- 歸脾、胃經
+- 功用主治
+	1. 解肌發表。治頭痛項強
+	2. 鼓胃氣升陽。治腸風痘疹，為**脾胃虛弱、泄瀉之聖藥**
+	3. 葛花解酒毒
+- 成分
+	- Starch: 
+		- 10~ 15 
+	- ==Isoflavonoids==: 
+		- Daidzein (大豆苷元)、Daidzin (大豆苷)、 Pucrarin (葛根素)、Puemrin-7-*O*-xyloside (葛根素-7-木糖苷)、Genistein、Formononetin 等
+	- 其他：
+		- Allantoin、*d*-(+)-Pinitol、Acetylcholine 
+- 藥理研究
+	- 所含總異黃酮(Total isoflavones)具有改善心血管與腦血管系統的作用
+	- 葛根素Puerarin具有阻斷乙型腎上腺素受器(ß-adrenoreceptor)的作用，可抑制心搏過速 (Tachycardia)、降血壓及降眼內壓
+	- 葛根素Puerarin具促進心肌梗塞區域之血管新生作用 (Angiogenesis) )可防止心肌梗塞之惡化
+	- 大豆苷Daidzin具選擇性抑制粒線體乙醛去氫酶 (Mitochondrial aldehyde dehydrogenase)之活性
+		- 可抗酒精中毒
+	- 葛根素Puerarin具有改善低血糖症(Hypoglycemia)和降低膽固醇的效用 
+- 炮製
+	- 挖取根，曬乾，解熱用。麩製，補胃氣
+- 禁忌
+	- 血虚頭痛忌服。多用反傷胃氣
+- 配伍
+	- 與黃苓相須
+- 運用方劑
+	- 葛根湯、葛根黃連黃苓湯、柴葛解肌湯
+- 其他
+	- *lobata*: 淺裂的，指葉形
+

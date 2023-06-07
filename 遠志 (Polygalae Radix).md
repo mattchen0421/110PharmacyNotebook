@@ -1,0 +1,33 @@
+- 基原
+	- 遠志科（Polygalaceae）植物
+	- 遠志 Polygala tenuifolia Willd.或
+	- 卵葉遠志 P.sibirica L.
+- 產地
+	- 主產於中國東北、華北、西北等地。以==山西、陕西==產量最大。
+- 使用部位
+	- 根。
+- 性味、歸經
+	- 溫，苦、辛
+	- 歸心、肝、腎經。
+- 功用主治
+	1. 強志益智、聰耳明目、利九竅。治迷惑善忘、驚悸夢洩、腎積奔豚。
+	2. 辛散鬱。治一切癰疽。
+- 成分
+	- ==皂苷==：
+		- Onjisaponins A～G，與同屬美遠志P．senega根均含 Tenuifolin；
+	- β-Carboline 類生物鹼：
+		- 如 Perlolyrine；
+	- 其他：
+		- Polygalitol（1,5-Anhydromannitol）、桂皮酸、Xanthone 類等。
+- 藥理研究
+	- 抗發炎，抑制IL-1及TNF-a釋放。
+	- 抑制 Acetylcholinesterase活性，此可能與增強記憶有關。
+- 炮製
+	- 挖取根，去心，甘草水浸一宿用。
+- 禁忌
+	- 性溫，實火者忌服。
+- 配伍
+	- 得茯苓、龍骨良。
+	- 畏真珠、藜蘆。
+- 運用方劑
+	- 孔聖枕中丹、天王補心丹、妙香散。

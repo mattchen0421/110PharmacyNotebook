@@ -1,0 +1,26 @@
+- Sterility(無菌):
+	- Absence of life or absolute freedom from biological contamination; 
+	- therefore, a product or device is either sterile or it is contaminated
+- Asepsis(無菌): 
+	- freedom from organisms which produce sepsis(敗血症); 
+	- therefore, an aseptic technique does not necessarily imply a sterile technique
+- Sterilization(滅菌):
+	- ==Inactivation== or ==elimination== of all viable organism and their spores
+- Vegetative cell(有繁殖能力的細胞): 
+	- Bacterial cell ==capable of multiplication== (as oppose to spore form which cannot multiply). 
+	- ==Less resistant== than the spore form
+- Spore(芽胞):
+	- Body which some species of bacteria form within their cells which is considerably more resistant than the vegetative cell
+- Disinfectant(消毒劑): 
+	- Substance used on ==non-living== objects to render them non-infectious; kills vegetative bacteria, fungi, viruses but ==Not Spores==.
+	- e.g. Formaldehyde
+- Bactericide (Germicide, 殺菌劑): 
+	- Substance that kills vegetative bacteria and some spores. 
+	- e.g. active chlorine, surfactants
+- Bacteriostat(抑菌劑): 
+	- Substance which stops growth and multiplication of bacteria but does not necessarily kill them.
+	- Growth usually resumes when bacteriostat is removed.
+	- e.g. sodium azide
+- Antiseptic(防腐劑):
+	- Substance used to ==prevent multiplication of microorganism== when applied to living systems.
+	- An antiseptic is bacteriostatic in action but not necessarily bacteriocidal

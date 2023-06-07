@@ -1,0 +1,37 @@
+- 基原
+	- 繖形科(Umbelliferae : Apiaceae)植物
+	- 白芷 *Angelica dahurica* (Hoffm.)Benth. et Hook. f. ex Franch. et Sav.
+	- 杭白芷 *A. dahurica* (Hoffm.) Benth. et Hook. f. ex Franch. et Sav. cv. 'Hangbaizhi'
+- 產地
+	- 主產於河南、河北、陕西、浙江、四川等地。
+- 使用部位
+	- 乾燥根。
+- 性味、歸經
+	- 溫，辛
+	- 歸胃、大腸、肺經。
+- 功用主治
+	1. 散風除濕。治頭面諸疾、眉稜骨痛、目痛淚出、牙痛、鼻淵、面部瘢疵。
+	2. 活血排膿、生肌止痛。治痴痘痴瘍、腸風痔漏。
+- 成分
+	- 白芷或杭白芷富含Coumarins (香豆素類)及Furocoumarins (咲喃香豆素類)成分，並含==揮發油==。
+	- ==Coumarins==: 
+		- Coumarin、Scopoletin、Cedrelopsin 等；
+	- ==Furocoumarins==:
+		- 主成分 Imperatorin (> 0.08%)
+		- Isoimperatorin、
+	- Oxypeucedanin 
+		- 少量成分 Byakangelicol, Byakangelicin、Bergapten 等
+	- 揮發油:
+		- 白芷、杭白芷分別主要為Methylcyclodecane, Nonylcyclopropane。
+- 藥理研究
+	- Furocoumarins類化合物如Byakangelicin等具有抗發炎作用, COX-2表現及PGEN的產生，並具有毒殺多種腫痛細胞之作用o
+	- Furocouniarins類成分亦具有活化脂解酶及抑制抗脂解激素的作用
+- 炮製
+	- 取色白氣香者，微炒用。
+- 禁忌
+	- 血熱有虛火者忌用。
+- 配伍
+	- 當歸為使
+	- 惡旋覆花。
+- 運用方劑
+	- 辛夷散、蒼耳散、托裏十補散。

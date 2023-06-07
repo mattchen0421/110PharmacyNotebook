@@ -1,0 +1,8 @@
+- Examples
+	-  Neostigmine, edrophonium.
+- Mechanism of Action
+	-  Inhibit acetylcholinesterase
+- Therapeutic Use 
+	- Antidote for nondepolarizing  blockers
+	- Treatment of [[myasthenia gravis]] (neostigmine)
+	- Diagnosis of [[myasthenia gravis]] (edrophonium)

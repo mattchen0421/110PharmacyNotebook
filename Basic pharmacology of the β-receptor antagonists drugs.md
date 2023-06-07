@@ -1,0 +1,9 @@
+- Decrease in Heart rate, decrease in cardiac output, decrease in force of contraction
+- Prolongs systole 
+	- synergy of contraction disturbed in ventricles
+- Not prominent in Normal persons, but in presence of sympathetic over activity (exercise, emotion)
+- Cardiac work and oxygen consumption - reduced
+- Total coronary flow reduction (aortic pressure) 
+	- subepicardial region but not subendocardial region 
+	- benefit in angina
+- Delayed AV conduction l At high doses membrane stabilizing and direct depressant action

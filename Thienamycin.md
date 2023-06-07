@@ -1,0 +1,14 @@
+- 分離至 Streptomyces cattleya
+- 5R:6S:8S
+- G-(+) 和 G-(-) 皆有效
+- 對 Pseudomonas aeruginosa 有效
+- 對 penicillins 和 cephalosporins 抗藥性菌株有效
+- 酸性和鹼性中都容易被 hydrolysis
+	- fused ring system containing endocyclic double bond
+- 易受 hydrolytic inactivation by DHP-I (renal dehydropeptidase-I) 影響
+- intermolecular reaction 而失去活性
+- 低毒性
+- 溶液中低穩定性
+- pH 6-7 最穩定
+- 體內半衰期短
+![[Pasted image 20230426114629.png]]

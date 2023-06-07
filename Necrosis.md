@@ -1,0 +1,3 @@
+- [[凝固性壞死 Coagulative necrosis]]
+- [[液化性壞死 Liquefactive necrosis]] 
+- [[乾酪性壞死 Caseous necrosis]] 

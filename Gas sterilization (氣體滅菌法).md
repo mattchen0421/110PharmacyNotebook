@@ -1,0 +1,12 @@
+- Lethal effect: 
+	- reacting with bacterial proteins. The altered metabolites are no longer available to the microorganism and so it dies without reproducing. 
+- Equipment: 
+	- Special oven, for admission of gas and humidity & hermetic 
+- Method: 
+	- Humidity of less than 20% RH 
+	- Ethylene Oxide or Ethylene Oxide-Carbon dioxide 
+	- Pressure 30 psi, Temperature 20-55 $\degree$C
+	-  Application: 
+		- Thermolabile powder plastic\\polymers ophthalmic prep. subcutaneous, vaginal inserts, plastic syringes, tubing sets 
+	- Advantages & Disadvantages: 
+		- Explosive hazard, toxic, ==Not appropriate for solution==

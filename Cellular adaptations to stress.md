@@ -1,0 +1,4 @@
+- [[肥大 Hypertrophy]] 
+- [[增生 Hyperplasia]] 
+- [[萎縮 Atrophy]] 
+- [[化生 Metaplasia]] 

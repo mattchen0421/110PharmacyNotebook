@@ -1,0 +1,3 @@
+- 真核細胞和原核細胞中的topo II enzyme皆屬於single family，其結構上主要的差異是在於：
+	- 真核細胞中topo II enzyme為一homodimeric structure
+- 原核細胞中此酵素通常稱為gyrase與DNA topoisomerase IV，而這些酵素則為A2B2的tetrameric structure。

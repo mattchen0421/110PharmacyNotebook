@@ -1,0 +1,11 @@
+- Miscibility (可混溶性):
+	-  the ability of two substances to dissolve in one another in any proportion, usually used in liquid-liquid systems 
+- Miscible:
+	-  two liquids are capable of dissolving in each other to form a single phase, irrespective of the proportions. 
+	- e.g., alcohol and water, glycerin and water, acetone and water 
+- Miscible in certain proportions:
+	- produce homogeneous systems only when mixed in certain ratios
+	- e.g., ether and water, liquid phenol and water 
+- Immiscible:
+	- practically insoluble in each other in any proportion
+	- e.g., mineral oil and water

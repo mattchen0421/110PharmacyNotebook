@@ -1,0 +1,11 @@
+- A preparation or device that either is introduced into or comes in contact with internal body compartments 
+- Purity, freedom from toxicity, freedom from contamination
+- Parenteral Products 注射製劑 
+- Ophthalmic Preparations 眼用製劑 
+- Irrigating Solutions 灌洗用溶液
+# General requirements for sterile products
+- Safety 
+- Sterility 
+- Freedom from pyrogens 
+- Clarity, particle size <50mm 
+- Stability

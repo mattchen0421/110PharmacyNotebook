@@ -1,0 +1,14 @@
+- Highly selective $\alpha$<sub>1</sub> blocker (1:1000)
+- ==Non-specific blockade of all subtypes== - α<sub>1A</sub>, α<sub>1B</sub> and α<sub>1D</sub>
+- Blockade of sympathetic vasoconstriction - fall in BP
+- ==NA is not released as α<sub>2</sub> is not blocked (only mild tachycardia)
+- Dilates arterioles more than veins 
+	- Postural hypotension is less 
+	- only 1st dose effect (dizziness and fainting)
+- Also inhibits PDE 磷酸二酯酶
+	- rise in smooth muscle cAMP 
+	- vasodilatation
+- Kinetics: 
+	- effective orally (70%), metabolized in liver and half life is 6-8 Hrs
+- Uses: 
+	- Hypertension, Raynaud's disease, BHP

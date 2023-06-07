@@ -1,0 +1,13 @@
+- C6 CH<sub>3</sub> 移除
+- 青少年牙齒的變色和斑點問題和其他四環素類藥物相比同樣低
+- 二級醇
+	- 對 dehydration 化學穩定
+- 食物和牛奶
+	- 吸收降低一半
+- fasting adults
+	- 吸收 60%-80%
+- phototoxicity 光毒性
+- 造成可逆，劑量相關 diabetes insipindus 尿崩症
+- off label use 用於治療
+	- inappropriate secretion of antidiuretic hormone 抗利尿激素不當分泌
+![[Pasted image 20230502162553.png]]

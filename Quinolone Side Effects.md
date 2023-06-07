@@ -1,0 +1,3 @@
+- tendonitis and tendon rupture
+- QT prolongation
+- 主動脈剝離或主動脈瘤風險

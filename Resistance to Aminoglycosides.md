@@ -1,0 +1,10 @@
+- 常見原因
+	- 表現 R-factor–mediated enzymes 
+		- N-acetylate (aminoglycoside acetylase \[AAC])
+		- O-phosphorylate (aminoglycoside phosphorylase \[APH])
+		- O-adenylate (aminoglycoside nucleotide)
+	- ribosomal A site 點突變
+- 影響與 rRNA 交互作用
+	- C6′ 取代
+	- protonated amino groups 數量
+	- sugar rings and the central deoxystreptamine moiety 鍵結

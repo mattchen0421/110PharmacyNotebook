@@ -1,0 +1,33 @@
+- 基原
+	- 菊科(Compositae : Asteraceae)植物
+	- 蒼耳 _Xanthium sibiricum_ Patrin ex Widder
+- 產地
+	- 生於荒坡草地或路旁，分佈大陸與臺灣各地。
+- 使用部位
+	- 果實。
+- 性味、歸經
+	- 溫，甘、苦
+	- 歸肺經。
+- 功用主治
+	- 發汗、散風濕、上通腦頂、下行足膝、外逹皮膚。治鼻淵頭痛、肢攣痺痛 痛痛瘡疥、遍身搔癢。
+- 成分
+	- 固醇類
+		- $\beta$-Sitosterol、$\beta$-Sitosterol-3-*O*-$\beta$-D-glucoside ；
+	- ==倍半萜類Sesquiterpenoids==:
+		- Xanthatin ；
+	- 生物鹼:
+		- Xanthiazone ；
+	- 長鏈脂肪醇：
+		- Ceryl alcohol CH<sub>3</sub>(CH<sub>2</sub>)<sub>24</sub>CH<sub>2</sub>OH；
+	- 果實含脂肪油約9.2%, 種仁含脂肪油約40%,
+		- 其中以Linoleic acid (64%) 及 Oleic acid (26%) 最多。
+- 藥理研究
+	- Xanthatin具抗菌、抗真菌作用及細胞毒性。
+- 炮製
+	- 採果實，去刺，酒拌蒸。
+- 禁忌
+	- 忌豬肉。
+- 配伍
+	- 與辛夷相須。
+- 運用方劑
+	- 蒼耳散、史國公藥酒方。

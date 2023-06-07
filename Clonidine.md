@@ -1,0 +1,12 @@
+- α<sub>2</sub> agonist in the CNS (vasomotor centers of the medulla)
+- Auto-inhibition (negative feedback) of further NE release
+	- ↓ Vasoconstriction → ↓ PVR & BP
+- Clinical Use
+	- Antihypertensive 降血壓藥
+	- Treatment of drug withdrawal 藥物戒斷
+		- (opioids, EtOH, nicotine)
+- Side Effects
+	- Rebound hypertension 反彈性高血壓(if abruptly stoppong use)
+	- Sedation 鎮靜
+	- Dry mouth
+![[Pasted image 20230406122831.png]]

@@ -1,0 +1,7 @@
+- [[Human diseasesed]]
+- ⭐[[Genetic diseases]]
+- [[基因突變 (Mutation)]]
+- ⭐[[免疫疾病 (Immunological diseases)]]
+- ⭐[[過敏反應 hypersensitivity]]
+- ⭐[[Congenital immunodeficiency]]
+- [[後天性免疫缺乏症候群 (Acquired  immunodeficiency syndrome, AIDS]]

@@ -1,0 +1,8 @@
+- An increase in the rate of solution does not mean an increase in the amount of solute
+- The rate of solution depend on: 
+	- particle size of the solute:
+		- ↑ surface area ↑ rate of solution 
+	- agitation:
+		- by moving around the more concentrated solution and less concentrated solution 
+	- temperature: 
+		- ↑ temp. ↑ rate of solution

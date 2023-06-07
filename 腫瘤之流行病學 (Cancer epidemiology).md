@@ -1,0 +1,24 @@
+- 腫瘤發生率 (Incidence)，盛行率 (prevalence)，死亡率 (mortality) 
+- 幫忙了解腫瘤起源 
+- Cancer vs environmental, racial, cultural 
+- 環境因素是大部分常見的偶發性惡性腫瘤發生的主要決定因子 
+- 惡性腫瘤發生機率隨年齡而增加，大部分病例發生在 55-75歲間
+## 腫瘤診斷工具
+- **臨床診斷** 
+- **影像診斷** 
+	- 超音波 
+	- 電腦斷層攝影 (Computed tomography) 
+	- 核磁共振造影 (Magnetic resonance, MR) 
+	- 正子攝影 (Positron emission tomography) 
+- **血液檢驗** 
+	- 腫瘤抗原 ($\alpha$-Fetoprotein, $\beta$-hCG, CEA, PSA, CA-125, CA19- 9, SCC等)
+- **病理檢查** 
+	- 常規H&E染色 
+	- 細胞抹片 
+	- 腫瘤細針抽吸抹片 
+	- 免疫組織化學染色 
+	- 電子顯微鏡檢查 
+	- 分子檢查 
+		- 多酶鏈連鎖反應、FISH 
+			- [[EGFR]]基因 (肺癌)，KRAS基因 (大腸直腸癌 ) ， HER2基因 (乳癌 ) 
+		- 免疫球蛋白基因、各種腫瘤融合基因 (Fusion gene)

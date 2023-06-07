@@ -1,0 +1,37 @@
+#中藥藥物學
+- 基原:
+	- 豆科 (Leguminosae; Fabaceae) 植物
+	- 補骨脂 *Psoralea corylifolia* L
+- 產地:
+	- 主產於河南、四川、陝西、 安徽等地
+- 使用部位:
+	- 乾燥成熟果實
+- 性味、歸經:
+	- 溫，苦、辛
+	- 歸腎、脾經
+- 功用主治:
+	- 補腎壯陽。治五勞七傷，腎冷精流，腎虛泄瀉 胎墮
+- 成分: 
+	- ==Furocoumarins== (香豆精類) :
+		- 主要有 Psoralen (補骨脂素) 及 Angelicin (Isopsoralen，白芷素)。尚含 Psoralidin、Corylidin 等 
+	- ==Chalcones== (查耳酮類):
+		- Isobavachalcone、Bavachalcone 等 
+	- ==Flavonoids (類黃酮)==:
+		- Bavachin、Bavachinin、Isobavachin 等 
+	- Monoterpenoid phenols (單萜酚類) : ==Bakuchiol== (補骨脂酚)等
+- 藥理研究:
+	- 補骨脂具有收斂止瀉作用，亦可治療白斑症皮膚病 
+	- ==Bakuchiol==: 殺菌、抗氧化、抗發炎作用。長期使用具有==腎毒性==。 
+	- ==Furanocoumarin類成分==: 有致光敏感作用，用藥後在紫外光線照射下皮膚易出現色素沉著 
+	- Isobavachalcone 及 Angelicin 可明顯擴張冠狀動脈， 提高心臟功能 
+	- Psoralen 具止血作用
+- 炮製:
+	- 取果實，酒浸蒸用。外用治白癜風
+- 禁忌:
+	- 陰虛火動者不宜使用
+- 配伍:
+	- 得胡桃、胡麻良
+- 運用方劑:
+	- 七寶美髯丹、唐鄭相國方、四神丸
+- 其他:
+	- 微細網紋

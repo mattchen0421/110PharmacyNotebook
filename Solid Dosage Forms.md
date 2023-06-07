@@ -1,0 +1,5 @@
+- Powders 粉末 
+- Granules 顆粒 
+- Tablets 錠劑 
+- Capsules 膠囊
+- Mostly for [[Oral (口服用藥)|oral]], [[Rectal route|rectal]], or topical use

@@ -1,0 +1,16 @@
+- [[Oral (口服用藥)]]
+- [[Oral mucosal routes]]
+- [[Nasal route]]
+- [[Ocular route]]
+- [[Parenteral (via injection)]] 
+	- [[Intravenous (IV)|intravenous]] (靜脈), intraarterial (動脈), [[Intramuscular (IM)|intramuscular]](肌肉), [[Subcutaneous (SC)|subcutaneous]](皮下), intraperitoneal(腹腔), intraspinal, etc 
+- Skin 
+	- [[transdermal]] (or percutaneous, through unbroken skin 穿皮)
+	- epicutaneous (skin surface)
+- [[Rectal route]]
+- Vaginal 
+- [[Respiratory (Pulmonary) route]] 
+	- [[Respiratory (Pulmonary) route|inhalation]]吸入 (inhale orally or nasally to lung) 
+- Other organs/tissues 
+	- ovary (intraovarian)
+	- tumor (intratumor)

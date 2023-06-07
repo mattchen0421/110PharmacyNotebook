@@ -1,0 +1,7 @@
+- Autosomal dominant trait 體染色體顯性遺傳
+	- [[Marfan syndrome]]
+	- [[家族性高血脂症 (Familial hypercholesterolemia)]]
+- Autosomal recessive trait 體染色體隱性遺傳
+	- [[Lysosomal storage diseases]]
+- Sex-linked recessive trait 性聯隱性遺傳
+	- [[血友病 (Hemophilia)]]

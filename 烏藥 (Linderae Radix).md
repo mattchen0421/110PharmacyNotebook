@@ -1,0 +1,25 @@
+- 臺灣中藥典含量測定 : Norisoboldine (isoquinoline alkaloid)
+- 基原:
+	- 樟科 (Lauraceae) 植物 
+	- 烏藥 Lindera aggregata (Sims) Kosterm. 
+	- 白膠木 L. chunii Merr. 
+- 產地:
+	- 烏藥產於中國浙江、安徽、江西、陝西等地。台灣亦有分佈 
+	- 白膠木產於廣東、廣西 
+- 使用部位:
+	- 乾燥塊根 
+- 性味、歸經:
+	- 溫 ，辛
+	- 歸肺、脾、腎、膀胱經
+- 功用主治: 
+	- 疏胸、腹邪逆之氣
+	- 治厥逆痰壅、吐食瀉痢、小便頻數、婦人氣滯血凝
+- 成分:
+	- ==Alkaloids==:
+		- 烏藥含 Boldine、Laurolitsine、Laurotetanine、 Reticuline
+		- 白膠木含 ==Hernandine== (major)、 ==Hernandonine==、 Laurolitsine、7-Oxohernangerin、Lindechunine A 
+	- ==Volatile oil==: 
+		- 烏藥主含 Linderane、 Lindenenol 、Linderic acid、 Borneol、Linderalactone、l-α-Pinene、 2-Camphene、6-β- Phelladrene、7-Bornyl acetate
+		- 白膠木含 l-Bornyl acetate、δ-3- Carene 等 
+	- Polyphenols: 
+		- l-Epicatechin、Cinnamtannm B1、 Hesperidin

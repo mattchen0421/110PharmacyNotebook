@@ -1,0 +1,15 @@
+{
+  "attachmentFolderPath": "_images",
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en"
+  ],
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "autoPairMarkdown": true,
+  "autoConvertHtml": true,
+  "smartIndentList": true,
+  "useTab": true,
+  "livePreview": true
+}

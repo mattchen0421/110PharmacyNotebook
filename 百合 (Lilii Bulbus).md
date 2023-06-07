@@ -1,0 +1,37 @@
+#中藥藥物學
+- 基原:
+	- 百合科 ( Liliaceae ) 植物 
+	- 百合 *Lilium brownii* F.E. Brown var. viridulum Baker 
+	- 卷丹 *L. lancifolium* Thunb.
+	- 細葉百合 *L. pumilum* Redout' e 
+- 產地:
+	- 中國各地均產，以湖南、浙江產者為多 
+- 使用部位:
+	- 乾燥肉質鱗莖 
+- 性味、歸經: 
+	- 微寒，甘
+	- 歸心、肺經
+- 功用主治:
+	1. 潤肺止咳。治肺陰盛久咳 
+	2. 寧心安神。治百合病 (行住坐臥不安，如有鬼神狀)
+- 成分: 
+	- ==Steroidal glycosides (固醇苷類)==:
+		- Brownioside (百合苷)、 Deacylbrownioside (去醯百合苷)、Lililancifoloside A (卷丹皂苷 A) 等 
+	- ==Steroidal alkaloids (固醇生物鹼)==:
+		- β-Solamargine (β-澳洲茄邊鹼) 等 
+	- Phenylpropanoids:
+		- Regalosides A~F (泯江百合苷 A~F)、3,6'-O-Diferuloylsucrose (3,6'-O-二阿魏醯蔗糖)等 
+	- Phenolics:
+		- Gallic acid (沒食子酸)、p-Coumaric acid、Chlorogenic acid (綠原酸)、Catechin 、Epicatechin
+- 藥理研究: 
+	- 百合多醣 LP1、LP2: 對高血小糖小鼠有明顯降血糖功能。
+	- 百合多醣 LBPS-l: 對黑色素瘤 B16 和 Lewis 肺癌有較強之抑制作用 
+	- 細葉百合鱗莖中 Epicatechin (表兒茶素): 對超氧陰離子和自由基有良好的清除效果 
+- 炮製:
+	- 挖採取花白者肉質鱗莖葉乾燥用
+- 禁忌:
+	- 脾虛便溏者慎用 
+- 配伍:
+	- 與麥冬同用 
+- 運用方劑: 
+	- 百合固金湯、百花膏、百合地黃湯

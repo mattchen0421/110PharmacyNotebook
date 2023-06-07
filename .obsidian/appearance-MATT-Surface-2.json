@@ -1,0 +1,10 @@
+{
+  "accentColor": "#a3d7ff",
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "media-grid-snippet"
+  ],
+  "baseFontSize": 16
+}

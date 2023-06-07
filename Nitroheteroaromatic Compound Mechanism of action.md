@@ -1,0 +1,3 @@
+- [[prodrug]]
+- nitro group is ==reduced== to the active hydroxylamine or nitrogen radical
+- interferes with DNA and or RNA.

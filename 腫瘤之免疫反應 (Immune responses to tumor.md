@@ -1,0 +1,14 @@
+## 腫瘤抗原 (Tumor antigens) 
+- Tumor-specific antigen, tumor-associated antigen 
+	- Antigens resulting from mutational change in proteins: $\beta$-catenin, *RAS*, *TP53* 
+	- Overexpressed antigens: HER2/neu 
+	- Oncofetal antigens: Carcinoembryonic antigen (CEA), $\alpha$-Fetoprotein ($\alpha$-FP) 
+	- Differentiation-specific antigens: CD20, prostate-specific antigen (PSA) 
+- Antitumor effecter mechanisms 
+	- Cytotoxic T lymphocytes, natural killer cells, macrophages, humoral mechanisms 
+- 免疫監測機轉 (Immunosurvelliance) 
+	- Escape mechanisms of tumor 
+		- Selective outgrowth of antigen-negative variants 
+		- Loss or reduced expression of histocompatibility antigens 
+		- Lack of costimulation 
+		- Immunosuppression – TGF-$\beta$, Fas ligand

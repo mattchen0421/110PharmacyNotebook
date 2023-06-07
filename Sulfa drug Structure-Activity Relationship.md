@@ -1,0 +1,12 @@
+![[Pasted image 20230314095604.png]]
+- Primary amino group is essential (R<sup>1</sup> = H)
+- Amide groups (R<sup>1</sup> = acyl) are allowed
+	- inactive in vitro, but active in vivo
+	- act as prodrugs
+- Aromatic ring is essential
+- *para*-Substitution is essential
+- Sulfonamide group is essential
+- Sulfonamide nitrogen must be primary or secondary
+- The sulfonamide nitrogen must have an attached hydrogen with a pKa similar to that of PABA (~ 6.5).
+- R<sup>2</sup> can be varied
+- No additional substitution on the aromatic ring is permitted

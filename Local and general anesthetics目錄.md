@@ -1,0 +1,26 @@
+- [[疼痛感覺的傳導]]
+- [[The stages of anesthesia]]
+## [[局部麻醉劑 Local anesthetics]]
+### Ester-linked local anesthetics 
+- [[Procaine]]
+- [[Tetracaine]]
+- [[Cocaine]] 
+### Amide-linked local anesthetics
+- [[Lidocaine and Prilocaine]]
+- [[Bupivacaine]]
+- [[Articaine]]
+### [[local anesthetics 整理]]
+## [[全身性麻醉劑 General anesthetics]]
+### Inhaled general anesthetics
+- [[Ether (diethyl ether)]]
+- [[Nitrous Oxide ]]
+- [[Halothane]]
+- [[Enflurane]]
+- [[Isoflurane, Desflurane, Sevoflurane]]
+### Intravenous general anesthetics
+- [[Propofol]]
+- [[Fospropofol]]
+- [[Barbiturates (Thiopental and Methohexital)]]
+- [[Benzodiazepines (Midazolam, Lorazepam, Diazepam)]]
+- [[Etomidate]]
+- [[Ketamine]]

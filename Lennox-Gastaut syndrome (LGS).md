@@ -1,0 +1,10 @@
+- 臨床上病人有多種不同的[[癲癇 (epilepsies)|癲癇]]於一身 (又稱 myoclonicastatic epilepsy) 
+- 精神障礙 (mental retardation) 
+- 慢速之棘慢複合波 (slow spike-&-wave complexes) 
+- 治療藥物以multiple action為主： 
+	- [[Valproic acid]]  ([[Valproic acid|Depakene]]®) 
+	- [[Lamotrigine]] ([[Lamotrigine|Lamictal]]®) 
+	- [[Topiramate]] ([[Topiramate|Topamax]]®) 
+	- [[Felbamate]] ([[Felbamate|Felbatol]]®) 
+	- [[Benzodiazepines (Midazolam, Lorazepam, Diazepam)|Clonazepam]] (Klonopin®) 
+	- [[Rufinamide]] (Banzel®)

@@ -1,0 +1,31 @@
+#中藥藥物學
+- 臺灣中藥典含量測定: Adenosine
+- 基原
+	- 麥角菌科 (Clavicipitaceae) 
+	- 冬蟲夏草 *Ophiocordyceps sinensis* (Berk.) G.H. Sung, J.M.Sung, Hywel-Jones et Spatafora
+- 產地
+	- 主產於四川、青海、西藏、 雲南。以四川產量最大
+- 性味、歸經:
+	- 溫，甘 
+	- 歸肺、腎經
+- 功用主治:
+	- 保肺益腎 
+	- 治勞嗽
+- 成分: 
+	- ==多醣類 (Polysaccharides)==: 
+		- Mannoglucan (MW~7700) 
+		- CSP-1 (MW 2.1 x 105, glucose: monnose: galactose = 1: 0.6: 0.75) 
+		- Cordyglucans (β-1,3 linked D-glucan) 
+	- ==Piperazine 類生物鹼==:
+		- 3-Acetamino-6-isobutyl-2,5- dioxopiperazine (1)、6-Isobutyl-3-isopropyl-2,5- dioxopiperazine (2) 及 3,6-Di-(4-hydroxy benzyl)-2,5- dioxopiperazine (3) 
+	- 其他:
+		- Cordycepine (3'-deoxyadenosine)
+- 藥理研究:
+	- 可增加巨噬細胞之數目、吞噬能力和鹼性磷酸酶 (Alkaline phosphatase) 活性，達到==調節免疫系統==之作用 
+	- 在臨床上具有改善耳鳴、慢性腎炎、心律不整以及性功能低下的療效
+- 炮製:
+	- 夏初菌絲孢子未發散時挖取，低溫乾燥備用
+- 禁忌:
+	- 有表證忌用
+- 配伍:
+	- 肺腎氣虛者宜與蛤蚧、人參合用

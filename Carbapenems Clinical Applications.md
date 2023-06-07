@@ -1,0 +1,7 @@
+- 對 gram-negative bacilli, anaerobes, and S. aureus 有效
+- 用於治療
+	- UTIs
+	- lower respiratory infections
+	- intra-abdominal 
+	- gynecological infections
+	- skin, soft tissues, bone and joint infections

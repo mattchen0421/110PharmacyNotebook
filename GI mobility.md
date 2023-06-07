@@ -1,0 +1,6 @@
+- the drug needs sufficient time in its ‘absorption window’ for significant absorption 
+- the modified-release [[Commonly used dosage forms|dosage form]] has to release the drug before or in the absorption window 
+- the small intestine residence time is ~ 3 - 4 hours 
+- the large intestine residence time is ~20 hours or longer 
+	- modified-release forms are suitable for drugs which can be absorbed here 
+- the residence time can be decreased in disease like diarrhea

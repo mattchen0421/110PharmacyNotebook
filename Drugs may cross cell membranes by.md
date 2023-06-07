@@ -1,0 +1,4 @@
+- [[Passive diffusion​]]
+- [[Facilitated transport ​]]
+- [[Active transport​]]
+- Pinocytosis​

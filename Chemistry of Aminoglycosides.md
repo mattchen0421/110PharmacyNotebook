@@ -1,0 +1,14 @@
+- amino sugars 形成醣苷鍵
+- 至少一個 aminohexose
+- 有的 pentose 缺少 amino group
+	- [[Streptomycin 鏈絲菌素|streptomycin]], [[Neomycin 新絲菌素|neomycin]], paromomycin
+- 1,3-diaminocyclohexane central ring 被取代
+	- deoxystreptamine
+		- [[kanamycin]], [[Neomycin 新絲菌素|neomycin]], paromomycin, [[Gentamicin 紫菌素|gentamicin]], [[Tobramycin (Nebcin)|tobramycin]]
+	- streptidine
+		- [[Streptomycin 鏈絲菌素|streptomycin]]
+- 強鹼
+	- 全是硫酸鹽
+	- 在腎臟濃縮
+	- 透過 glomerular filtration 排除
+![[Pasted image 20230426235722.png]]

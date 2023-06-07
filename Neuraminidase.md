@@ -1,0 +1,4 @@
+- is found in both influenza A and B viruses and is thought to be involved in catalytically cleaving glycosidic bonds between a terminal sialic acid and an adjacent sugar
+- Cleavage of sialic acid bonds facilitates the spread of viruses and as a result increases the infectiveness or pathogenicity of the virus
+- NA appears to be involved in preventing viral inactivation by respiratory mucus and induction of cytokine elaboration
+- Viruses are bounded to the NA through the sialic acid and the NA cleaves the sialic moiety

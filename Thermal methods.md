@@ -1,0 +1,35 @@
+- the degree of ==heat==, the ==duration== of exposure, and the ==humidity==
+- ↑Temperature can ↓ duration, but the relationship is not linear. 
+- Different microorganism need different protocols
+- The mechanism by which microorganisms are killed by heat is thought to depend on the presence of moisture
+	- In the presence of moisture, death is due to the ==coagulation of the protein==
+	- In the absence of water, ==oxidation== is the primary process
+- Moist heat is more effective than dry heat in killing microorganisms, attributed to the ability of moist heat to coagulate the cell protein at a much lower temperature. 
+- Additionally, steam has a much greater thermal capacity than hot air
+## Dry Heat Sterilization 
+- tolerate temperatures higher than 120$\degree$C. 
+- Both vegetative cells and spores can be killed by exposure to ==180$\degree$C for 2 hours== or ==260$\degree$C for 45 min==. Dry heat sterilization is often carried out at 160$\degree$C to 170$\degree$C for 2 to 4 hrs
+- Equipment: Oven
+- Application: 
+	- Glassware, metalware, fixed oils, thermostable powders 
+	- Cannot be used in many drugs, rubber, plastic mate
+- Disadvantages: 
+	- Sterilization by means of heat requires higher temperatures and longer exposures than sterilization by steam. 
+	- Heat transfer is slow.
+	- Many chemicals can undergo decomposition between 120 and 260 $\degree$C
+## Steam Sterilization (Autoclaving)
+- In the presence of moisture, microorganisms are destroyed at a lower temperature than in dry heat. This is the method of choice when product can withstand such treatment. 
+- Equipment: Autoclave
+- Applications 
+	- Solutions sealed in containers ampul, vials 
+	- Bulk solutions 
+	- Supplies, including rubber closure, glassware, rubber attachments, filters, sterile room garments, etc 
+	- Instruments
+- Advantages:
+	- Rapid
+	- Inexpensive 
+	- Effective 
+	- Large volumes 
+- Disadvantages: 
+	- ==Cannot be used for oily preparation (oil base ointment)== 
+	- Cannot be used for moisture sensitive preparations or nonaqueous preparations

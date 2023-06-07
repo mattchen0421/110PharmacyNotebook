@@ -1,0 +1,8 @@
+- Central nervous system 
+- Cardiovascular system 
+- Gastrointestinal system 
+- Hematologic effect  
+- Hepatic 
+- Pulmonary 
+- Skin 
+- Renal

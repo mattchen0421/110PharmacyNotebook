@@ -1,0 +1,2 @@
+- Single-nucleotide polymorphisms (SNPs)
+- Copy number variations (CNVs)

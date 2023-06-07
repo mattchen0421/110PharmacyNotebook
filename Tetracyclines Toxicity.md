@@ -1,0 +1,6 @@
+- 可能導致 superinfections 二重感染
+	- pathogenic yeast 
+	- Candida albicans
+- 肝損傷
+	- 孕婦， 腎功能不全病患
+	- 劑量過高

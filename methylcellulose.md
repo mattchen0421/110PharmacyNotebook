@@ -1,0 +1,12 @@
+- 長鏈取代 1,4-ß-cellulose 
+- >5% gel
+	- 水合作用
+		- 0-10 °C，1小時
+	- 水合速度較慢
+		- 80-90$\textdegree$C high shear dispersion
+- 高黏度
+- Dipole-dipole interaction
+- 鹽析作用
+	- 高濃度電解質
+- 凝膠點
+	- 50°C，methylcellulose 4000

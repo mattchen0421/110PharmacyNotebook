@@ -1,0 +1,4 @@
+- [[Lidocaine and Prilocaine|Lidocaine]] 類似物
+- 口服有效
+	- 改善 [[First-pass effect]] 
+- 治療 digitalis-induced arrhythmias

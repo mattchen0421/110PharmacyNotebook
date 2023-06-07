@@ -1,0 +1,8 @@
+- Nonsteroidal anti-inflammatory drugs ([[NSAIDs]]):
+	- [[aspirin]]
+	- [[ibuprofen]]
+- Cyclooxygenase:
+	- COX-1-constitutive expressed ; 
+	- COX-2: induced by inflammatory stimuli
+- Steroid:
+	- inhibits phospholipase A<sub>2</sub>

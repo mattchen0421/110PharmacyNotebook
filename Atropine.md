@@ -1,0 +1,10 @@
+- ==Naturally occurring alkaloid== extracted from Atropa belladonna (deadly nightshade)
+- Belladonna" (“beautiful woman” in Italian): 
+	- during the Renaissance, woman applied belladonna extracts on their eyes to cause pupil dilation
+- Clinical usage
+	- ==Mydriasis散瞳 (pupil dilation) for ophthalmologic examination==.
+	- Reverse symptomatic sinus bradycardia.
+	- Inhibit excessive salivation and mucus during surgery.
+	- Prevent vagal reflexes induced by surgical trauma of visceral organs.
+	- Counteract the effects of muscarinic poisoning
+- ==Less effect on the== [[Neuromuscular junction (NMJ)|NMJ]]

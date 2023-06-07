@@ -1,0 +1,3 @@
+- Bacterial resistance to [[Sulfamethoxazole and Trimethoprim#^9137ba|trimethoprim]] is increasingly common
+- In pneumococcal infections, it can result from a single amino acid mutation (Ile100 to Leu100)
+- Overexpression of dihydrofolate reductase by *Staphylococcus aureus*

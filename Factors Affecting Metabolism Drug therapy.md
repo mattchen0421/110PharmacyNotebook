@@ -1,0 +1,6 @@
+- Genetic polymorphism
+- Physiologic factors
+- Pharmacodynamic factors
+- Environmental factors​
+- Induction of enzyme expression ​    
+- Species differences

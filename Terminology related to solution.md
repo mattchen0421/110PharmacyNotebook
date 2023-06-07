@@ -1,0 +1,15 @@
+- **solubility (溶解度)**:
+	-  The maximum amount that can be dissolved into a particular solvent to form a stable solution at a specified temperature 
+- **saturated (飽和)**:
+	-  a solution that is at the solubility limit 
+- **unsaturated (未飽和)**:
+	-  anything that is less than saturated 
+- **supersaturated (過飽和)**:
+	- a solution that contains more than the solubility limit.
+	- E.g., potassium acetate, sodium thiosulfate 
+- **dilute**:
+	- a solution that contains relatively little solute 
+- **concentrated**: 
+	- a solution that contains relatively amount of solute 
+- **aqueous solution (水溶液, aq.)**:
+	- a solution in which water is the solvent

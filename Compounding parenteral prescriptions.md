@@ -1,0 +1,8 @@
+- a reliable sterilization method that does not cause physicochemical instability
+- determine that the drug is safe in the dose prescribed if administered by injection 
+- use pyrogen-free chemically pure solvent, adjuvants and drugs 
+- avoid excessively acidic (pH < 3), alkaline (pH > 11), and otherwise toxic solvents  
+- clarify the final solution through 0.45 mm membrane or simultaneously sterilize and clarify it through 0.22 mm membrane into a sealed sterile vial under aseptic conditions 
+- package the solution in a compatible, appropriate container
+- conservatively assign the expiration date based on potential microbial growth and physicochemical stability
+- explicitly label the final product as to contents, sterility, single or multiple use container, injection route, storage conditions, lot number, and expiration date

@@ -1,0 +1,39 @@
+- 臺灣中藥典含量測定 : Evodiamine, Rutaecarpine
+- 基原:
+	-  芸香科 (Rutaceae) 植物
+	-  吳茱萸 *Euodia ruticarpa* (A.Juss.) Benth.
+	-  石虎 *E. rutaecarpa* (A.Juss.) Benth. var. officinalis (Dode) C.C. Huang 
+	- 小果吳茱萸 *E. rutaecarpa* (A. Juss .) Benth. var. bodinieri (Dode) C.C. Huang 
+-  產地:
+	- 主產於中國貴州、廣西、湖南、四川、雲南、浙江 等地
+	-  以==貴州==、==廣西==產量較大，==湖南常德質量最好==
+- 使用部位:
+	-  乾燥果實 
+-  性味、歸經:
+	-  熱，苦、辛
+	-  歸肝、脾、胃、腎經 
+-  功用主治:
+	 1. 祛風寒濕。治厥陰頭痛、腳氣水腫 
+	 2. 溫中下氣。治陰寒腹痛、嘔逆吞酸、痞滿噎膈 
+	 3. 醋調貼足心，可引熱下行。治口舌生瘡
+- 成分:
+	- ==生物鹼 Indole Alkaloids==:
+		-  Evodiamine (吳茱萸鹼)、Rutaecarpine ( 吳茱萸次鹼) 、Evocarpine (吳茱萸賓鹼)、 Dehydroevodiamine 等 
+	-  Limonoid 類:
+		-  Rutaevin (吳茱萸苦素) 
+	- 揮發成分:
+		-  ==β-Ocimene==
+- 藥理研究: 
+	-  所含生物鹼具有抗發炎、血管鬆弛 (降血壓) 及抗血栓的作用 
+	-  Evodiamine 具有抗癌作用 
+-  炮製:
+	-  泡去苦烈汁 
+	-  黃連水炒可止嘔 
+	-  鹽水炒治疝 
+	-  醋炒治血
+- 禁忌:
+	-  血虛有火者禁用 
+-  配伍:
+	-  惡丹參、硝石 
+-  運用方劑:
+	-  吳茱萸湯、左金丸、溫經湯

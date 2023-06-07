@@ -1,0 +1,8 @@
+- ==Non specific==, short acting ==reversible== $\alpha$ antagonist
+- Potent competitive antagonist at ==both 1 and 2 receptors==
+- ==Quick acting==
+- Reduction in Peripheral Resistance
+- Cardiac stimulation:
+- Enhanced NA release due to $\alpha$<sub>2</sub> blockade
+- Uses: 
+	- Pheochromocytoma嗜鉻細胞瘤, [[clonidine]] withdrawal鴉片類藥物戒斷

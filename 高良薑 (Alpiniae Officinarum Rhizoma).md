@@ -1,0 +1,41 @@
+- 臺灣中藥典含量測定 : Galangin
+- 基原:
+	-  薑科 (Zingiberaceae) 植物
+	-  高良薑 *Alpinia offinarum* Hance 
+-  產地:
+	-  主要產於廣東、廣西、海南、雲南、台灣等地。==以廣東品質佳==
+-  使用部位:
+	-  乾燥根莖 
+-  性味、歸經:
+	-  熱，辛
+	- 歸脾、胃經
+- 成分
+	- ==Diarylheptanoids==:
+		-  (5S)-5-Hydroxy-7-(4-hydroxyphenyl)-1-phenyl-3- heptanone、
+		- 7-(4"-Hydroxy-3"-Methoxyphenyl)-1-phenyl-4E-hepten-3-one 2
+	- Flavonoids:
+		-  Galangin、Kaempferide 
+	-  Volatile oil:
+		-  1,8-Cineol (50 %)、
+		- Exo-2-hydroxyl-1,8-cineole acetate (11%) 
+	- Phenylpropanoids:
+		-  (E)-p-Coumaryl alcohol γ-O-methyl ether、
+		-  (E)-p- Coumaryl alcohol 
+	- Glycosides:
+		-  l-O-β-D-Glucosyl 3-methyl-2-butenol、
+		- Chavicol β-D- gincoside、
+		- β-Sitosterol 3-O-D-6-palmitoylgfucoside
+- 藥理研究: 
+	-  7-(4"-Hydroxy-3"-methoxyphenyl)-1-phenyl-4E-hepten3-one 具抗流感病 
+	- 具有抗發炎、抗氧化、抗膽鹼作用、 抗癌、抗菌、抑制血小板凝集、抑制黑色素生成、止痛等功效 
+- 炮製:
+	-  把取根莖。切段，陳壁土炒，乾燥備用 
+- 禁忌:
+	- 肺胃熱者忌服
+- 配伍:
+	- 香附為使 
+- 運用方劑:
+	-  安中散、固下丸、良附丸
+-  其他:
+	- 果實稱「紅豆蔻」。
+	- 醒脾燥濕 ，消食解渴

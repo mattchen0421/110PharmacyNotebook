@@ -1,0 +1,6 @@
+- Adrenergic antagonists = adrenergic blockers = sympatholytic
+- Numerous adrenergic antagonists have important roles in clinical medicine, primarily to treat diseases associated with the cardiovascular system.
+- They occupy adrenergic receptors (α and β ) but do not produce signal transduction
+- Antiadrenergics Vs Adrenergic Neurone Blockers !
+- For pharmacologic research, adrenoceptor antagonist drugs have been very useful in the experimental exploration of [[Anatomy of the Autonomic Nervous System|autonomic nervous system]] function
+- Effects vary according to the drug's selectivity for and receptors

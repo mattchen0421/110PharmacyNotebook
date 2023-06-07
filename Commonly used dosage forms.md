@@ -1,0 +1,11 @@
+---
+aliases: dosage form
+---
+- [[Liquid Dosage Forms]]
+	- solutions, disperse systems (suspension, emulsion) 
+- [[Solid Dosage Forms]] 
+	- powders and granules, capsules, tablets 
+- Semi-solid 
+	- ointment, creams, gels 
+- Others 
+	- aerosols, spray, patch

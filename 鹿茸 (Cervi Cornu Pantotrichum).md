@@ -1,0 +1,36 @@
+#中藥藥物學
+- 基原
+	- 鹿科 (Cervidae) 動物 
+	- 梅花鹿 *Cerves nippon* Temmink 或馬鹿 *C. elaphus* L.
+- 產地:
+	- 台灣中南部均有畜養
+- 使用部位:
+	- 雄鹿未骨化帶絨皮之幼角
+- 性味、歸經:
+	- 溫，甘、鹹
+	- 歸肝、腎經
+- 功用主治: 
+	1. 養血助陽。治一切虛損勞傷、頭眩眼黑、崩帶遺精 
+	2. 生精補髓、強筋健骨。治腰腎虛冷、四肢痠痛
+- 成分: 
+	- 梅花鹿
+		- 總胺基酸:
+			- 含量 50.13%，
+			- 由甘胺酸 (Glycine) 、離胺酸 (Lysine)、精胺酸 (Arginine)、天冬胺酸 (Aspartic acid ) 等17 種組成。 
+		- 多胺類 Spermidine、精胺 (Spermine)、腐胺 (Putrescine)
+		- 酸性多醣 (硫酸軟骨素 A, chondroitin sulfate A) 
+		- 膽固醇 (Cholesterol) 與其酯類及衍生物 (Cholest-5-en-3- one、Cholest-5-ene-3β,7α-diol、Cholest-5-ene-3β,7β-diol 、Estradiol、Estrone)
+		- 神經髓鞘磷脂 (Sphingomyelin)、神經節苷質 (Ganglioside) 
+		- 前列腺素類 (PGE<sub>1</sub>、PGE<sub>2</sub>、PGF<sub>1α</sub>、PGF<sub>1β</sub>) 
+		- 鈣、磷、鎂等 20 種元素
+	- 馬鹿
+		- 膽固醇及其酯類 (Myristate、Oleate、 Palmitate、Stearate) 及衍生物 (Cholest-5-ene-3β,7α-diol 、Cholest-5-ene-3β,7β-diol)、Uridine、Uracil、 Hypoxanthine、肌酸酐 (Creatinine)、Nicotinic acid、p- Hydroxybenzaldehyde、及 p-Hydroxybenzoic acid 
+		- 另含==降壓成分 Lysophosphatidylcholine (LPC)==
+- 炮製:
+	- 鋸下雄鹿未骨化帶絨皮之幼角，去絨毛，酥塗，微炙，切片用
+- 禁忌:
+	- 陰虛火旺者忌服
+- 配伍:
+	- 畏大黃
+- 運用方劑:
+	- 斑龍丸、左歸丸、右歸丸

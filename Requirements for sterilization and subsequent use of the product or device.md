@@ -1,0 +1,12 @@
+- adequate sterilization treatment 
+- adequate test procedures 
+- adequately protected during storage 
+- The preparation for administration and the use of the product or device must be accomplished without the entrance of contamination
+- The process must not have a deleterious effect on the material
+- Temperature & pH
+- Oxygen
+- concentrated pharmaceutical preparations. 
+	- Exception: drugs act as bactericidal or bacteriostatic agent and, in sufficient concentrations, are self-sterilizing
+- vegetative and sensitive to heat and bactericidal agents 
+	- Exception: those form a spore or in hibernation state (休眠)
+- ==Pyrogens (熱原)== are fever producing organic substances arising from microbial contamination

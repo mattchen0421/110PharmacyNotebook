@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "c0d418621efd2b81",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f92052cecaab4d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9354dcd4f8538bfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd64aed200c9192a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "藥劑學.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6589efc538bac02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "玄學目錄.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a56515e7453a2b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6c57ff8486f0972",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c66f30df2ae26b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "049f9480cca9b1ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "f50597cf75412598",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "70ca8ef8c2c8d8d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a03f8413ce10f0e3",
+        "type": "tabs",
+        "dimension": 46.996466431095406,
+        "children": [
+          {
+            "id": "a2c411dd557c0c23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "玄學目錄.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4b3cdc35293e7278",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "玄學目錄.md"
+              }
+            }
+          },
+          {
+            "id": "5ec522b68749fbaa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "189b28045dd8e38b",
+        "type": "tabs",
+        "dimension": 53.003533568904594,
+        "children": [
+          {
+            "id": "4d934e8678499b73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "玄學目錄.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d34775c545f1da0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "canvas:Create new canvas": true,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "d6589efc538bac02",
+  "lastOpenFiles": [
+    "藥劑學.md",
+    "Homepage.md",
+    "PDF/108藥劑學期中.pdf",
+    "藥理學.md",
+    "Non-narcotic Analgesics 非麻醉性止痛藥目錄.md",
+    "NSAIDs.md",
+    "Anti-hypertensive drugs目錄.md",
+    "藥物化學.md",
+    "病理學.md",
+    "中藥藥物學.md",
+    "玄學目錄.md",
+    "README.md",
+    "110PharmacyNotebook/desktop.ini",
+    "110PharmacyNotebook/README.md",
+    "110PharmacyNotebook",
+    "Effect of temperature on viscosity.md",
+    "Viscometry.md",
+    "Flow of liquid.md",
+    "Elastic deformation.md",
+    "Rheology.md",
+    "Specific surface area.md",
+    "Colloid.md",
+    "methylcellulose.md",
+    "Hypertensive emergency.md",
+    "Fenoldopam.md",
+    "α + β blockers.md",
+    "Vasodilators.md",
+    "Ca2+ Channel blockers.md",
+    "_images/Pasted image 20230607193150.png",
+    "_images/Pasted image 20230607193140.png",
+    "_images/Pasted image 20230606003134.png",
+    "_images/Pasted image 20230605232720.png",
+    "_images/Pasted image 20230605231633.png",
+    "_images/Pasted image 20230604133430.png",
+    "_images/Pasted image 20230309000248.png",
+    "_images/Pasted image 20230603220810.png",
+    "_images/Pasted image 20230603220801.png",
+    "_images/Pasted image 20230603191327.png",
+    "PDF/藥劑期中考古.pdf",
+    "二下期中/病理/Inflammation and Repair/desktop.ini",
+    "二下期中/病理/diseases of infection/desktop.ini",
+    "二下期中/病理/Diseases of Genetics and Immunity/desktop.ini",
+    "二下期中/病理/Neoplasia/desktop.ini",
+    "二下期中/病理/Fluid and Hemodynamic Disorders/desktop.ini",
+    "二下期中/病理/Introduction/desktop.ini",
+    "未命名.canvas"
+  ]
+}

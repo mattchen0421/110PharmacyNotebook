@@ -1,0 +1,37 @@
+#中藥藥物學
+- 基原:
+	- 薯蕷科 (Dioscoreaceae) 植物
+	- 薯蕷 *Dioscorea opposita* Thunb. (D. batatas Decne.)
+	- 恆春薯蕷 *D. doryoghora* Hance 
+	- 基隆山藥 *D. japonica* Thunb. (台灣本土藥材)
+- 產地:
+	- 主產於河南、河北
+- 使用部位: 
+	- 乾燥根莖 
+- 性味、歸經: 
+	- 平，甘
+	- 歸肺、脾、腎經
+- 功用主治:
+	- 補脾肺不足、固腸胃、化痰涎。治虛損勞傷 
+- 成分: 
+	- ==Polysaccharides==:
+		- Dioscorans A-F, Dioscoreamusillage B 
+	- Other minors:
+		- Sterols ( Diosgenin 薯蕷皂元、Cholesterol 、β-Sitosterol) 
+	- ==Steroid glycosides==:
+		- Furostanol glycosides、Spirostanol glycosides 如 Dioscin 
+	- Stilbenes:
+		- Batatasins I~V
+- 藥理研究:
+	- Diosgenin: 有抗癌作用，對於心血管疾病，具降 血脂、抗血小板聚集作用
+	- 山藥(Dioscorea batatas ) 黏液物質 Dioscorea-mucilage B: 對 Alloxan 糖尿小白鼠有血糖降下作用。
+	- 水抽提物(Dioscoretine): 對兔子顯示血糖降下作用
+	- 日本山藥 (Dioscorea japonica) 之多醣 Dioscorans A~F: 具有降血糖及抗炎症作用
+- 炮製:
+	- 取色白而堅者，泡潤，切片，曬乾備用
+- 禁忌:
+	- 有濕熱邪實者忌用 
+- 配伍:
+	- 治脾虛常與人參、白朮同用 
+- 運用方劑: 
+	- 六味地黃丸、天真丸、茯菟丹

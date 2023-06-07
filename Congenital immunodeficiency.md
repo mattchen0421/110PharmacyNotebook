@@ -1,0 +1,3 @@
+- [[布魯頓氏疾病 (Bruton's disease)]] 
+- [[狄喬治氏症候群 (DiGeorge's syndrome)]]
+- 合併嚴重免疫不全症候群 (Severe combined immunodeficiency)

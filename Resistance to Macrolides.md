@@ -1,0 +1,3 @@
+- 降低藥物滲透率
+- target sites 修飾
+- macrolide 被細菌酵素 Hydrolysis

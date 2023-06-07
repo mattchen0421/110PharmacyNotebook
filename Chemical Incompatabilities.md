@@ -1,0 +1,2 @@
+- The quinolones chelate polyvalent metal ions (Ca2+, Mg2+, Al3+, Fe2+) to form less water-soluble complexes $\rightarrow$ lose considerable potency
+- antacids, hematinics, tonics, and consumption of dairy products

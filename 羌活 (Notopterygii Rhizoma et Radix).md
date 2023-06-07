@@ -1,0 +1,39 @@
+- 基原
+	- 繖形科(Umbelliferae ; Apiaceae)植物 
+	- 羌活 _Notopterygium incisum_ K.C. Ting ex H.T. Chang
+	- 寬葉羌活 _N.forbesii_ H. Boissieu.
+- 產地
+	- 主產於四川、甘肅、雲南等地
+- 使用部位
+	- 乾燥根及根莖
+- 性味、歸經
+	- 溫，辛、苦
+	- 歸膀胱、腎經
+- 功用主治
+	- 解表祛風濕。治膀胱經頭痛、脊強而厥、剛痙柔痙、頭眩目赤
+- 成分
+	- ==Coumarin(Furocoumarin)及其苷類==：
+		- Nodakenin、Notopterol、Bergaptol、Isoimperatorin、Bergamottin 等
+	- ==Phenylpropanoid==:
+		- Phenethyl ferulate、ferulic acid、*p*-Hydroxyphenethyl anisate
+	- 揮發油：
+		- Bornyl acetate、α-Thujene、Limonen、α-Pinene 等
+	- 固醇類：
+		- ß-Sitosterol、ß-Sitosterol glucoside
+	- Polyacetylene: 
+		- Falcarindiol
+- 藥理研究
+	- Notopterol (coumarin類)具有鎮痛、抗發炎、細胞性 ，以及抗愛滋毒(HIV)的活性
+	- Bergamottin (coumarin類)具有抑制 CYP3A4 的活性
+	- Phenethyl ferulate (phenylpropanoid類)具有抑制 Cyclooxygenase 的活性。
+	- Falcarindiol (polyaceylene 類)具有抑制5-Lipoxygenase的活性
+- 炮製
+	- 挖取根莖曬乾備用
+- 禁忌
+	- 因血虛而頭痛身痛者禁
+- 配伍
+	- 與防風，白芷相須
+- 運用方劑
+	- 九味羌活湯、大羌活湯、羌活勝濕湯
+- 其他
+	- 羌活與獨活類似，歷代本草多將羌活與獨活相混

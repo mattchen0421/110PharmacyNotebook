@@ -1,0 +1,12 @@
+- 來自發酵
+	- from Streptomyces spp.
+- chemical transformations of the natural products
+- [[Stereochemistry]] 
+	- 4, 4a, 5, 5a, 6, and 12a
+	- potentially chiral
+		- [[Chlortetracycline 金黴素 Oxytetracycline 土黴素|oxytetracycline]] and [[doxycycline]]
+			- 5α-OH substituent                                                                      
+			- six asymmetric centers
+- amphoteric 兩性物質
+- 天然溶液中為 zwitterions 兩性離子
+![[Pasted image 20230430230144.png]]

@@ -1,0 +1,6 @@
+- 大部分 G-(+) bacteria
+- 除了 cocci and bacilli
+- G-(-) cocci 
+	- e.g. Neisseria spp.
+- Treponema pallidum
+- Mycoplasma, Chlamydia, Campylobacter, and Legionella spp.

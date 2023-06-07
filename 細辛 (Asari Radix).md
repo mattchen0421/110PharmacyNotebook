@@ -1,0 +1,36 @@
+- 不得檢出Aristolochic acid
+- 基原:
+	- 馬兜鈴科 (Aristolochiaceae) 植物
+	- 北細辛 *Asarum heterotropoides* F. Schmidt f. mandshuricum (Maxim.) Kitag.
+	- 華細辛 *A. sieboldii* Miq. 
+	- 漢城細辛 *A. sieboldii* Miq. var. seoulense Nakai 
+- 產地:
+	- 北細辛A. heterotropoides f. mandshuricum 主產於中國遼寧、吉林、黑龍江 
+	- 華細辛 A. sieboldii 主產於==陝西== 
+- 使用部位: 
+	-  乾燥根或根莖 (THP III)
+- 性味、歸經:
+	- 溫，辛
+	- 歸肺、心、腎經 
+-  功用主治: 
+	 1. 溫散風邪。治咳嗽上氣、 頭痛脊強 
+	 2. 利九竅。治鼻淵鼻齆 (ㄨㄥ ˋ )、齒痛、口瘡耳鳴
+- 成分: 
+	-  ==Lignan==:
+		-  l-Asarinin 
+	-  ==Volatile oil==:
+		-  Methyleugenol (50%)、Asarylketone 、Safrole、Limonene 、Pinene 等 
+	-  ==辛味成分==:
+		-  ==Pellitorine==
+- 炮製:
+	- 挖取根，洗淨，陰乾用
+- 禁忌:
+	- 味厚性烈，不可過用 
+-  配伍:
+	- 惡黃耆、山茱萸。
+	- 畏硝石、滑石。
+	- 反藜蘆 
+-  運用方劑:
+	-  麻黃附子細辛湯、九味羌活湯 
+-  其他:
+	-  地上部含 Aristolochic acid 及 Aristolochine 有腎毒性

@@ -1,0 +1,3 @@
+- It is an α<sub>1</sub> adrenergic receptor agonist with some β effect.
+- Metaraminol is a potent sympathomimetic amine used in the prevention and treatment of hypotension, particularly as a complication of anesthesia.
+- Metaraminol also has an indirect effect by releasing norepinephrine from its presynaptic vesicle

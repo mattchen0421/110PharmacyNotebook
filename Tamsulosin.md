@@ -1,0 +1,6 @@
+- Uroselective (vasicoselective) 
+	- α<sub>1A</sub> and α<sub>1D</sub> but not α<sub>1B</sub>
+- ==No change in BP and HR== at therapeutic doses and Postural hypotension
+- Preferred drug in BPH
+- ADRs: 
+	- Retrograde ejaculation 逆行性射精 and dizziness

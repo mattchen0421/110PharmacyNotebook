@@ -1,0 +1,37 @@
+---
+aliases: Omadacycline tosylate, Nuzyra
+---
+- 用於治療
+	- community-acquired bacterial pneumonia (CABP)
+	- acute bacterial skin and skin structure infections (ABSSSI)
+- 靜脈注射和口服
+- broad spectrum
+- 對 G-(-)，G-(+), aerobes, anaerobes, and atypical pathogens 有效
+- C9 aminomethyl group
+	- 增加抗菌活性
+	- 增加 ribosomal protection proteins and efflux pump mechanisms 抗性
+- C4 epimerization 自然發生
+- MOA
+	- 與 ribosome 30S subunit 結合
+	- 抑制蛋白質合成
+- Pharmacokinetics
+	- 空腹時口服
+	- 血漿濃度高峰出現在 1-4 hours
+	- 半衰期 17.6 hours
+	- 不被代謝
+	- 與血漿蛋白結合弱
+	- 主要透過 feces 排除
+- Adverse Effects
+	- nausea
+	- vomiting
+	- infusion site reactions
+	- alanine aminotransferase increase
+	- aspartate aminotransferase increase
+	- g-glutamyltransferase increase
+	- hypertension
+	- headache 
+	- diarrhea 腹瀉
+	- insomnia 失眠
+	- constipation 便秘
+
+![[Pasted image 20230502225201.png]]

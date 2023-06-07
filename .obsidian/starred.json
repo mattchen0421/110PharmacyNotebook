@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "_總論目錄",
+      "path": "二下期中/藥化/總論/總論目錄.md"
+    },
+    {
+      "type": "file",
+      "title": "_metabolism目錄",
+      "path": "二下期中/藥化/metabolism/metabolism目錄.md"
+    },
+    {
+      "type": "file",
+      "title": "_Folate Antagonist目錄",
+      "path": "二下期中/藥化/Folate Antagonists/Folate Antagonist目錄.md"
+    },
+    {
+      "type": "file",
+      "title": "_Quinolones目錄",
+      "path": "二下期中/藥化/Quinolones/Quinolones目錄.md"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+- Similar to Prazosin but better bioavailability (90%)
+- Duration of action is longer – 24 Hrs
+- Use: 
+	- Preferred in BHP

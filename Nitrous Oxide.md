@@ -1,0 +1,9 @@
+- 第一個被測試
+- 快速起效和恢復
+- 低劑量，作為輔助藥物使用
+- 良好的鎮痛效果
+	- Entonox（50％氧氣和50％笑氣） 
+- 抑制 methionine 合成酶 → 巨紅幹細胞性貧血 megaloblastic anemia
+- 增加顱內壓（腦腫瘤、腦出血）
+- Second gas effect
+	- 當笑氣合併使用 Halothane 或 Enflurane 時後者過量

@@ -1,0 +1,41 @@
+#中藥藥物學
+- 臺灣中藥典含量測定: Mangiferin, Timosaponin B<sub>II</sub>
+- 基原:
+	- 百合科 ( Liliaceae ) 植物
+	- 知母 *Anemarrhena asphodeloides* Bunge. 
+- 產地:
+	- 主產中國河北、山西、東北等地 
+- 使用部位: 
+	- 乾燥根莖 
+- 性味、歸經:
+	- 寒，苦、甘
+	- 歸肺、胃、腎經
+- 功用主治:
+	1. 潤腎滋陰。治蓐勞骨蒸 
+	2. 清肺瀉火。治傷寒煩熱
+- 成分:
+	- ==固醇類皂苦苷 (Steroid glycosides)==:
+		- 6% Timosaponins (知母皂苷) A-I~IV 及 B-I~II，其苷元 (Aglycon) 為 Sarsasapogenin 
+	- ==Xanthone C-glycoside==:
+		- 約1.3% Mangiferin (芒果苷)、Isomangiferin 
+	- 知母多醣:
+		- Anemarans A~D
+- 藥理研究:
+	- Timosaponin A-III 、芒果苷 (Mangiferin) 以及 知母多醣(Anemarans): 
+		- 降血糖作用
+	- 芒果苷 (Mangiferin):
+		- 清除自由基的功效
+	- 知母皂苷元 (Sarsasapogenin):
+		- 解熱作用
+- 炮製:
+	- 挖取根洗淨，切片曬乾。酒浸上行、鹽水 拌下行 
+- 禁忌:
+	- 多服傷胃滑腸 
+- 配伍:
+	- 忌鐵。
+	- 得酒良。
+	- 與黃柏相須 
+- 運用方劑:
+	- 白虎湯、二母散、知柏地黃丸
+- 其他:
+	- 斷面呈褐黃色帶黏性

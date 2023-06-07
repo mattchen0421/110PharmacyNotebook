@@ -1,0 +1,43 @@
+- 基原
+	- 麻黃科（Ephedraceae）植物
+	- 草麻黃 Ephedra sinica Stapf
+	- 中麻黃E.intermedia Schrenk et C.A.Mey.
+	- 木賊麻黃 E.equisetina Bunge
+- 產地
+	- 在中國主產於河北、山西、陝西、內蒙古、甘肅、遼寧、四川等地。
+- 使用部位
+	- 乾燥草質莖地上部。
+- 性味、歸經
+	- 溫，辛、微苦；
+	- 歸肺、膀胱經，兼走心、大腸經（為==肺家專藥==）。
+- 功用主治
+	1. 發汗解表。治外感風寒表實證。
+	2. 宣肺平喘止咳。治咳逆氣喘。
+	3. 利水消腫。治水腫風腫、皮肉不仁。
+	4. 溫散寒邪。治風濕痺痛。
+- 成分
+	- ==Alkaloids==（0.3～1.5％）：
+		- 主成分l-Ephedrine、d-Pseudoephedrine，
+		- 少量成分l-Norephedrine、d-Norpseudoephedrine、
+	- d-N-Methylpseudoephedrine、l-N-Methylephedrine等；
+	- Other：
+		- Catechin、l-Gallocatechin、Volatile oil等。
+- 藥理研究
+	- Ephedrine具有解熱及中樞興奮作用，可亢進自發運動、增加呼吸數、持續腦波覺醒等。
+	- 鎮咳作用：
+		- 口服麻黃水萃取物，有鎮咳及氣管平滑肌弛緩作用。
+	- Pseudoephedrine 與Norephedrine具抗炎作用，可抑制纖維芽細胞增殖
+	- Norpseudoephedrine 具有Insulin樣活性。
+	- 似腎上腺素作用，增加心臓、腦、肌肉的血流量有散瞳發汗、解熱、。利尿作用。
+	- 副作用：
+		- 血壓上升、頻脈、不眠等。
+- 炮製
+	- 生用，發汗解表。
+	- 炙用，止咳平喘。
+- 禁忌
+	- 發散力強，過劑則汗多亡陽，凡表虚自汗、陰虚盗汗及虚喘均當慎用。
+- 配伍
+	- 厚朴、白薇為使。
+	- 惡辛夷、石膏。
+- 運用方劑
+	- 麻黃湯、麻黃附子細辛湯、麻杏甘石湯。

@@ -1,0 +1,2 @@
+- kidney and liver damage
+- [[Stevens-Johnson syndrome]]

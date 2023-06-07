@@ -1,0 +1,7 @@
+- [[Amphetamine]]
+- [[Anorectics]]
+- [[Methylphenidate]]
+- [[Tyramine]]
+- [[Cocaine]]
+- [[Modafinil]]
+- [[Atomoxetine]]

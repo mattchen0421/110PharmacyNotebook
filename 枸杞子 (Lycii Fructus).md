@@ -1,0 +1,39 @@
+#中藥藥物學
+- 基原
+	- 茄科 (Solanaceae) 植物
+	- 枸杞 *Lycium chinense* Mill. 
+	- 寧夏枸杞 L. barbarum L
+- 產地:
+	- 主產於中國寧夏，甘肅、內蒙古、新疆、 陝西及日本等地亦產 
+- 使用部位: 
+	- 乾燥成熟果實 
+- 性味、歸經: 
+	- 平，甘
+	- 歸肝、腎經
+- 功用主治:
+	- 潤肺、清肝、滋腎、補虛勞、明目。治嗌乾消渴
+- 成分:
+	- ==醣蛋白==:
+		- Glycoproteins LBP-I-IV 等 
+	- 生物鹼:
+		- Betaine (甜菜鹼)、Kukoamine A (地骨皮胺) 
+	- ==四萜色素 (Tetraterpenoids)==:
+		- Zeaxanthin (玉蜀黍黃素)、Carotene 等 
+	- 維生素:
+		- Riboflavin (Vit. B2;核黃素)、Thiamine (Vit. Bl) 、Nicotinic acid 、Ascorbic acid (Vit. C) 果皮含酸漿果紅素( Physalien or Zeaxanthin dipalmitate)
+- 藥理研究:
+	- 枸杞子及所含多醣體: 
+		- 刺激免疫作用 
+	- 降血糖作用刺激排卵作用 
+	- 多醣體及甜菜鹼 (Betaine): 
+		- 抑制過氧化的作用 
+	- Kukoamine A: 
+		- 降血壓及增強呼吸作用
+	- Zeaxanthin 及 physalien: 
+		- 預防化學性肝損傷的作用
+- 炮製:
+	- 採成熟果實，乾燥用。或酒浸搗用 
+- 禁忌:
+	- 外邪實熱、脾虛有濕及泄瀉者忌 
+- 運用方劑: 
+	- 杞菊地黃丸、龜鹿二仙膏、史國公藥酒方

@@ -1,0 +1,42 @@
+#中藥藥物學
+- 臺灣中藥典含量測定 : Astragalosides IV
+- 基原:
+	- 豆科(Leguminosae ; Fabaceae) 植物 
+	- 蒙古黃耆 *Astragalus membranaceus* (Fisch.) Bunge. var. mongholicus (Bunge.) P.K.Hsiao 
+	- 膜莢黃耆 *Astragalus membranaceus* (Fisch.) Bunge. 
+- 產地:
+	- 蒙古黃耆主產於內蒙古、吉林、山西、河北等地 
+	- 膜莢黃耆主產於內蒙古、黑龍江、山西、甘肅等地 
+- 使用部位: 
+	- 乾燥根
+- 性味、歸經: 
+	- 微溫，甘
+	- 歸肺、脾經 
+- 功用主治:
+	1. 補氣固表。治表虛自汗、解肌熱 
+	2. 升陽補中。治中氣下陷、久瀉脫肛、便血崩漏 
+	3. 生血生肌、排膿內托。治痘症不起，為==瘡癰聖藥==
+- 成分: 
+	- ==Polysaccharides==:
+		- Astragalans I~I1I ; α-Glucans (AG-l 、AG-2) 
+	- ==Cycloartane triterpenoids==:
+		- Astragalosides I-VI 、 Isoastragalosides I&II 
+	- Flavonoids:
+		- Calycosin、Formononetin
+- 藥理研究:
+	- 具強心及降血壓作用 
+	- 具抗發炎、抗菌、保肝、利尿作用 
+	- Polysaccharides 可增強免疫力
+- 炮製:
+	- 挖取根。生用，固表止汗。槌扁蜜炙，入補益藥用 
+- 禁忌:
+	- 陰虛者宜少用 
+- 配伍:
+	- 茯苓為使。
+	- 惡龜甲、白鮮皮。
+	- 畏防風 
+- 運用方劑: 
+	- 補中益氣湯、當歸補血湯、黃耆桂枝五物湯
+- 其他:
+	- 懷特血寶®凍晶注射劑
+	- 豆腥味

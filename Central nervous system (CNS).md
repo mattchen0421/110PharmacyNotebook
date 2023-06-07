@@ -1,0 +1,11 @@
+---
+aliases: CNS, Central nervous system
+---
+- Cholinergic pathway from ==Nucleus Basalis== projects to the forebrain cortical area and regulate attention and cognitive function.
+	- Pathway from ==Pedunculopontine nucleus== controls sleep-awake cycle
+	- CNS effects of [[acetylcholine]]
+		- **Modulation of sleep, $\uparrow$ Wakefulness** 
+		- **$\uparrow$ Learning and memory performance, Neuronal plasticity. → Treatment of Alzheimer's disease and dementia.**
+		- Suppression of nociceptive transmission at spinal cord → Analgesia. 
+		- Immunosuppression (many immune cells express ACh receptors).
+		- Epilepsy 癲癇 (mutations in nicotinic ACh receptors cause frontal lobe epilepsy).

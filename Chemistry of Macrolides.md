@@ -1,0 +1,12 @@
+- A large lactone ring (macrolide)
+	- 12, 14, or 16 atoms
+	- unsaturated
+	- olefinic group conjugated with the ketone function
+	- biosynthesized from propionic acid units
+		- every second carbon of erythromycin, bears a methyl group
+		- the rest of the carbons, with exception, are oxygen bearing
+		- ![[Pasted image 20230429221754.png]]
+- A ketone group
+- A glycosidically linked amino sugar
+- 水溶液中，低於室溫時穩定
+- 酸，鹼，熱不反應

@@ -1,0 +1,9 @@
+- Drugs used for suppression of appetite
+- MOA:
+	- Inhibition of NA/DA or 5-HT uptake 
+	- enhancement of monoaminergic transmission
+- NA agents affect the appetite centre and Serotonergics act on satiety centrer
+- Fenfluramine, dexfenfluramine and sibutramine 
+	- ALL ARE BANNED NOW
+	- Reasons: 
+		- Heart valve defects, fibrosis and pulmonary hypertension etc.

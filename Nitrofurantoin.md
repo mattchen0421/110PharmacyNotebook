@@ -1,0 +1,7 @@
+- suitable for oral use (since World War II)
+- used for prophylaxis or treatment of ==acute urinary tract infections== when kidney function is not impaired, and it ==inhibits kidney stone growth==.
+- Nausea and vomiting are common side effects. This is avoided in part by slowing the rate of absorption of the drug through use of wax-coated large particles (Macrodantin).
+- treatment of ==urinary tract infections== caused by susceptible strains of E. coli, enterococci, S. aureus, and Klebsiella, Enterobacter, and Proteus spp.
+- Severe side effects: acute pulmonary reactions, peripheral neuropathy, hemolytic anemia, liver toxicity, and fertility impairment
+- hypersensitivity reaction have occasionally been observed
+- mechanisms for inhibition of DNA and RNA functions are not well understood.![[Pasted image 20230322212850.png]]

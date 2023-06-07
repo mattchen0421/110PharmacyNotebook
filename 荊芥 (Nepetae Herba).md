@@ -1,0 +1,34 @@
+- 基原
+	- 唇形科(Labiatae ; Lamiaceae)植物 
+	- 荊芥 _Nepeta tenuifolia_ (Benth.) Briq.
+- 產地
+	- 主產於中國江蘇、浙江、江西、河北、湖北、湖南等地
+- 使用部位
+	- 乾燥全草(荊芥)或花穗(荊芥穗)
+- 性味、歸經
+	- 微溫，辛
+	- 歸肺、肝經
+- 功用主治
+	1. 發汗解表。治風寒頭痛、身強項直 、瘡腫初期
+	2. 助脾消食、通利血脈。治吐衄腸風、崩中血崩、產風血暈。為風病、血病及**瘡家聖藥**
+- 成分
+	- 地上部分含==揮發油==約1. 8%，穗含揮發油約4.11 %
+	- Monoterpenoids:
+		- 主成分為 *d*-Menthone (右旋薄荷酮)約42.9%、*l*-Pulegone 約 33.9 %
+	- Sesquiterpenoid: 
+		- Caryophyllene、ß-Elemene、ß-Humulene 等
+	- Flavones: 
+		- Diosmetin、Hesperetin、Luteolin 等
+- 藥理研究
+	- 抑制全身性過敏反應
+	- 具止血作用
+	- *d*-Menthone具鎮痛作用；*l*-Pulegone具抗炎症作用，可抑制Phosphodiesterase之活性
+- 炮製
+	- 秋採連穂地上部位，曬乾用。炒黑可治血
+- 禁忌
+	- 無風邪或表虛自汗者，均忌服。
+	- 不宜久煎
+- 配伍
+	- 反魚蟹、河豚、驢肉
+- 運用方劑
+	- 荊防敗毒散、槐花散、清魂散

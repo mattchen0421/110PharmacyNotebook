@@ -1,0 +1,43 @@
+---
+aliases: Aromatic solution, Aromatic water, 芳香水劑
+---
+## Aromatic water (芳香水劑)
+ - Not therapeutically potent due to the vary small proportion of active ingredient in it 
+	 - Peppermint water as carminatives 
+	 - Chloroform water, N.F. XI, as expectorant preparations 
+ - Although there are not too many aromatic waters in official standard, they still provide a pleasantly flavored medium for some emulsion and suspension dosage forms, such as 
+	 - Cinnamon water in Chalk Mixture, N.F. XI 
+ - Several aromatic waters are not used in oral medication 
+	 - Rose Water, Hamamelis Water, and Camphor water
+- Polysorbate 80 U.S.P. (Tween® 80), nontoxic, nonionic surface active agent, can be used in oral liquid dosage form to solubilize the formualtion 
+	- eg., peppermint oil concentrate 
+- Instability of aromatic waters was due to 
+	- Excessive exposure to light 
+	- Temperature decrease 
+	- Salting out while adding electrolytes 
+	- Chemical nature of the solutes 
+- In general, aromatic waters are not permanently stable preparations. Long storage period is not recommended. 27 Aromatic Waters of the U.S.P. and N.F. Title and synonyms Category Metho
+## Preparation of aromatic waters
+- **Distillation 蒸餾法** 
+	- Not practical or economically feasible but needed for some formulations
+	- eg. Stronger Rose Water, N.F., Orange Flower Water, N.F., and Hamamelis Water, N.F., XI 
+	- “X” on the label represent one distillation
+	- eg, “XXXX” 
+- **Solution 溶解法(中華藥典之振搖法I)** 
+	- Volatile oils (==2g or 2mL==) agitate with purified water (==1000mL==) for ==15== min, set aside for ==12== hr, then filtered and qs. ad 1000mL 
+	- Disadvantage:
+		- difficult to obtain a brilliantly clear preparation 
+	- eg., ==chloroform water, N.F., XI and camphor water==
+- ==**Alternated solution 交替溶解法(中華藥典之振搖法II)**==
+	- Faster than solution method 
+	- Volatile material is first mixed with purified talc (15g), purified siliceous earth, or pulped filter paper, agitated with water for 10min, then filtered 
+	- Talc or other inert material was added as ==both a filter aid and a distribution agent==
+	- Disadvantage:
+		- talc or siliceous earth may pass through the filter papers
+		- substitutes: 
+			- calcium phosphate 
+- **Dilution 稀釋法**
+	- Recorded in B.P.C. as an alternative to the above 3 methods 
+	- Prepare concentrated formulas, and dilute it when needed 
+	- Rose Water 
+		- diluted from Stronger Rose Water (1:1)

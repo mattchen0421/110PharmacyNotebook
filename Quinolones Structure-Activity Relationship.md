@@ -1,0 +1,24 @@
+![[Pasted image 20230315093614.png]]
+- pharmacophore: carboxy-4-pyridone
+- Reduction of the 2,3-double bond or the 4-keto group
+	- inactivates the molecule
+- substitution at C-2
+	- interferes with enzyme-substrate complexation
+- C-6 fluoro
+	- greatly improves antimicrobial activity
+	- increases the [[DNA gyrase]]/[[topoisomerase]] IV inhibitory action
+- C-8 fluoro
+	- improves drug absorption and half-life
+	- increases drug-induced photosensitivity
+-  C-8 methoxy group 
+	- reduces the photosensitivity
+- C-7 Heterocyclic substitution
+	- improves the spectrum of activity especially against ==gram-negative organisms==
+- C-7 piperazinyl group  
+	- increases binding to ==central nervous system (CNS)== γ-aminobutyric acid (GABA) receptors
+	- Alkyl substitution on the piperazine nitrogen is reported to decrease binding to GABA
+- N-1 cyclopropyl substitution
+	- broaden activity of the quinolones to include activity against atypical bacteria including Mycoplasma, Chlamydia, and Legionella species
+- N-1 2,4-difluorophenyl substitution
+	- improves antimicrobial potency
+	- serious adverse effects

@@ -1,0 +1,9 @@
+- ==bactericidal== via formation of a ternary complex of drug, enzyme, and DNA
+- the primary enzyme is organism-specific
+- Bacterial DNA
+	- tetrameric
+       - two A and two B subunits, encoded by the *gyr*A and *gyr*B genes
+- DNA gyrase ([[topoisomerase]] II)
+	- seems more important to some G-(-) organisms
+- [[topoisomerase]] IV 
+	- seems more important to some G-(+) organisms

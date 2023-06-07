@@ -1,0 +1,15 @@
+- 合成自 sulfazecin
+![[Pasted image 20230426142419.png|200]]
+- 弱抗菌物質，強 ß-lactamases 抗性
+- C3 OCH<sub>3</sub> 
+	- ß-lactamases 穩定性
+	- 抗菌效力低
+	- 化學穩定性差
+- C4 CH<sub>3</sub>
+	- ß–lactamases 穩定性 
+	- 對 G-(-) bacteria. 活性 
+	- 降低 G-(+) bacteria 效力
+- 4,4-gem-dimethyl
+- 口服後效力稍微降低
+---
+- [[Aztreonam]]

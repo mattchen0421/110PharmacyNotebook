@@ -1,0 +1,33 @@
+#中藥藥物學
+- 基原:
+	- 列當科 (Orobanchaceae )植物
+	- 肉蓯蓉 *Cistanche deserticola* Y.C.Ma 
+	- 管花肉蓯蓉 *C. tubulosa* (Schenk) Wight 
+- 產地:
+	- 主產於中國內蒙古、甘肅、新疆、青海等地的荒漠 
+- 使用部位:
+	- 乾燥帶鱗片的肉質莖 
+- 性味、歸經:
+	- 溫，甘、鹹
+	- 歸腎、大腸經
+- 功用主治:
+	1. 補腎陽、益髓強筋。治陽萎遺精、崩帶不孕 、且腰膝冷痛 
+	2. 滋潤五臟。治腸燥便秘
+- 成分:
+	- ==Phenylethanoid glycosides (苯乙醇苷)==:
+		- 主成分為 ==Acteoside== 及 Echinacoside (刺淩德苷)
+		- 尚含 Cistanosides A~F (蓯蓉苷) 
+	- 其他:
+		- Iridoids、Lignans、Polysaccharids、Alkaloids 等
+- 藥理研究:
+	- Acteoside 具有保肝及抗發炎作用 (如減少花生四烯酸及組織胺之釋放)
+- 炮製:
+	- 取長大如臂，有松子鱗甲者，酒浸一宿，刷去浮甲，劈破除內筋膜，酒蒸用 
+- 禁忌:
+	- 腹瀉便溏者忌服
+- 配伍:
+	- 忌鐵 
+- 運用方劑: 
+	- 還少丹、地黃飲子、十四味建中湯
+- 其他:
+	- 斷面維管束呈波浪狀排列

@@ -1,0 +1,40 @@
+- 基原
+	- 唇形科(Labiatae ; Lamiaceae)植物 
+	- 紫蘇 _Perilla frutescens_ (L.) Britton
+- 產地
+	- 主產於江蘇、湖北、廣東、廣西、河南、河北、山東、 山西、浙江、四川等地
+- 使用部位
+	- 乾燥葉（或帶嫩枝）
+- 性味、歸經
+	- 溫，辛
+	- 歸肺、脾經
+- 功用主治
+	1. 發汗解肌。祛風定喘、寬中消痰
+	2. 開胃益脾。利大小腸、解魚蟹毒、止痛安胎
+- 成分
+	- 紫蘇全草含==揮發油==約0.5%
+	- Monoterpenoids:
+		- *l*-Perillaldehyde (紫蘇醛)約55 %，*d*-Limonene 約 20〜30 % 
+		- 尚含 Perillyl alcohol、Egomaketone (白蘇烯酮)等
+	- ==Phenylpropanoids==: 
+		- Caffeic acid、Rosmarinic acid
+	- Flavonoids: 
+		- Apigenin、Luteolin 及其配醣體
+	- Anthocyanins: 
+		- Perillanin (Shisonin)
+		- 3-*O*-(6-*p*-*E*-coumaroyl)-ß-D-glucosyl-cyanidin (紫蘇葉中之紅色色素)
+- 藥理研究
+	- 紫蘇精油具有發汗解熱、止吐、祛痰、抑菌及抗氣喘、過敏發炎作用
+	- Perillyl alcohol具抑制癌化作用
+- 炮製
+	- 採葉，陰乾備用。
+	- 蘇子與葉同功。
+	- 蘇梗下氣稍緩，順氣 安胎
+- 禁忌
+	- 表弱氣虛者忌用葉。
+	- 滑腸氣虛者忌用子
+- 配伍
+	- 宜橘皮。
+	- 忌鯉魚
+- 運用方劑
+	- 參蘇飲、香蘇飲、七氣湯

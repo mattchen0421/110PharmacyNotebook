@@ -1,0 +1,33 @@
+- 基原
+	- 蠶蛾科 (Bombycidae)昆蟲
+	- 家蠶 *Bombyx mori* Linnaeus
+- 產地
+	- 主產於中國浙江、江蘇、四川等養蠶地區。
+- 使用部位
+	- 幼蟲在未吐絲前，因感染白殭菌（Beauveria bassiana（Bals.）Vuillant）而發病致死的乾燥體。
+- 性味、歸經
+	- 平，辛、鹹
+	- 歸肺、肝、胃經。
+- 功用主治
+	1. 治風化痰。治中風失音、頭風齒痛、喉痺咽腫。
+	2. 散結行經。治瘰癧結核、膚如鱗甲。
+- 成分
+	- 白殭蠶體
+		- 蛋白質、3-Hydroxykynurenine 以及Hydroxyethyladenine;
+	- 白殭菌菌體
+		- Tenellin、白殭菌黄色素（Bassianin
+		- ==多種Cyclodepsipeptides==，包括白殭菌素（Beauvericin）、白殭菌環四肽（Bassianolide）等。
+	- 白殭菌至少含三種酶
+		- 脂酶（Lipase）、蛋白酶（Protease）和甲殼質酶（Chitinase）。
+- 藥理研究
+	- 本品含脂肪及蛋白質，其中蛋白質有刺激腎上腺皮質作用。
+	- 體表的白粉中含有草酸銨，是對抗Strychnine誘導小鼠驚厥的有效成分，對治療癲癇大發作有一定療效。
+	- Beauvericin 可抑制血管新生；Bassianolide 具殺蟲作用（Insecticide）。
+- 炮製
+	- 糯米泔浸一宿，待蠶桑涎浮出，漉起焙乾，拭淨搗用。
+- 禁忌
+	- 因血虚，無風寒客邪者勿用。
+- 配伍
+	- 惡桑螵蛸、茯苓、茯神、桔梗、草薢。
+- 運用方劑
+	- 牽正散、消風散、牛黃丸。

@@ -1,0 +1,12 @@
+- **α-Methyldopa**
+	- Used as central sympatholytics
+- **Dexmedetomidine**
+	- Prominent sedative effect and used in anesthesia
+- **Tizanidine**
+	- Used as a muscle relaxant
+	- It works by blocking nerve impulses (pain sensations) that are sent to your brain.
+	- It is also prescribed off-label for migraine headaches, as a sleep aid, and as an anticonvulsant 抗痙攣.
+	- Should not use with fluvoxamine or [[ciprofloxacin]]
+- **[[Drugs used in open angle glaucoma#^9cbde8|Apraclonidine]]**
+- **[[Drugs used in open angle glaucoma#^b9266d|Brimmonidine]]**
+	- Used topically in glaucoma

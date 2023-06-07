@@ -1,0 +1,14 @@
+{
+  "minimal-advanced@@styled-scrollbars": false,
+  "minimal-style@@header-height": "30px",
+  "minimal-style@@tabs-style": "tabs-underline",
+  "minimal-style@@active-line-on": false,
+  "minimal-style@@sidebar-tabs-style": "sidebar-tabs-underline",
+  "minimal-style@@image-muted": 1,
+  "minimal-style@@h1-size": "1.2em",
+  "minimal-style@@h2-size": "1.1em",
+  "minimal-style@@zoom-off": true,
+  "minimal-style@@image-grid-background@@light": "#000000",
+  "minimal-style@@image-grid-background@@dark": "#FFFFFF",
+  "minimal-style@@window-title-off": true
+}

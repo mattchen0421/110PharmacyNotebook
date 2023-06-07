@@ -1,0 +1,1 @@
+與 [[Naltrexone]] 類似

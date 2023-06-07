@@ -1,0 +1,32 @@
+- 基原
+	- 鼠李科（Rhamnaceae）植物
+	- 酸棗 *Ziziphus jujuba* Mill. var. spinosa（Bunge） Hu ex HI.F.Chow
+- 產地
+	- 中國原產，在西亞細亞野生化。
+- 使用部位
+	- 種子。
+- 性味、歸經
+	- 平，甘、酸
+	- 歸肝、膽、心經。
+- 功用主治
+	1. 補肝膽、醒脾、寧心安神。治心煩不眠。
+	2. 味酸，斂汗。
+- 成分
+	- ==Triterpenoids==：
+		- Betulin、Betulinic acid、Jujubosides A＆B等；
+	- ==Cyclopeptides==（環肽）：
+		- Frangufoline 等；
+	- 其他：
+		- 脂肪油（30％）、各種脂肪酸、Phytosterol。
+- 藥理研究
+	- 具鎮靜及安眠作用。
+	- 增強免疫功能。
+	- 調節血脂作用。
+- 炮製
+	- 炒研用。
+- 禁忌
+	- 痰熱失眠者忌服。
+- 配伍
+	- 惡防己。
+- 運用方劑
+	- 酸棗仁湯、歸脾湯、養心湯。

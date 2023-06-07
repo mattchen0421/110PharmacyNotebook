@@ -1,0 +1,37 @@
+#中藥藥物學
+- 基原:
+	- 百合科 (Liliaceae) 植物 
+	- 黃精 *Polygonatum sibiricum* Redouté 
+	- 多花黃精 *P. cyrtonema* Hua 
+	- 滇黃精 *P. kingianum* Collett. et Hemsl. 
+- 產地:
+	- 黃精分佈於東北、蒙古、江北等地 
+	- 多花黃精分佈於江北、江南等地 
+	- 滇黃精分佈於雲南 •
+- 使用部位
+	- 根莖
+- 性味、歸經: 
+	- 平、甘
+	- 歸脾、肺、腎經 
+- 功用主治:
+	1. 填精髓、助筋骨
+	2. 安五臟、益脾胃、潤心肺，久服不飢
+- 成分:
+	- 多醣類:
+		- ==黃精多醣==，根莖至少含 7% 以上 
+	- ==Steroidal saponins==:
+		- 黃精含 Sibiricosides A&B 等 
+		- 多花黃精含 Saponosides A&B 等
+		- 滇黃精含 Kingianosides A-D 等
+	- Alkaloids :
+		- 黃精含 Polygonatines A&B 
+		- 滇黃精含Polygonatine B
+- 藥理研究:
+	- 可活化乙型腎上腺素受體 (β-Adrenoceptor) 產生強心作用 
+	- 黃精多醣: 可刺激淋巴細胞增生和增加巨噬細胞的吞噬能力，具有增強免疫的效果
+- 炮製:
+	- 挖取根莖，九蒸九曬用 
+- 禁忌:
+	- 氣滯者中滿者忌用
+- 運用方劑:
+	- 二精丸(黃精、枸杞)

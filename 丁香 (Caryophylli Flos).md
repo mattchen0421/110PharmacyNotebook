@@ -1,0 +1,39 @@
+- 基原:
+	-  桃金孃科 (Myraceae) 植物
+	-  丁香 Syzygium aromaticum Merr. et L.M. Perry 
+- 產地:
+	-  主產於坦尚尼亞、印尼、馬來西亞等地 ，中國海南島等地有少量生產。 
+-  使用部位:
+	-  乾燥花蕾 
+-  性味、歸經:
+	-  溫，辛
+	-  歸脾、胃、肺、腎經
+- 功用主治 
+	 1. 瀉肺溫胃。治胃冷嘔噦(ㄏㄨㄟˋ)呃(ㄜˋ)逆、痘瘡胃虛 、灰白不發。
+	 2. 壯陽暖陰。 
+- 成分:
+	- ==Volatile oil==:
+		-  16-19 %，主成分為 Eugenol (80~87%)， 
+		- 其次含 β-Caryophyllene (9%) 、O-Acetyleugenol (7%) 
+	-  Tannin:
+		-  Eugeniin、l-Desgalloyleugeinin、 2- Desgalloyleugeniin 
+	- Other:
+		-  oleanolic acid、Rhamnetin
+- 藥理研究: 
+	- 具促進胃液分泌、胃腸蠕動與抗胃漬瘍作用。
+	- Eugenol 與 Acetyleugenol: 可以促進膽汁分泌 
+	- 具有疼痛性知覺麻痺作用，並有鎮靜、鎮痙作用 
+	-  抗菌作用：
+		- 丁香抽提物及 Eugenol 對黃色葡萄球菌、 赤痢菌、結核菌、炭疽病及口腔內雜菌具有強力的抑制作用 
+	- 抗發炎作用：Eugenol 與 Acetyleugenol 可抑制 Cyclooxygenase 及 Lipoxygenase ，而阻止 Prostaglandin 合成。 
+	- 抗凝血作用：
+		- Acetyleugenol 可抑制 Tromboxane 之形成
+- 炮製:
+	- 花蕾紅時摘採，烘乾用 
+- 禁忌;
+	- 熱證忌服 
+-  配伍:
+	- 畏鬱金。
+	- 治呃逆，與柿蒂相須為用 
+-  運用方劑:
+	- 丁香柿蒂湯、威應丸

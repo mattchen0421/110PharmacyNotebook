@@ -1,0 +1,5 @@
+- 堆積在神經元中
+	- 抑制神經傳導物質 (NE) 釋放
+	- 低血壓副作用
+- blocker of K<sup>+</sup> channels 
+- 適合用於 reentrant circuit 心律不整

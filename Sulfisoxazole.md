@@ -1,0 +1,3 @@
+- Sulfisoxazole acetyl
+	- [[Prodrug]]
+	- ![[Pasted image 20230314223831.png]]

@@ -1,0 +1,8 @@
+- Epigastric disease 上腹疾病
+	- common, lead to patient compliance for [[Erythromycin 紅絲菌素|erythromycin]]                            
+- Cholestatic jaundice 黄疸
+	- especially with the estolate form of [[Erythromycin 紅絲菌素|erythromycin]] (presumably as the result of a hypersensitivity reaction to the estolate form)
+- Ototoxicity 耳中毒
+	- transient deafness has been associated with [[Erythromycin 紅絲菌素|erythromycin]], especially at high dosages.
+- Contraindications 禁忌症
+	- with hepatic dysfunction 肝衰竭 should not be treated with [[Erythromycin 紅絲菌素|erythromycin]]

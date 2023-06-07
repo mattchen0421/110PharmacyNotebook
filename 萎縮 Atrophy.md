@@ -1,0 +1,18 @@
+---
+aliases: 萎縮, Atrophy
+---
+- Decreased size of cells, tissues, and organs
+- Decreased functions
+- Physiologic atrophy or pathologic atrophy
+- Causes of pathologic
+	- Decreased workload
+	- Denervation atrophy
+	- Diminished blood supply
+	- Inadequate nutrition
+	- Loss of endocrine stimulation
+	- Aging
+- Physiologic atrophy:
+	- Atrophy of uteri and atrophy of breast after menopause
+- Pathologic atrophy:
+	- denervation atrophy
+	- Wide sulcus Narrow gyrus

@@ -1,0 +1,2 @@
+-   for weak acids: pH - pKa > 2 : 99% ionized form​
+-   for weak bases: pKa - pH > 2  : 99% ionized form ​

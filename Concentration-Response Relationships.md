@@ -1,0 +1,13 @@
+- Effective dose (ED<sub>50</sub>)
+- Lethal dose (LD<sub>50</sub>)
+- Efficacy: The maximal response produced by a drug (y-axis).
+- Potency: Also termed effective dose concentration (x-axis).
+- Therapeutic index: $LD_{50}\over ED_{50}$ 
+- Reversible antagonists
+	- Competitive:
+		- These agents interact with receptors at the same site as the agonist and, thus, compete for binding of the agonist
+	- Noncompetitive:
+		- Decrease the maximal response
+- Tolerance
+- Tachyphylaxis
+- Placebo effect

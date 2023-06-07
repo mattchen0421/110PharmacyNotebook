@@ -1,0 +1,24 @@
+- Physical removal of microorganisms by adsorption on the filter medium. Used for heat sensitive materials. 
+- Advantages: 
+	- Absolute sterilization 
+		- separates particles based on size 
+	- Used for heat sensitive media 
+	- Removal of multiple particle sizes 
+	- Allows for fairly high throughput 
+- Disadvantages: 
+	- Each filter has a specific nominal pore size 
+	- Unable to separate microorganisms that have the same size 
+	- May require a high differential pressure 
+- Application: 
+	- Thermolabile solutions of low viscosity
+- Red blood cell
+---
+- Salmonella typhosa
+- Serratia marcescens
+- **0.45 $\mu$M filter**
+- Pseudomonas
+- Smallpox virus
+- **0.22 $\mu$M filter**
+- Influenza virus
+- Yellow fever virus
+- Polio virus

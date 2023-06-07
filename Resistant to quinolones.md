@@ -1,0 +1,2 @@
+- decreased binding affinity to the enzyme because of amino acid substitution in either A or B subunits resulting from mutation in either *gyr*A57 and *gyr*B58 genes
+- an increase in drug efflux or a decrease in outer membrane permeability $\rightarrow$ resistance

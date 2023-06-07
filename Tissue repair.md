@@ -1,0 +1,6 @@
+- Regeneration
+	- [[Cell and Tissue Regeneration]]
+- Scar formation
+	- [[Repair by scarring]]
+- [[Factors that influence tissue repair]]
+- [[Healing of Skin Wounds]]

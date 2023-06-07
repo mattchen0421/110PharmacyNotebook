@@ -1,0 +1,3 @@
+- Treatment of narcolepsy, shift work sleep disorder, and excessive daytime sleepiness associated with obstructive sleep apnea.
+- The mechanism of action of modafinil for narcolepsy and sleep-wake disorders remains unknown
+- Acts as an atypical, selective, and weak [[dopamine]] reuptake inhibitor which indirectly activates the release of orexin neuropeptides and histamine from the lateral hypothalamus and tuberomammillary nucleus, respectively.

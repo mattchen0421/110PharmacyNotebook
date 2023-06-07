@@ -1,0 +1,2 @@
+- [[Ceftazidime and avibactam|Avibactam]] combined with [[Ceftazidime and avibactam|ceftazidime]] (Avycaz$^\textregistered$) to treat complicated urinary tract infections caused by β-lactamase-producing organisms
+![[Pasted image 20230328162121.png\|300]]

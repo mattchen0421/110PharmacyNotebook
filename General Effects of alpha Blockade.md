@@ -1,0 +1,20 @@
+- Arteriolar and venous tone are determined to a large extent by receptors on vascular smooth muscle
+- Reduction in Blood Pressure: 
+	- Blockade of α<sub>1</sub> (also α<sub>2</sub>) receptor causes pooling of blood in capacitance vessels
+	- reduced venous return and Cardiac output 
+	- fall in mean BP
+- Postural Reflex is interfered 
+	- dizziness and Syncope on standing
+- Vasopressor effects of Adrenaline is not found
+## Others
+- Reflex tachycardia due to fall in BP and increased NA release due to presynaptic $\alpha$<sub>2</sub> blockade
+- Nasal stuffiness and Miosis
+- Increased Intestinal Motility 
+	- diarrhea
+- Reduced GFR: 
+	- Sodium retention and increase in blood volume 
+	- also reflex renin release
+- Tone of the Bladder trigone, sphincter and prostate is maintained by α<sub>1A</sub> sympathetic
+- Blockade produces increased urine flow
+- Inhibition of Ejaculation 
+	- due to inhibition of contraction of vas deferens and others

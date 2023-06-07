@@ -1,0 +1,33 @@
+#中藥藥物學
+- 臺灣中藥典含量測定: Hyperoside
+- 基原
+	- 旋花科 (Convolvulaceae) 植物 
+	- 南方菟絲子 *Cuscuta australis* R.Br. 
+	- 菟絲子 *C. chinensis* Lam.
+- 產地:
+	- 主要產於中國江蘇、遼寧、吉林、河北、山東、河南省等地區
+- 使用部位:
+	- 成熟種子
+- 性味、歸經:
+	- 平，甘、辛
+	- 歸脾、肝、腎經
+- 功用主治:
+	- 強陰益精 ，治五勞七傷、助筋骨、益氣力、肥健人 
+	- 祛風明目
+- 成分: 
+	- ==Flavonoids==:
+		- Astragatin, Quercetin, ==Hyperoside==, Kaempferol 
+	- ==Lignan derivatives==:
+		- Cuscutosides A~C, Neocuscutosides A~C, Sesamin, 9-Hydroxysesamin 
+	- Sterols:
+		- Cholesterol, Campesterpl, β-Sitosterol, Stigmastoro
+- 藥理研究:
+	- Quercetin及 Kaempferol: 抗氧化、保肝等作用
+- 炮製:
+	- 植物蔓生草上，取黃如黍粒種子，酒浸一宿，曝乾，搗末備用
+- 禁忌:
+	- 陰虛火動者禁用
+- 配伍:
+	- 山藥為使 。得酒良
+- 運用方劑:
+	- 五子衍宗九、茯菟丹、斑龍丸

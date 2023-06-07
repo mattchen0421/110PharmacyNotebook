@@ -1,0 +1,32 @@
+#中藥藥物學
+- 臺灣中藥典含量測定 : (THSG)2,3,5,4'-tetrahydroxystilbene-2- O-β-D-glucoside
+- 基原:
+	- 蓼科 (Polygonaceae) 植物
+	- 何首烏 *Polygonum multiflorum* Thunb.
+- 產地:
+	- 中國河南、湖北、廣東、廣西、貴州、江蘇，南韓
+- 使用部位 :
+	- 塊根
+- 性味、歸經:
+	- 微溫，苦、甘、澀
+	- 歸肝、腎經
+- 功用主治:
+	1. 補肝腎精血，強筋骨、烏鬚髮、令人有子。治勞瘦風虛 、崩帶痔瘡 
+	2. 生用潤腸通便
+- 成分:
+	- ==Anthraquinone==:
+		- Chrysophanol (大黃盼)、 Emodin (大黃素)
+	- Rhein (大黃酸)、Tannins
+	- ==Stilbene==:
+		- Resveratrol、Piceid 
+- 藥理研究: 
+	- Resveratrol 及 Piceid: 降低膽固醇及三酸甘油酯， 並可防止脂質的過氧化
+	-  Anthraquinones: 抗菌及緩瀉作用
+- 炮製:
+	- 秋冬葉枯時挖取塊根，泔浸、竹刀刮去皮，切片，用黑豆與首烏拌勻，入砂鍋，九蒸九曬備用
+- 禁忌:
+	- 忌諸血、無鱗魚、萊菔、蔥、蒜、鐵器
+- 配伍:
+	- 茯苓為使
+- 運用方劑:
+	- 七寶美髯丹、當歸飲子

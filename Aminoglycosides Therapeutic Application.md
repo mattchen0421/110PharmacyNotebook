@@ -1,0 +1,21 @@
+- 為 serious infections (G-(-) organisms) 保留
+	- 延遲性 serious toxicities
+- [[Streptomycin 鏈絲菌素]] 常用於治療
+	- [[結核病 Tuberculosis (TB)]] 
+- [[Spectinomycin]]  常用於治療
+	- gonorrhea 淋病
+	- United States 不使用
+- 對 aerobic G-(-) bacteria 活性
+	- Acinetobacter sp.
+	- Citrobacter sp. 
+	- Enterobacter sp.
+	- Escherichia coli
+	- Klebsiella sp.
+	- Proteus vulgaris
+	- Providencia sp.
+	- Pseudomonas aeruginosa
+	- Salmonella sp.
+	- Serratia marcescens
+	- Shigella sp.,
+- 對 aerobic G-(+) bacteria 活性
+	- Staphylococcus epidermidis.

@@ -1,0 +1,4 @@
+- At recommended doses, the cholinergics primarily affect the Muscarinic receptors.
+- At high doses, cholinergics stimulate the Nicotinic receptors
+- Desired effects: from Muscarinic receptor stimulation
+- Many undesirable effects are due to stimulation of the Nicotinic receptors

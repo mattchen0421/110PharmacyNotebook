@@ -1,0 +1,24 @@
+- **腫瘤 (Neoplasia, tumor):**
+	- Neoplasia 新生物 
+		- new growth 
+	- Tumor 贅生物
+		- swelling caused by inflammation or other conditions
+- **腫瘤 (Neoplasm):** 
+	- 對正常生長控制失去反應的不正常組織塊
+- **腫瘤細胞(tumor cell):** 
+	- 變形 (transform)
+	- 寄生性 (parasites)
+	- 自主性 (autonomy)
+- **異生 (Dysplasia, atypia):**
+	- 失去單獨細胞的一致性和組織結構內細胞的方向性
+- **腫瘤組成 (Components):**
+	- 腫瘤細胞
+	- 腫瘤間質 (stroma，支持性組織)
+- **良性 (Benign):**
+	- 侷限性
+- **惡性 (癌) (Malignant, Cancer):**
+	- 侵犯性破壞性擴散性或轉移性 (spread or metastasis) 
+	- Derives from the Latin for crab 
+	- Common terms for all malignant (esp. epithelial) tumors 
+- **原位癌 (Carcinoma in situ):**
+	- 整層上皮細胞都發生異生

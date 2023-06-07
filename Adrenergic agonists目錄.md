@@ -1,0 +1,10 @@
+- [[Adrenergic Agonists]]
+- [[Adrenoceptors]]
+- [[Mechanism of action of the adrenergic agonists]]
+- [[Neurotransmission in adrenergic neurons]]
+- [[Characteristics of Adrenergic Agonists]]
+- [[Direct-Acting Adrenergic Agonists]]
+- [[Indirect-Acting Adrenergic Agonists]]
+- [[Mixed-Action Adrenergic Agonists]]
+
+![[Pasted image 20230417152946.png]]![[Pasted image 20230417153011.png]]

@@ -1,0 +1,33 @@
+#中藥藥物學
+- 臺灣中藥典含量測定 : Ginsenosides R<sub>b1</sub>
+- 基原:
+	- 五加科 (Araliaceae) 植物
+	- 西洋參 *Panax quinquefolium* L. 又名花旗參、廣東人參、洋參
+- 產地:
+	- 主產於美國、加拿大
+- 使用部位:
+	- 乾燥根
+- 性味、歸經:
+	- 微寒、涼，甘
+	- 歸心、肺、腎經
+- 功用主治: 
+	1. 補肺降火，生津液。虛而有火者相宜。
+- 成分:
+	- Ginsenosides R<sub>b1</sub>、R<sub>d</sub>、R<sub>e</sub> (Major)；
+	- 尚有 R<sub>b2</sub>、R<sub>c</sub>、R<sub>f2</sub>、R<sub>h1</sub> 
+	- Pseudoginsenoside F11 (2) (chemical marker) ； Gypenosides XI & XVII 
+	- Oleanolic acid glycosides:
+		- Ginsenosides Ro (1) (minor) 
+	- Other: Polyacetylenes ==Polysaccharides==
+- 藥理研究:
+	- Ginsenosides: 抗疲勞、改善和增強記憶、抗心律失常, 降血脂
+	- Polysaccharides: 能提高免疫力, 抗腫瘤
+- 炮製:
+	- 秋採挖三年以上根，曬乾備用
+- 禁忌:
+	- 實證忌服 (感冒、發炎者，不宜服用) 
+	- 中陽不足，胃有濕濁者忌用
+- 配伍:
+	- 反藜蘆
+- 其他:
+	- 本品始見於趙學敏本草綱目拾遺

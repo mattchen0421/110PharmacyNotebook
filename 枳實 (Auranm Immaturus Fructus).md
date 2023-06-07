@@ -1,0 +1,34 @@
+- 基原
+	- 芸香科 (Rutaceae) 植物 
+	- 酸橙 Citrus aurantium L. 及其栽培變種 
+- 產地
+	- 主產於中國四川、江西、江蘇、福建等地 
+- 使用部位 
+	- 乾燥幼果 
+- 性味、歸經 
+	- 平，辛、微苦、微甘
+	- 歸肝、脾、三焦經 
+- 功用主治 
+	1. 破氣行痰、除後重。治痰癖癥結、食積嘔逆、痔腫瀉痢
+- 成分 
+	- ==Flavones & Flavanones==: 
+		- 主成分 Naringin (≥ 4 %) 及 Neohesperidin (≥ 3 %)(major) 
+	- Alkaloids: 
+		- Synphrine (≥ 0.3 % ) 
+	- ==揮發油==: 
+		- *d*-Limonene (90 %)、*cis*-Carveol、*trans*- Carveol等 monoterpenoids 類及 sesquiterpenoids 類
+- 藥理研究 
+	- Naringin 及 Naringenin 具有抗氧化、清除自由基、降血脂、降膽固醇、抗突變性、抗致癌的活性 
+	- Hesperidin 有降低微血管通透性和抗發炎作用 
+	- Nobiletirt具有抑制 NO及超氧化物生成，減少 COX-2 mRNA的表達，減少 Cyclooxygenase-2 (COX-2)及 Prostaglandin E2生成。並具降低膽固醇及抗癌活性
+	- Synephrine為擬交威神經劑，會增加收縮壓及動脈血壓 ，但不影響舒張壓及心律。具有抗休克作用 
+	- 枳實與枳殼有強心及明顯升壓作用
+- 炮製
+	-  取乾燥幼果，麩炒用
+- 禁忌 
+	- 脾胃虛弱及孕婦慎服 
+- 配伍
+	- 《金匱要略》
+		- 胸痺結胸；胸痺，心中痞堅，留氣結胸 ，胸滿，脅下逆氣搶心，枳實薤白湯主之 
+- 運用方劑
+	- 四逆散、小承氣湯、枳實消痞丸

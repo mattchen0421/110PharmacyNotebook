@@ -1,0 +1,33 @@
+#中藥藥物學
+- 基原:
+	- 百合科 ( Liliaceae ) 植物
+	- 天門冬 *Asparagus cochinchinensis* (Lour.) Merr. 
+- 產地: 
+	- 主產中國貴州、四川、廣西 
+- 使用部位: 
+	- 乾燥塊根 
+- 性味、歸經: 
+	- 寒，苦、甘
+	- 歸肺、腎經
+- 功用主治:
+	1. 清肺降火。治燥咳、肺痿肺癰 
+	2. 滋腎潤燥。治消渴
+- 成分:
+	- Amino acids:
+		- 瓜胺酸( Citrulline) 及==天冬醯胺 (Asparagine)== 等多種胺基酸 
+	- ==Steroidal saponins== (類固醇皂苷):
+		- 天冬呋固醇寡糖苷 ( Asp-IV, V, VII)、異菝葜皂苷 (苷元為 Smilagenin) 等 
+	- 其他:
+		- β-Sitosterol (β-穀甾醇)、醣類。
+- 藥理研究:
+	- 對急性淋巴細胞型白血病 (Acute lymphoblastic leukemia)、慢性粒細胞型白血病 (Chronic Granulocytic Leukemia) 及急性單核細胞型白血病 (Acute myeloblastic leukemia) 患者的脫氫酶 (dehydrogenase)，有一定程度的抑制作用 
+	- 對多種細菌有抑制作用
+	- Asparagine 經動物試驗有鎮咳祛痰作用。 
+- 炮製:
+	- 取肥大明亮，去心與皮，酒蒸用 
+- 禁忌:
+	- 性冷利，胃虛無熱及瀉者忌用 
+- 配伍:
+	- 地黃、貝母為使 
+- 運用方劑: 
+	- 甘露飲、三才丸、天門冬膏

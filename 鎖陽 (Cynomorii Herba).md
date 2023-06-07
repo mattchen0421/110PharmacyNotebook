@@ -1,0 +1,33 @@
+#中藥藥物學
+- 基原:
+	- 鎖陽科 (Cynomoriaceae) 植物 
+	- 鎖陽 *Cynomorium songaricum* Rupr.
+- 產地:
+	- 主產於內蒙古、寧夏、新疆、甘肅、青海
+- 使用部位:
+	- 肉質莖
+- 性味、歸經: 
+	- 溫，甘
+	- 歸腎、肝、大腸經
+- 功用主治:
+	1. 益精興陽。治痿弱 
+	2. 潤滑大腸
+- 成分:
+	- ==三萜類==: 
+		- Ursolic acid 
+	- 植物固醇:
+		- β-Sitosterol、Daucosterol、Stigmasterol 
+	- ==類黃酮==:
+		- Anthocyanin (花色苷)、l-Catechin 、Naringenin 4′-O-glucopyranosìde、Anthocyanidin (花色素) 
+	- 其他:
+		- Succinic acid、Palmitic acid
+- 藥理研究:
+	- 在動物實驗中，鎖陽醇抽提物可顯著增加幼鼠血中 Testosterone 含量
+- 炮製:
+	- 採肉質莖酥炙用
+- 禁忌: 
+	- 脾虛泄瀉者慎服
+- 配伍:
+	- 與肉蓯蓉相須
+- 運用方劑:
+	- 鎖陽固精丸、精陰丸

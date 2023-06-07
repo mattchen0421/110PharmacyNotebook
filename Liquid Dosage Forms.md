@@ -1,0 +1,6 @@
+- Solution 溶液劑 (one phase) 
+	- oral liquids, eye, ear, or [[Rectal route|rectal]] preparations, irrigations, topical use, [[Parenteral (via injection)|parenteral]] products (injections) 
+- Disperse Systems 分散系(two phases) 
+- Suspension懸浮劑 
+- Emulsion乳化劑 
+- Aerosol氣化噴霧

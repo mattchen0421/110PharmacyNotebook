@@ -1,0 +1,21 @@
+
+- upper and lower respiratory tract and soft tissue infections 
+	- primarily caused by gram-positive microorganisms 
+		- S. pyogenes 
+		- S. pneumoniae
+- Legionnaires’ disease
+- prophylaxis of bacterial endocarditis 心內膜炎
+	- S. viridans
+- otitis media 中耳炎
+	- caused by H. influenzae (with a [[Sulfonamide class|sulfonamide]] added)
+- Mycoplasmal pneumonia
+- Mycobacterium avium complex infections in [[後天性免疫缺乏症候群 (Acquired  immunodeficiency syndrome, AIDS|AIDS]] patients (in combination with rifabutin)
+- 性傳播疾病
+	- gonorrhea and pelvic inflammatory disease, 
+		- caused by mixed infections involving cell wall–free organisms 
+			- such as C. trachomatis
+- gastric ulcers 
+	- H. pylori infection
+	- 雞尾酒療法
+- 抗菌 spectrum 相對狹窄
+- 在適當濃度下對大部分生物有益菌效果

@@ -1,0 +1,4 @@
+- reversible competitive inhibitors
+- inhibit bacterial biosynthesis of folic acid
+- Bacteriostatic
+- false metabolite

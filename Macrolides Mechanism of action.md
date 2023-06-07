@@ -1,0 +1,4 @@
+- [[Bacteriostatic and bactericidal|Bacteriostatic]]
+	- 高劑量可能 bactericidal
+- 不可逆結合在 50S subunit
+	- 抑制 translocation step
