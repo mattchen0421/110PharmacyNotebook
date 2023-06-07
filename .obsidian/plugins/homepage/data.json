@@ -5,7 +5,7 @@
       "version": 2,
       "openOnStartup": true,
       "hasRibbonIcon": true,
-      "openMode": "Replace all open notes",
+      "openMode": "Keep open notes",
       "manualOpenMode": "Keep open notes",
       "view": "Reading view",
       "revertView": false,

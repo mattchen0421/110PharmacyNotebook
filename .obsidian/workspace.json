@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f92052cecaab4d8",
+        "id": "9daa6ad0812a9c38",
         "type": "tabs",
         "children": [
           {
-            "id": "fa7610df7bf7e109",
+            "id": "5b875b2157a0550d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,10 +166,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6c66f30df2ae26b2",
+  "active": "5b875b2157a0550d",
   "lastOpenFiles": [
-    "notes/中藥藥物學.md",
+    "notes/testing git.md",
     "notes/Homepage.md",
+    "notes/中藥藥物學.md",
     "藥劑學.md",
     "玄學目錄.md",
     "notes/癲癇 (epilepsies).md",
@@ -193,7 +194,6 @@
     "notes/凝固性壞死 Coagulative necrosis.md",
     "notes/蔥白 (Allii Fistulosi Bulbus).md",
     "notes/蔓荊子 (Vitids Fructus).md",
-    "notes/熱原試驗.md",
     "notes",
     "新建文件夹",
     "PDF/108藥劑學期中.pdf",

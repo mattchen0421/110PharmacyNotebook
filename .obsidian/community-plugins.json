@@ -18,6 +18,7 @@
   "obsidian-latex-suite",
   "obsidian-text-format",
   "obsidian-hover-editor",
-  "open-in-new-tab",
-  "table-extended"
+  "table-extended",
+  "obsidian-git",
+  "open-in-new-tab"
 ]
