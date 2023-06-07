@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5,
-    "collapsed": true
+    "width": 247.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +167,9 @@
   },
   "active": "5b875b2157a0550d",
   "lastOpenFiles": [
-    "notes/testing git.md",
+    "notes/藥物化學.md",
     "notes/Homepage.md",
+    "notes/testing git.md",
     "notes/中藥藥物學.md",
     "藥劑學.md",
     "玄學目錄.md",
@@ -183,7 +183,6 @@
     "notes/藥劑Introduction目錄.md",
     "notes/藥理學.md",
     "notes/藥物依賴.md",
-    "notes/藥物化學.md",
     "notes/鎖陽 (Cynomorii Herba).md",
     "notes/瀉下藥.md",
     "notes/擴大性心肌症 (dilated cardiomyopathy).md",
