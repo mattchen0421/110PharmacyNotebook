@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9354dcd4f8538bfa",
+            "id": "fa7610df7bf7e109",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd64aed200c9192a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "藥劑學.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6589efc538bac02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄學目錄.md",
+                "file": "notes/Homepage.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "玄學目錄.md",
+                "file": "notes/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "玄學目錄.md"
+                "file": "notes/Homepage.md"
               }
             }
           },
@@ -157,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "玄學目錄.md",
+                "file": "notes/Homepage.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -194,36 +166,39 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d6589efc538bac02",
+  "active": "6c66f30df2ae26b2",
   "lastOpenFiles": [
+    "notes/中藥藥物學.md",
+    "notes/Homepage.md",
     "藥劑學.md",
-    "Homepage.md",
-    "PDF/108藥劑學期中.pdf",
-    "藥理學.md",
-    "Non-narcotic Analgesics 非麻醉性止痛藥目錄.md",
-    "NSAIDs.md",
-    "Anti-hypertensive drugs目錄.md",
-    "藥物化學.md",
-    "病理學.md",
-    "中藥藥物學.md",
     "玄學目錄.md",
-    "README.md",
+    "notes/癲癇 (epilepsies).md",
+    "notes/體液性免疫反應 (humoral-mediated).md",
+    "notes/體內水分失調.md",
+    "notes/驅蟲藥.md",
+    "notes/續斷 (Dipsaci Radix).md",
+    "notes/黨參 (Codonopsis Radix).md",
+    "notes/藥劑學.md",
+    "notes/藥劑Introduction目錄.md",
+    "notes/藥理學.md",
+    "notes/藥物依賴.md",
+    "notes/藥物化學.md",
+    "notes/鎖陽 (Cynomorii Herba).md",
+    "notes/瀉下藥.md",
+    "notes/擴大性心肌症 (dilated cardiomyopathy).md",
+    "notes/薄荷 (Menthae Herba).md",
+    "notes/總論目錄.md",
+    "notes/龜板 (Testudinis Carapax).md",
+    "notes/靜脈與淋巴管疾病.md",
+    "notes/凝固性壞死 Coagulative necrosis.md",
+    "notes/蔥白 (Allii Fistulosi Bulbus).md",
+    "notes/蔓荊子 (Vitids Fructus).md",
+    "notes/熱原試驗.md",
+    "notes",
+    "新建文件夹",
+    "PDF/108藥劑學期中.pdf",
     "110PharmacyNotebook/desktop.ini",
-    "110PharmacyNotebook/README.md",
     "110PharmacyNotebook",
-    "Effect of temperature on viscosity.md",
-    "Viscometry.md",
-    "Flow of liquid.md",
-    "Elastic deformation.md",
-    "Rheology.md",
-    "Specific surface area.md",
-    "Colloid.md",
-    "methylcellulose.md",
-    "Hypertensive emergency.md",
-    "Fenoldopam.md",
-    "α + β blockers.md",
-    "Vasodilators.md",
-    "Ca2+ Channel blockers.md",
     "_images/Pasted image 20230607193150.png",
     "_images/Pasted image 20230607193140.png",
     "_images/Pasted image 20230606003134.png",
@@ -239,8 +214,6 @@
     "二下期中/病理/diseases of infection/desktop.ini",
     "二下期中/病理/Diseases of Genetics and Immunity/desktop.ini",
     "二下期中/病理/Neoplasia/desktop.ini",
-    "二下期中/病理/Fluid and Hemodynamic Disorders/desktop.ini",
-    "二下期中/病理/Introduction/desktop.ini",
     "未命名.canvas"
   ]
 }
