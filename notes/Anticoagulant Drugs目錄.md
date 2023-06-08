@@ -7,3 +7,7 @@
 ### Intrinsic system
 - 所有的蛋白因子都存在於循環血液中
 - 形成凝血因子 Xa 需要數分鐘
+---
+## [[Heparin]]
+## Oral anticoagulants
+- [[Dicumarol and Warfarin]]
