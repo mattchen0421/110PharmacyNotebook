@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9daa6ad0812a9c38",
+        "id": "9301b59629d23a08",
         "type": "tabs",
         "children": [
           {
-            "id": "5b875b2157a0550d",
+            "id": "8e3f4891be433da4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +166,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5b875b2157a0550d",
+  "active": "8e3f4891be433da4",
   "lastOpenFiles": [
-    "notes/test git.md",
     "notes/Homepage.md",
+    "notes/The immune response.md",
+    "notes/Untitled.md",
+    "notes/Glucocorticoid drugs.md",
+    "notes/Cyclic peptides.md",
+    "notes/🍋Oxacillin and cloxacillin.md",
+    "notes/Ketorolac.md",
+    "notes/test git.md",
     "notes/藥理學.md",
     "notes/中藥藥物學.md",
     "notes/藥物化學.md",
@@ -187,12 +194,6 @@
     "notes/鎖陽 (Cynomorii Herba).md",
     "notes/瀉下藥.md",
     "notes/擴大性心肌症 (dilated cardiomyopathy).md",
-    "notes/薄荷 (Menthae Herba).md",
-    "notes/總論目錄.md",
-    "notes/龜板 (Testudinis Carapax).md",
-    "notes/靜脈與淋巴管疾病.md",
-    "notes/凝固性壞死 Coagulative necrosis.md",
-    "notes/蔥白 (Allii Fistulosi Bulbus).md",
     "notes",
     "新建文件夹",
     "PDF/108藥劑學期中.pdf",
