@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a226cd9505462eeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/藥劑學.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Homepage.md",
+                "file": "notes/藥劑學.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Homepage.md"
+                "file": "notes/藥劑學.md"
               }
             }
           },
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Homepage.md",
+                "file": "notes/藥劑學.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,8 +180,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e9e11b74a90c298c",
+  "active": "a226cd9505462eeb",
   "lastOpenFiles": [
+    "notes/藥劑Introduction目錄.md",
+    "notes/藥劑學.md",
+    "notes/Homepage.md",
     "notes/藥理學.md",
     "notes/Thrombolytic agents and Antiplatelet drugs目錄.md",
     "notes/Aspirin.md",
@@ -176,8 +193,6 @@
     "_images/Pasted image 20230608163541.png",
     "_images/Pasted image 20230608163530.png",
     "notes/Dicumarol and Warfarin.md",
-    "notes/Homepage.md",
-    "notes/藥劑學.md",
     "notes/玄學目錄.md",
     "notes/Heparin.md",
     "_images/Pasted image 20230608153110.png",
@@ -202,7 +217,6 @@
     "notes/Barbiturates (Thiopental and Methohexital).md",
     "notes/藥物依賴.md",
     "notes/Gamma-hydroxybutyric acid (GHB).md",
-    "notes/成癮物質.md",
     "notes",
     "新建文件夹",
     "PDF/108藥劑學期中.pdf",
