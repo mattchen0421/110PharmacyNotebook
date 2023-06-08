@@ -1,3 +1,6 @@
+---
+aliases: Anticonvulsants,
+---
 - [[癲癇 (epilepsies)]]
 - [[Glutamate receptors and GABA receptors]]
 - [[Drugs for Specific Seizure Types]]
