@@ -1,0 +1,1 @@
+## average size or weight (數平均分子量)
