@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa0ba8a19bded1c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/藥理學.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -167,8 +180,9 @@
   },
   "active": "5b875b2157a0550d",
   "lastOpenFiles": [
-    "notes/test git.md",
+    "notes/藥理學.md",
     "notes/Homepage.md",
+    "notes/test git.md",
     "notes/中藥藥物學.md",
     "notes/藥物化學.md",
     "notes/testing git.md",
@@ -182,7 +196,6 @@
     "notes/黨參 (Codonopsis Radix).md",
     "notes/藥劑學.md",
     "notes/藥劑Introduction目錄.md",
-    "notes/藥理學.md",
     "notes/藥物依賴.md",
     "notes/鎖陽 (Cynomorii Herba).md",
     "notes/瀉下藥.md",
