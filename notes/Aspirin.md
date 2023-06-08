@@ -1,6 +1,7 @@
 ## Mechanism of Action: 
 - irreversibly inhibits platelet: 
 	- antiplatelet effect. 
+	- 抑制 platelet cyclooxygenase $\rightarrow$ 抑制 thromboxane A<sub>2</sub> 生成
 ## Clinical Use and Dosing:
 - decreases the incidence of ==transient ischemic attacks, unstable angina, coronary artery [[血栓形成 (thrombosis)|thrombosis]] with myocardial [[梗塞 (infarction)|infarction]], and [[血栓形成 (thrombosis)|thrombosis]] after coronary bypass grafting==
 - lower incidence of colon cancer 
