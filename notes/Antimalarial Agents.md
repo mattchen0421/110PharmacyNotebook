@@ -1,0 +1,17 @@
+- [[Malaria]]
+## [[4-Substituted Quinolines]]
+- [[Quinine]] 
+- [[Quinidine]] 
+- [[Chloroquine and Hydroxychloroquine]] 
+- [[Piperaquine]]
+- [[Mefloquine (Lariam)]]
+- [[Halofantrine (Hafan)]]
+- [[Lumefantrine]] 
+- [[Quinacrine HCl]]
+## 8-Aminoquinolines
+- [[Primaquine]] 
+- [[Tafenoquine]]
+## Others
+- [[Atovaquone-proguanil (Malarone)]]
+- [[Artemisinins]]
+-  [[Doxycycline]]，[[Lincosamides#^e9fd3d|clindamycin]]，[[Azithromycin (Zithromax, Zmax)|azithromycin]]

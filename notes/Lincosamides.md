@@ -30,6 +30,9 @@
 - 分泌在 urine 和 bile
 ![[Pasted image 20230430221919.png]]
 ## Clindamycin
+
+^e9fd3d
+
 - 7(R)-OH $\rightarrow$ 7(S)-Cl \[7(S)-chloro-7-deoxylincomycin]
 	- 更高的生物活性，脂溶性
 	- 口服吸收更好
