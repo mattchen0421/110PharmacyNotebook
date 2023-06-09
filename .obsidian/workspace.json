@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "notes/Homepage.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -169,8 +169,9 @@
   },
   "active": "228cdd6db92afa3e",
   "lastOpenFiles": [
-    "notes/Antimalarial Agents.md",
+    "notes/范懿文不會用github.md",
     "notes/Homepage.md",
+    "notes/Antimalarial Agents.md",
     "notes/Lincosamides.md",
     "notes/Artemisinins.md",
     "_images/Pasted image 20230609213712.png",
@@ -204,7 +205,6 @@
     "notes/4-Substituted Quinolines.md",
     "notes/瀉下藥.md",
     "notes/Malaria.md",
-    "notes/祛風濕藥.md",
     "Molecular",
     "notes",
     "新建文件夹",
