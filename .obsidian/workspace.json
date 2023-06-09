@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "228cdd6db92afa3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Homepage.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Antimalarial Agents.md",
+                "file": "notes/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Antimalarial Agents.md"
+                "file": "notes/Homepage.md"
               }
             }
           },
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Antimalarial Agents.md",
+                "file": "notes/Homepage.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -167,10 +181,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "80b757330d5e48a8",
+  "active": "228cdd6db92afa3e",
   "lastOpenFiles": [
-    "notes/Lincosamides.md",
     "notes/Antimalarial Agents.md",
+    "notes/Lincosamides.md",
     "notes/Artemisinins.md",
     "_images/Pasted image 20230609213712.png",
     "notes/Atovaquone-proguanil (Malarone).md",
