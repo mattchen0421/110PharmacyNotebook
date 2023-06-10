@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "18e266ac3decca0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Homepage.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +181,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "228cdd6db92afa3e",
+  "active": "18e266ac3decca0e",
   "lastOpenFiles": [
     "notes/范懿文不會用github.md",
     "notes/Homepage.md",
