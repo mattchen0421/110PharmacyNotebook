@@ -32,22 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5ade523521b94431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Homepage.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Homepage.md",
+                "file": "notes/Atovaquone-proguanil (Malarone).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Homepage.md"
+                "file": "notes/Atovaquone-proguanil (Malarone).md"
               }
             }
           },
@@ -157,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Homepage.md",
+                "file": "notes/Atovaquone-proguanil (Malarone).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -194,10 +181,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5ade523521b94431",
+  "active": "09cb6e543c969151",
   "lastOpenFiles": [
-    "notes/Atovaquone-proguanil (Malarone).md",
     "notes/Homepage.md",
+    "notes/Atovaquone-proguanil (Malarone).md",
     "notes/Psychopharmacology目錄.md",
     "notes/Anti-Parkinson’s Disease Agents.md",
     "_images/Pasted image 20230610154732.png",
