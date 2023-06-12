@@ -25,7 +25,8 @@ aliases: Streptomycin, 鏈絲菌素
 
 ## 用途
 - G-(+) and G-(-) bacteria 活性
-- tubercle bacillus, Mycobacterium [[結核病 Tuberculosis (TB)|tuberculosis]] 活性
+- IV
+	- tubercle bacillus, Mycobacterium [[結核病 Tuberculosis (TB)|tuberculosis]] 活性
 
 ## 副作用
 - 神經毒性
