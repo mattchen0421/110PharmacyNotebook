@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd8c98267e2031e7",
+            "id": "1f254432b491ed7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notes/Homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -167,10 +167,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "dd8c98267e2031e7",
+  "active": "1f254432b491ed7b",
   "lastOpenFiles": [
-    "notes/藥劑學.md",
+    "notes/Turner’s syndrome.md",
+    "notes/染色體數目異常.md",
+    "notes/唐氏症 (Down syndrome).md",
+    "notes/病理學.md",
+    "notes/病理Introduction目錄.md",
     "notes/Homepage.md",
+    "二下期中/病理/Introduction/Introduction目錄.md",
+    "二下期中/病理/Introduction",
+    "二下期中/病理",
+    "二下期中",
+    "notes/藥劑學.md",
     "notes/范懿文不會用github.md",
     "notes/Atovaquone-proguanil (Malarone).md",
     "notes/Psychopharmacology目錄.md",
@@ -192,15 +201,9 @@
     "notes/Antipsychotic Drugs.md",
     "notes/Antidepressant Drugs.md",
     "notes/Barbiturates (Thiopental and Methohexital).md",
-    "notes/Transporters.md",
-    "notes/藥理學.md",
-    "notes/Antimalarial Agents.md",
-    "notes/Lincosamides.md",
-    "notes/Artemisinins.md",
     "_images/Pasted image 20230609213712.png",
     "_images/Pasted image 20230609213311.png",
     "_images/Pasted image 20230609213256.png",
-    "notes/Primaquine.md",
     "_images/Pasted image 20230609211802.png",
     "_images/Pasted image 20230609211130.png",
     "_images/Pasted image 20230609210933.png",
@@ -212,9 +215,6 @@
     "新建文件夹",
     "PDF/108藥劑學期中.pdf",
     "110PharmacyNotebook/desktop.ini",
-    "110PharmacyNotebook",
-    "PDF/藥劑期中考古.pdf",
-    "二下期中/病理/Inflammation and Repair/desktop.ini",
     "未命名.canvas"
   ]
 }
