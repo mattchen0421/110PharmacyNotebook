@@ -1,0 +1,11 @@
+- 生長慢
+	- 對抗生素治療抗性
+- 細胞壁含豐富的脂質 $\rightarrow$ 難以染色 
+	- 使用鹼性染料染色
+	- 抵抗酸性酒精去色
+- 耐酸性的細菌
+- Mycobacteria 
+	- Tuberculosis
+		- Mycobacterium tuberculosis (結核桿菌)
+	- Leprosy (Hansen’s Disease)
+		- Mycobacterium leprae (痲瘋桿菌)
