@@ -1,0 +1,7 @@
+- 在非正常的時間出血；或是出現非常大量的出血
+- 最常見的婦科疾病
+- 常見原因
+	- 無排卵周期 Anovulatory cycle
+	- 黃體期功能不全 Inadequate luteal phase
+	- 引起子宫内膜變化的口服避孕藥
+	- 更年期和更年期後 Menopausal and postmenopausal changes

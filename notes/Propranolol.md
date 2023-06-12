@@ -25,7 +25,7 @@
 - **Respiratory**
 	- ==Bronchoconstriction== due to blockade of $\beta_{2}$ receptors
 	- Not considerable in normal individual 
-		- May be dangerous in presence of asthma (avoid)
+		- May be dangerous in presence of [[支氣管性氣喘 (Asthma)|asthma]] (avoid)
 - **Eye**: 
 	- Decreases IOP by reducing production of aqueous humor 房水
 	- glaucoma
@@ -50,7 +50,7 @@
 ## ADRs
 - Bradycardia
 - Respiratory: 
-	- Bronchial asthma (life threatening asthma)
+	- Bronchial [[支氣管性氣喘 (Asthma)|asthma]] (life threatening [[支氣管性氣喘 (Asthma)|asthma]])
 - Risk of Coronary Heart Disease (triglyceride and LDL increase and fall in HDL)
 - Tiredness and reduced exercise capacity 
 	- $\beta_{2}$ muscle

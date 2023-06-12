@@ -6,7 +6,7 @@
 ## Methacholine:
 - ==More resistant== to AChE;
 - ==mAChR selective==
-- Cause bronchoconstriction that been used for the ==diagnosis of asthma==.
+- Cause bronchoconstriction that been used for the ==diagnosis of [[支氣管性氣喘 (Asthma)|asthma]]==.
 ## Carbachol:
 - Carbamoyl group provide resistance to AChE that extends duration of action
 - In addition to muscarinic agonist effect, also has enhanced nicotinic action which may result in non-specific effect at autonomic ganglion.

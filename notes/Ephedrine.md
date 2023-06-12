@@ -1,4 +1,4 @@
 - Excellent absorption orally and penetrate into the CNS
 - Used to prevent low blood pressure during spinal anesthesia
-- It has also been used for asthma, narcolepsy, and obesity but is not the preferred treatment.
+- It has also been used for [[支氣管性氣喘 (Asthma)|asthma]], narcolepsy, and obesity but is not the preferred treatment.
 - Common side effects include, trouble sleeping, anxiety, headache, hallucinations, high blood pressure, fast heart rate, loss of appetite, and inability to urinate

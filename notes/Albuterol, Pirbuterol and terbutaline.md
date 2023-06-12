@@ -4,8 +4,8 @@ aliases: salbutamol, Pirbuterol, terbutaline, Albuterol
 - Short-acting agonist of β<sub>2</sub> adrenoreceptor
 - Albuterol also known as salbutamol (INN)
 - Clinical Use
-	- Asthma
-	- Exercise induced asthma
+	- [[支氣管性氣喘 (Asthma)|Asthma]]
+	- Exercise induced [[支氣管性氣喘 (Asthma)|asthma]]
 	- Delay premature labor
 	- used primarily as bronchodilators and administered by a metered-dose inhaler
 - Side Effects

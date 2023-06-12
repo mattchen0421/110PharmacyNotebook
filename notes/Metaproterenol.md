@@ -5,7 +5,7 @@ aliases: orciprenaline
 - Chemically similar to [[isoproterenol]] but not a catecholamine
 - Also known as orciprenaline (INN)
 - Clinical Use
-	- Treatment of asthma 哮喘
+	- Treatment of [[支氣管性氣喘 (Asthma)|asthma]] 哮喘
 - Side Effects
 	- Tremor 顫抖症
 	- Tachycardia

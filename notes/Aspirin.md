@@ -14,4 +14,4 @@
 - gastric upset, 
 - gastric and duodenal ulcers,
 -  GI bleeding. 
-- (rarely: Hepatotoxicity, asthma, rashes, GI bleeding, and renal toxicity) 
+- (rarely: Hepatotoxicity, [[支氣管性氣喘 (Asthma)|asthma]], rashes, GI bleeding, and renal toxicity) 

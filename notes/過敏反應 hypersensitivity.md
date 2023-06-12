@@ -9,9 +9,9 @@ aliases: hypersensitivity, 過敏, 過敏反應
 1. antigen 與 IgE 結合在肥胖細胞 (mast cell) 細胞膜上
 2. mast cell 製造及釋放化學物質 (chemical mediator)
 	- 組織胺 (histamine)：血管擴張、血管通透性增加、平滑肌收縮
-3. 支氣管性氣喘 (asthma) 
+3. [[支氣管性氣喘 (asthma)]] 
 4. ==蕁麻疹== (urticaria)
-5. 過敏性鼻炎 (allergic rhinitis)
+5. [[過敏性鼻炎 (allergic rhinitis)]]
 6. 過敏性結膜炎 (allergic conjunctivitis)
 7. ==異位性皮膚炎== (atopic dermatitis)
 ## 第二型(細胞毒性型)過敏反應 Type II (cytotoxic) hypersensitivity

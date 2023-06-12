@@ -5,7 +5,7 @@ aliases: Hypoxia, ischemia
 	- 窒息、溺水 
 2. Inhibition of blood oxygenation in the lungs 
 	- 肺炎 pneumonia
-	- 慢性阻塞性肺部疾病 (COPD)
+	- 慢性阻塞性肺部疾病 ([[慢性阻塞性肺疾病 (Chronic obstructive pulmonary disease, COPD)|COPD]])
 3. Inadequate transport of oxygen in circulation 
 	- [[心臟衰竭]] heart failure
 	- 貧血 anemia 

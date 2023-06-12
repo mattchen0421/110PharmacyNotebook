@@ -53,7 +53,7 @@
 - Timolol ^f3e73c
 	- Most widely used ocular hypotensive agent 
 	- Due to its non selective beta action 
-		- cautious in COPD, asthma & heart failure
+		- cautious in [[慢性阻塞性肺疾病 (Chronic obstructive pulmonary disease, COPD)|COPD]], [[支氣管性氣喘 (Asthma)|asthma]] & heart failure
 - Carteolol: 
 	- Levobunolol
 - Betaxolol  ^1c9c50

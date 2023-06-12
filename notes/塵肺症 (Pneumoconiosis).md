@@ -1,0 +1,11 @@
+---
+aliases: 塵肺症, Pneumoconiosis
+---
+- 碳粒塵肺症 (coal worker’s pneumoconiosis)
+	- 黑色碳粒沉積
+- 矽肺症 (silicosis)
+	- 噴砂工、採礦工、採石工、切石工
+- 石綿症 (asbestosis)
+	- 船塢工人、建築工人
+	- 與肋膜間質瘤 (mesothelioma)、肺癌有關
+- 引起不可逆性肺纖維化，漸漸形成 honeycomblung ，病人最後死於肺衰竭(respiratory failure)

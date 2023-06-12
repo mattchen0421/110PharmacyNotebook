@@ -33,11 +33,11 @@
 ### Ipratropium, tiotropium
 - Synthetic quaternary amine derived from Atropine.
 - Charged, less absorbed and less systemic side effects.
-- Treatment of ==COPD== (chronic obstructive pulmonary disease).
+- Treatment of ==[[慢性阻塞性肺疾病 (Chronic obstructive pulmonary disease, COPD)|COPD]]== (chronic obstructive pulmonary disease).
 - ==M3 receptors== mediate smooth muscle contraction and mucus secretion in the airway, 
 - Ipratropium and tiotropium antagonist M3 mAChRs that cause bronchodilation and $\downarrow$ mucus secretion.
-- Ipratropium is not effective in treating asthma. 
-- Tiotropium has better efficacy in treating asthma and COPD.
+- Ipratropium is not effective in treating [[支氣管性氣喘 (Asthma)|asthma]]. 
+- Tiotropium has better efficacy in treating [[支氣管性氣喘 (Asthma)|asthma]] and [[慢性阻塞性肺疾病 (Chronic obstructive pulmonary disease, COPD)|COPD]].
 ## Cholinergic effect on voiding
 ### Oxybutynin, propantheline, tolterodine, fesoterodine, trospium, darifenacin, solifenacin
 - ==Darifenacin== and ==solifenacin== are more selective ==M3 antagonists== (less dry mouth and constipation side effects)
