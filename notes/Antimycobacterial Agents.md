@@ -2,19 +2,20 @@
 ## Antitubercular agents
 ### First line of drugs
 - [[Isoniazid (INH)]]
-- Rifampin
-- Rifapentine
+- [[Rifamycin antibiotics]]
 - [[Ethambutol]]
 - [[Streptomycin 鏈絲菌素|Streptomycin]]
 - [[Pyrazinamide]]
 ### Second line drugs
-- Ethionamide 
-- p-Aminosalicylic acid
-- Capreomycin
-- Kanamycin
-- Fluoroquinolones
-- Cycloserine
-- Bedaquiline Fumarate
+- [[Ethionamide]] 
+- [[p-Aminosalicylic acid]]
+- [[Capreomycin]]
+- [[Kanamycin]]
+- [[Amikacin]] 
+- [[Fluoroquinolones]]
+- [[Cycloserine (DCS)]]
+- [[Bedaquiline Fumarate (Sirturo)]]
+- [[Pretomanid]]
 ## Mycobacterium avium-intracellulare Complex (MAC) therapy
 - Azithromycin 
 - Clarithromycin 
