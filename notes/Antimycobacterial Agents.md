@@ -18,6 +18,7 @@
 - [[Pretomanid]]
 ## Mycobacterium avium-intracellulare Complex (MAC) therapy
 - Azithromycin 
+
 - Clarithromycin 
 ## Drug Therapy for Nontuberculous Mycobacterial Infections
 ### Leprostatic drugs
