@@ -13,5 +13,5 @@
 ## 用途
 - 成功用於治療 chloroquine-resistant strains of P. falciparum (惡性瘧原蟲)
 	- 抗藥株的首選藥物
-- + pyrimethamine、sulfadoxine、doxycycline、mefloquine
+- \+ pyrimethamine、sulfadoxine、doxycycline、mefloquine
 ![[Pasted image 20230609201211.png]]

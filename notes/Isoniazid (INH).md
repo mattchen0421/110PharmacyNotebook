@@ -24,3 +24,5 @@ aliases: Isoniazid, INH
 - hepatotoxicity
 	- (coadministration of pyridoxine may prevent symptoms 
 	 occurred)
+
+![[Pasted image 20230613135544.png]]

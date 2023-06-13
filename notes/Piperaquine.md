@@ -5,6 +5,6 @@
 - 代謝
 	- oxidation to the carboxylic acid
 ## 用途
-- + dihydroartemisinin 治療 chloroquine-resistant strains
+- \+ dihydroartemisinin 治療 chloroquine-resistant strains
 - 取代 [[Chloroquine and Hydroxychloroquine|Chloroquine]] 成為第一線藥物 
 ![[Pasted image 20230609204233.png]]

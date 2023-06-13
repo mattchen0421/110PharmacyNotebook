@@ -9,3 +9,4 @@
 - An acridine dye
 ## 副作用
 - 可能致瘤 tumorigenic and 誘發基因突變 mutagenic
+![[Pasted image 20230613135031.png]]
