@@ -17,12 +17,11 @@
 - [[Bedaquiline Fumarate (Sirturo)]]
 - [[Pretomanid]]
 ## Mycobacterium avium-intracellulare Complex (MAC) therapy
-- Azithromycin 
-
-- Clarithromycin 
+- [[Azithromycin (Zithromax, Zmax)|Azithromycin]] 
+- [[Clarithromycin]] 
 ## Drug Therapy for Nontuberculous Mycobacterial Infections
 ### Leprostatic drugs
-- Clofazimine
-- Dapsone
-- Rifampin
-- Thalidomide
+- [[Dapsone (DDS)]]
+- [[Clofazimine (Lamprene)]]
+- [[Rifamycin antibiotics|Rifampin]]
+- [[Thalidomide]]
