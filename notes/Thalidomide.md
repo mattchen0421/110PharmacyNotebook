@@ -2,6 +2,7 @@
 - 抑制 tumor necrosis factor α 的釋放和合成
 ## 特色
 - 口服
+- glutarimide
 ## 用途
 - 血管新生抑制劑
 - 免疫調節劑

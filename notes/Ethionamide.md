@@ -1,6 +1,8 @@
 ---
 aliases: 2-ethylthioisonicotinamide,
 ---
+## MOA
+- 抑制 inhA enoyl reductase
 ## SAR
 - 2-substitution
 	- 增加活性
