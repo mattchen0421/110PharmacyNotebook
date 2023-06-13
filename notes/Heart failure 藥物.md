@@ -9,7 +9,7 @@
 - BNP, brain natriuretic peptide
 - Nesiritide 
 - cGMP
-## 避免 cellular [[肥大 Hypertrophy|hypertrophy]]
+## 避免 cellular hypertrophy
 ### ß blocker
 - ß$_{1}$ selective
 - 不能用於 end stage HF

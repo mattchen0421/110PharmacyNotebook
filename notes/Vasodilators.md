@@ -1,3 +1,6 @@
+---
+aliases: Hydralazine, Minoxidil
+---
 - Hydralazine
 	- lupus-like syndrome
 	- 輔助用藥

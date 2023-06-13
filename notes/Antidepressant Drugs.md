@@ -25,13 +25,13 @@
 	- 異位正向調節 GABAa receptor $\rightarrow$  增加GABA的抑制效應
 	- IV
 ## DDI
-- TCAs + MAOIs
+- MAOIs + TCAs
 	- hypersympathetic response
 - MAOIs + L-dopa
 	- acute hypertensive reaction
+- MAOIs + SSRI
+	- 致命
 - [[Barbiturates (Thiopental and Methohexital)|Barbiturates]] 
 	- 誘導 [[Cytochrome P-450 Enzymes]] 
-- SSRI + MAOIs
-	- 致命
 - serotonin syndrome
 	- hyperthermia, shivering (寒戰), myoclonus (肌陣縮症), agitation (精神激昂), hypomania, nausea, tremor and coma
