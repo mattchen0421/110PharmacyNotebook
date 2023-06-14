@@ -11,13 +11,13 @@
 - Hypothyroidism 甲狀腺功能低下
 	- Cretinism
 	- Myxedema
-- Hashimoto thyroiditis 橋本氏甲狀腺炎
+- [[Hashimoto thyroiditis 橋本氏甲狀腺炎]]
 - Diffuse/Nodular goiter
 - Neoplasms of the thyroid
 	- Follicular adenoma 濾泡腺瘤
 - Carcinomas of the thyroid
-	- papillary carcinoma
-	- follicular carcinoma
+	- [[Papillary carcinoma 乳突狀癌]]
+	- [[follicular carcinoma]]
 ## Parathyroid glands 副甲狀腺
 - Primary hyperparathyroidism
 - Secondary hyperparathyrodism

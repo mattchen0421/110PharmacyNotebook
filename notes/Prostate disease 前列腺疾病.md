@@ -12,3 +12,10 @@
 - Infection 
 - Chronic renal failure
 ## Carcinoma of the prostate 前列腺癌
+- 男性最常見腫瘤之一
+- 好發於男人老人
+- 與 Testosterone、基因、環境有關
+- TMPRSS2-ETS fusion gene (Caucasian)
+- PI3K/AKT
+- 通常發生在周邊腺體
+- 轉移到淋巴結、骨骼、肺部和肝臟

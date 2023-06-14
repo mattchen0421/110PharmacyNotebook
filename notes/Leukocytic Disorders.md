@@ -46,3 +46,11 @@
 - Plasma cell 長的惡性疾病, 通常長在多處骨髓 (multiple myeloma)
 - 好發於大於45歲
 - CRAB (hypercalcemia, renal insufficiency, anemia, bone lesion)
+### 診斷
+- X-ray study
+	- 頭顱骨X光典型可見 punched-out holes
+- Serum or urine electrophoresis (電泳)
+	- monoclonal spike (M protein), 是 neoplastic plasma cells 所分泌
+- Bence Jones protein in urine
+- 骨髓切片
+	- neoplastic plasma cells

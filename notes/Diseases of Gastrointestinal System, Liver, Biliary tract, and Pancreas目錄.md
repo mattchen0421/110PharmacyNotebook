@@ -4,19 +4,12 @@
 - Barrett Esophagus 
 - Esophageal Tumors
 ### Stomach 
-- Acute Gastritis 
-	- Acute gastric ulceration
-- Chronic Gastritis
-- Hypertrophic Gastropathies
-- Gastric Polyps and Tumors
-
-
 - Chronic Gastritis
 - Helicobacter pylori gastritis
 - Autoimmune gastritis
 - Gastric adenocarcinoma 
 - Lymphoma
-- Gastrointestinal stromal tumor (GIST)
+- [[Gastrointestinal stromal tumor (GIST)]]
 ### Small intestine and colon 
 - Pseudomembranous colitis
 - Inflammatory bowel disease

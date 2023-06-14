@@ -1,0 +1,20 @@
+- 自體免疫性甲狀腺破壞
+- 好發於 45-65 歲，女性
+- 遺傳因素
+	- 一等親和 monozygotic twin 中發生頻率增加
+- 甲狀腺素 Thyroxine 降低
+- 甲狀腺刺激素 TSH 升高
+- CD4 (+) 和 CD8(+) T 細胞
+- 對甲狀腺抗原的 Autoantibodies
+	- 甲狀腺球蛋白 Thyroglobulin 和甲狀腺 peroxidase
+	- TSH 受體
+	- Anti-microsomal 抗體
+- 均勻無痛性腫大的甲狀腺
+- 單核細胞浸潤
+	- 生發中心形成 
+- 甲狀腺泡萎縮，少量膠質
+	- Hurthle細胞 
+- 增加其他自體免疫疾病的風險 
+	- 邊緣帶淋巴瘤 Marginal zone lymphoma
+	- Hurthle 細胞腫瘤 
+	- [[Papillary carcinoma 乳突狀癌]] 
