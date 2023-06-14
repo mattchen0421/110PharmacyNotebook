@@ -20,6 +20,4 @@
 - eplerenone
 ## Renin inhibitor
 - Aliskien
-### 副作用
-- 腹瀉
-- 致畸胎
+	- 副作用: 腹瀉、致畸胎
