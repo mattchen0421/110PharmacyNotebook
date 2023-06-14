@@ -23,7 +23,7 @@
 - Secondary hyperparathyrodism
 - Hypoparathyrodism
 ## Adrenal gland 腎上腺
-- Primary hyperaldosteronism 原發性留鹽激素過多症
+- [[Primary hyperaldosteronism 原發性留鹽激素過多症]]
 - Cushing disease
 - Adrenogenital syndrome
 - Congenital adrenal hyperplasia
