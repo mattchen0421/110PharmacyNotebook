@@ -28,7 +28,7 @@
 - 好發老人
 ## Lymphoma 淋巴癌
 - lymphocyte 長的惡性疾病，通常在 lymph node，但也可以在其他地方 (extranodal)
-### 何杰金氏淋巴瘤 (Hodgkin lymphoma, HL)
+### 非何杰金氏淋巴瘤 (non-Hodgkin lymphoma, NHL)
 - 大多數是 B-cell lymphoma
 #### 濾泡性淋巴瘤 follicular lymphoma
 - 好發於成人，通常長的慢
@@ -38,7 +38,7 @@
 #### 勃奇氏淋巴瘤 Burkitt lymphoma
 - 長的非常非常快 (高惡性度)
 - Children infected with EBV
-### 非何杰金氏淋巴瘤 (non-Hodgkin lymphoma, NHL)
+### 何杰金氏淋巴瘤 (Hodgkin lymphoma, HL)
 - 通常長在淋巴結, 很少 extranodal or leukemia
 - Reed-Sternberg cell (RS cell)
 - 預後主要依據臨床分期

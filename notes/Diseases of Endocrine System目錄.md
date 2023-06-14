@@ -7,7 +7,7 @@
 - Syndrome of inappropriate secretion of ADH (SIADH) 抗利尿激素不當分泌症候群
 ## Thyroid 甲狀腺
 - Hyperthyroidism 甲狀腺機能亢進
-	- Graves diseases 格雷夫氏症
+	- [[Graves diseases 格雷夫氏症]]
 - Hypothyroidism 甲狀腺功能低下
 	- Cretinism
 	- Myxedema
