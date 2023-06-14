@@ -28,3 +28,33 @@ $\mathrm{I}$: 出射光強度
 $\tau$: turbidity
 $\mathrm{L}$: 光徑 (1 cm)
 ### Molecular weight of colloid
+- osmotic pressure 測量
+```
+待補充
+```
+### polymer molecular weights from solution viscosity
+$$
+\eta= \frac{\pi\times R^4t\times\Delta P}{8\times L\times V}
+$$
+$$
+\eta=k\times\rho \times t
+$$
+同一黏度計下
+$$
+\frac{\eta_{2}}{\eta_{1}}= \frac{\rho_{2}\times t_{2}}{\rho_{1}\times t_{1}}
+$$
+$$
+\because \mathrm{稀薄溶液下} \rho_{1}=\rho_{2}
+$$
+$$
+\therefore \frac{\eta_{2}}{\eta_{1}}=\frac{t_{2}}{t_{1}}=\eta_{r}\;\mathrm{相對黏度}
+$$
+$$
+\because\eta_{12}=\eta_{1}\times(1+2.5\phi)
+$$
+$$
+\therefore \eta_{r}-1=2.5 \phi =\eta_{sp}\; \mathrm{特性黏度}
+$$
+$$
+\frac{\eta_{sp}}{C}=[\eta]+k[\eta^{2} ]C+\dots\;\mathrm{Huggins\; equation}
+$$

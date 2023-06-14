@@ -4,7 +4,7 @@
 ## 治療用途
 - class IA blocker of fast Na<sup>+</sup> channels
 - anti cholinergic blockade
-	- + digitalis glycoside
+	- \+ digitalis glycoside
 - 僅限於治療嚴重的瘧疾感染
 ## 藥動
 - 毒性 & 效力 > [[Quinine]] 
