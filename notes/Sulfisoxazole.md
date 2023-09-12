@@ -1,3 +1,5 @@
+- 最不易造成結晶尿
+- 短效型及中效型磺胺藥
 - Sulfisoxazole acetyl
 	- [[Prodrug]]
-	- ![[Pasted image 20230314223831.png]]
+	- ![[Pasted image 20230314223831.png|300]]

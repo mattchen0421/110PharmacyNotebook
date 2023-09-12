@@ -2,4 +2,4 @@
 	- against ==gram-negative== organisms
 	- clinical use is generally restricted due to the development of bacterial [[Resistance to sulfa drug]]
 - Susceptible organisms may include enterobacteriaceae (*E*. coli, *Klebsiella*, and *Proteus*) and *Streptococcus pyogenes*, *Streptococcus pneumoniae*, and *Haemophilus*.
-- [[Sulfamethoxazole and trimethoprim]] is more commonly seen
+- [[Sulfamethoxazole]] is more commonly seen

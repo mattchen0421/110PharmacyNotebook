@@ -1,5 +1,6 @@
-- prodrugs that react to generate active sulfanilamides
-- for intestinal infections, ==ulcerative colitis==, or reduction of bowel flora
+- prodrug 由直腸 Azo reductace 分解
+	- Mesalamine消炎 + Sulfapyridine 殺菌
+- 治療潰瘍性結腸炎, 類風溼性關節炎
 - for Crohn disease
 ## DMARDs
 ### Mechanism: 

@@ -13,7 +13,7 @@ aliases: sulfonamide
 	- 眼用磺胺藥
 - [[Sulfisoxazole]]
 	- 短效型及中效型磺胺藥
-- [[Sulfamethoxazole and Trimethoprim]]
+- [[Sulfamethoxazole]]
 	- 短效型及中效型磺胺藥
 ---
 ![[Pasted image 20230315090344.png]]
