@@ -1,4 +1,3 @@
-^9137ba
 # 藥動
 ## 給藥 Administration
 
@@ -6,7 +5,7 @@
 - 集中在酸性溶液(acidic prostatic & vaginal fluid)
 - 進入腦脊髓液(CSF)
 ## 代謝 Metabolism
-- 半衰期與sulfamethoxazole相似
+- 半衰期與[[Sulfonamides 個論|sulfamethoxazole]]相似
 - 活性 > 其他 sulfonamides
 ## 排泄 Excretion
 # 應用

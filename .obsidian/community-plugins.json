@@ -14,11 +14,11 @@
   "obsidian-spaced-repetition",
   "obsidian-outliner",
   "homepage",
-  "obsidian-image-toolkit",
   "obsidian-latex-suite",
   "obsidian-text-format",
   "obsidian-hover-editor",
   "table-extended",
   "obsidian-git",
-  "janitor"
+  "janitor",
+  "awesome-image"
 ]

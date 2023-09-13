@@ -149,5 +149,13 @@
       ],
       "key": "Enter"
     }
+  ],
+  "obsidian-text-format:text-format-remove-wiki-link": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
   ]
 }

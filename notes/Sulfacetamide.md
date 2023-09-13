@@ -1,3 +1,0 @@
-- Sulfacetamide Sodium
-	- 治療細菌性結膜炎
-	- ![[Pasted image 20230314223402.png|300]]
