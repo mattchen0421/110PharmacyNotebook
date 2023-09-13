@@ -1,10 +1,7 @@
 {
   "attachmentFolderPath": "_images",
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "zh-CN",
-    "en"
-  ],
+  "spellcheckLanguages": null,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "autoPairMarkdown": true,
