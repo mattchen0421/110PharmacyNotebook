@@ -8,5 +8,6 @@
   "autoConvertHtml": true,
   "smartIndentList": true,
   "useTab": true,
-  "livePreview": true
+  "livePreview": true,
+  "propertiesInDocument": "visible"
 }
