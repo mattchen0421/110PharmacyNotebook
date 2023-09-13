@@ -1,3 +1,8 @@
+---
+aliases:
+  - Mafenide
+---
+
 - 治療火傷用磺胺藥
 - 不具 Aniline
 - effective against Clostridium welchii 魏氏梭菌

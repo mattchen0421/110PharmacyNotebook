@@ -16,11 +16,11 @@
 - 腎絲球過濾排除
 # 應用
 ## ⚡急性泌尿道感染(UTIs)
-- [[sulfisoxazole]], co-trimoxazole
+- [[sulfisoxazole]], [[co-trimoxazole]]
 ## 土壤絲菌病(Nocardiosis)
 - [[sulfisoxazole]], [[Silver sulfadiazine|sulfadiazine]], or [[tetracycline]]
 ## 外用 (Topical uses)
-- [[sulfacetamide]], [[silver sulfadiazine]], mafenide
+- [[sulfacetamide]], [[silver sulfadiazine]], [[Mafenide acetate (sulfamylon)|mafenide]]
 ## 細菌性結膜炎(bacterial conjunctivitis)
 - [[sulfacetamide]], or [[tetracycline]]
 ## 急性中耳炎(Acute otitis media)
