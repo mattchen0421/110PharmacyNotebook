@@ -1,7 +1,8 @@
-## First-generation
+## First-generation (G(-))
 - [[Nalidixic acid]]
+	- C3 COOH 沒 F
 - [[Cinoxacin]]
-## Second-generation
+## Second-generation (G(-) & G(+))
 - [[Norfloxacin]] (available outside of the USA)
 	- 治療UTIs和攝護腺炎
 	- 對 G(-) & G(+) 有效
@@ -11,16 +12,35 @@
 	- 抗炭疽菌和綠膿桿菌
 	- 對 MRSA, 腸球菌 enterococci & 肺炎鏈球菌 pneumococci 無效
 	- 抑制 ==CYP1A2==
+		- 使 Theophylline 濃度上升
 	- secondary alkylamine
 	- a carboxylic acid
 	- amphoteric
-## Third-generation
+## Third-generation (respiratory FQ)
 - [[Levofloxacin]]
+	- 左旋 ofloxacin
+	- 治療攝護腺炎和性傳染病
+	- 特別適合治療肺炎鏈球菌 (respiratory FQ)
 - [[Gatifloxacin]]
+	- 口服
+		- respiratory FQ
 - [[Gemifloxacin]]
-## Fourth-generation
+	- 口服
+		- respiratory FQ
+## Fourth-generation (G(-) & G(+)+ & 厭氧)
 - [[Besifloxacin]]
 - [[Finafloxacin]]
 - [[Delafloxacin]]
 - [[Ozenoxacin]]
 - [[Moxifloxacin]]
+	- 口服或IV
+		- respiratory FQ
+	- 對厭氧菌和G(+)較有效
+	- **高肝臟清除率**
+		- 適合腎功能不全病患
+	- 不建議用於泌尿道感染
+- Trovafloxacin
+	- 對厭氧菌和G(+)較有效
+	- + aminoglycosides 治療假單胞菌屬 pseudomonas (綠膿桿菌)
+	- 限用於危害生命之感染
+	- 不可連用超過14天
