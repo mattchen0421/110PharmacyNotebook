@@ -3,6 +3,9 @@
 - [[Cinoxacin]]
 ## Second-generation
 - [[Norfloxacin]] (available outside of the USA)
+	- 治療UTIs和攝護腺炎
+	- 對 G(-) & G(+) 有效
+	- 對厭氧菌無效
 - [[Ciprofloxacin]]
 	- 治療腸桿菌科 _Enterobacteriaceae_ 和 G-(-) bacteria
 	- 抗炭疽菌和綠膿桿菌
