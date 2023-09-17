@@ -8,7 +8,7 @@
 - Fosinopril
 	- glucuronide conjugation
 ## 排泄 Excretion
-- 不通過腎臟排泄
+- 通過腎臟 + 肝臟
 # 應用
 - 活性 [[Captopril (sulfhydryl-containing)|Captopril]] < Fosinoprilat < [[Enalaprilat and Enalapril (dicarboxylate-containing)|Enalaprilat]] 
 # 藥化

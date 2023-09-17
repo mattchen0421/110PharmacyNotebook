@@ -25,9 +25,12 @@ aliases:
 	- olmesartan medoxomil $\rightarrow$ olmesartan
 ## 排泄 Excretion
 # 應用
+- Candesartan cilexetil 有對 AC1 最強抑制效果
+- Telmisartan 最常效
 # 副作用
 - Telmisartan
 	- 避免肝功能不全或膽道阻塞病患
+- 注意血鉀
 - 致畸胎
 # 抗藥性
 # 藥化
