@@ -9,5 +9,7 @@
   "smartIndentList": true,
   "useTab": true,
   "livePreview": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "showLineNumber": true,
+  "autoPairBrackets": true
 }
