@@ -157,5 +157,13 @@
       ],
       "key": "R"
     }
+  ],
+  "obsidian-text-format:text-format-titlecase": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "CapsLock"
+    }
   ]
 }

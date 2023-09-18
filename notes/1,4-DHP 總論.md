@@ -1,3 +1,13 @@
+---
+aliases:
+  - Clevidipine
+  - Nisoldipine
+  - Amlodipine
+  - Nifedipine
+  - Nicardipine
+---
+
+![[Pasted image 20230918231049.png]]
 # 藥動
 ## 給藥 Administration
 - 與食物有交互作用
@@ -21,6 +31,8 @@
 	- 因脂溶性高用於治療出血性中風
 	- 可治療蜘蛛膜下腔出血
 - 高血壓首選 Nifedipine 
+- 心絞痛用藥
+	- Nifedipine, Nicardipine, Amlodipine
 # 副作用
 -  反射性心跳過速
 - 便祕

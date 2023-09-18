@@ -1,3 +1,8 @@
+---
+aliases:
+  - ISA
+---
+
 - Pindolol, Celiprolol, Acebutolol
 - Advantages: 
 	- Partial agonist action
