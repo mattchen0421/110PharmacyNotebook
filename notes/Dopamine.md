@@ -4,11 +4,11 @@
 - Β<sub>1</sub> stimulation 
 	- ↑(HR & contractility)   →  ↑ (CO & SBP)
 - Receptor stimulation depends on dose given
-- Low dose (2-5 μg/kg/minute): 
-	- D<sub>1</sub> →  ↑ renal perfusion
-- Medium dose (5-10 μg/kg/minute): 
-	- β<sub>1</sub> →  ↑ CO
-- High dose (10-30 μg/kg/minute):
-	- α<sub>1</sub> →  ↑ PVR 
-	- ↓ renal blood flow
+	- Low dose (2-5 μg/kg/minute): 
+		- D<sub>1</sub> →  ↑ renal perfusion
+	- Medium dose (5-10 μg/kg/minute): 
+		- β<sub>1</sub> →  ↑ CO
+	- High dose (10-30 μg/kg/minute):
+		- α<sub>1</sub> →  ↑ PVR 
+		- ↓ renal blood flow
 ![[Pasted image 20230406122147.png]]
