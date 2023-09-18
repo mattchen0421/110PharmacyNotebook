@@ -1,4 +1,5 @@
 # 應用
+- 降血壓
 - 改善腎臟病患者之蛋白尿
 # 副作用
 - 抑制 bradykinin 分解 $\rightarrow$ 乾咳
@@ -7,6 +8,8 @@
 - 致畸胎
 - 不用於單側或雙側腎動脈狹窄之高血壓患者或孕婦
 # 藥化
+## MOA
+- 抑制 Angiotensin ll 形成
 ## SAR
 ![[Pasted image 20230917142223.png]]
 - N-ring carboxylic acid

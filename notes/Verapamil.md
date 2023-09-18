@@ -6,6 +6,7 @@
 - CYP2D6 $\rightarrow$ O-demethylation (無活性代謝物)
 ## 排泄 Excretion
 # 應用
+- 高血壓
 - 心臟首選
 	- 同時抑制 AV node 及血管 $\rightarrow$ 不會產生心跳過速
 # 副作用

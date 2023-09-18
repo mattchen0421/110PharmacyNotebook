@@ -1,3 +1,9 @@
+---
+aliases:
+  - Fosinoprilat
+  - Fosinopril
+---
+
 ![[Pasted image 20230917143901.png|200]]
 # 藥動
 ## 給藥 Administration
@@ -10,7 +16,8 @@
 ## 排泄 Excretion
 - 通過腎臟 + 肝臟
 # 應用
-- 活性 [[Captopril (sulfhydryl-containing)|Captopril]] < Fosinoprilat < [[Enalaprilat and Enalapril (dicarboxylate-containing)|Enalaprilat]] 
+- 降血壓
+	- 活性 [[Captopril (sulfhydryl-containing)|Captopril]] < Fosinoprilat < [[Enalaprilat, Enalapril and others (dicarboxylate-containing)|Enalaprilat]] 
 # 藥化
 ## SAR
 - phosphinate 模仿 transition state of angiotensin I hydrolysis

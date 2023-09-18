@@ -9,9 +9,10 @@ aliases:
 	- 對光不穩定
 ## 分布 Distribution
 ## 代謝 Metabolism
-- 被 hepatic thermolabile phenol sulgotransferase (SULT1A1) 代謝
-	-  $\rightarrow$ minoxidil N-O-sulfate (活性代謝物)
-- 主要代謝物是 N-O-glucuronide (活性較弱)
+- minoxidil
+	- 被 hepatic thermolabile phenol sulgotransferase (SULT1A1) 代謝
+		-  $\rightarrow$ minoxidil N-O-sulfate (活性代謝物)
+	- 主要代謝物是 N-O-glucuronide (活性較弱)
 ## 排泄 Excretion
 # 應用
 - Minoxidil 
@@ -22,7 +23,10 @@ aliases:
 	- 短期治療住院病患
 	- 非利尿劑但很像
 	- 升血糖
+		- 活化 K<sup>+</sup> channel $\rightarrow$ 抑制胰島素釋放
 # 副作用
+- Minoxidil
+	- 周邊血管水腫
 # 藥物交互作用
 - 不與其他利尿劑和降血壓藥同用
 # 藥化

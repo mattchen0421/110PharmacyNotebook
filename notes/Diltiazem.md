@@ -7,6 +7,7 @@
 - CYP2D6 $\rightarrow$ O-demethylation
 ## 排泄 Excretion
 # 應用
+- 高血壓
 - 同時抑制 AV node 及血管 $\rightarrow$ 不會產生心跳過速
 # 副作用
 # 藥物交互作用

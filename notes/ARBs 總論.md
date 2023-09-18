@@ -4,10 +4,10 @@ aliases:
   - IRBESARTAN
   - LORSARTAN
   - OLMESARTAN
-  - VALSARTAN
   - EPROSARTAN
   - TELMISARTAN
   - AZILSARTAN
+  - Valsartan
 ---
 
 # 藥動
@@ -25,8 +25,11 @@ aliases:
 	- olmesartan medoxomil $\rightarrow$ olmesartan
 ## 排泄 Excretion
 # 應用
-- Candesartan cilexetil 有對 AC1 最強抑制效果
-- Telmisartan 最常效
+- 降血壓
+	- Candesartan cilexetil 有對 AT1 最強抑制效果
+	- Telmisartan 最長效
+- Valsartan
+	- 用於心衰竭(不能用 ACEi 的病患)
 # 副作用
 - Telmisartan
 	- 避免肝功能不全或膽道阻塞病患
@@ -36,6 +39,7 @@ aliases:
 # 藥化
 ## MOA
 - type III (cardiac) 
+- 阻斷AT1 receptor
 - 抑制 cAMP, cGMP 代謝 $\rightarrow$ 血管舒張
 ## SAR
 ![[Pasted image 20230917152313.png]]

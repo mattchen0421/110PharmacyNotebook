@@ -22,6 +22,8 @@ aliases:
 - + 肝排泄的有
 	- Trandolapril
 	- Moexipril
+# 應用
+- 降血壓
 # 藥化
 ## SAR
 ![[Pasted image 20230917134719.png|200]]

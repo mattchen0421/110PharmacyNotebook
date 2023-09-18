@@ -7,6 +7,7 @@
 - 代謝快需持續輸液
 ## 排泄 Excretion
 # 應用
+- 高血壓 (急性)
 # 副作用
 - 微量金屬 (Fe，Cu) 催化分解產生 cyanide
 	- 由 sodium thiosulfate 治療

@@ -6,7 +6,7 @@
 - Acetylation, hydroxylation, and conjugation with glucuronic acid
 ## 排泄 Excretion
 # 應用
-- 用於中重度高血壓
+- 用於中重度高血壓 (急性)
 # 副作用
 - Acetylation 較慢者會引起 lupus-like syndrome
 - 反射性心跳加快

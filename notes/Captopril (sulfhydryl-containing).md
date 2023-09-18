@@ -10,6 +10,8 @@ aliases:
 - 形成 dimers and disulfides
 	- oxidative dimerization or conjugation
 	- 降低有效時間
+# 應用
+- 降血壓
 # 副作用
 - 味覺干擾
 - 皮疹
