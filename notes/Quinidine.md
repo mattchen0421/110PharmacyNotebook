@@ -9,10 +9,7 @@
 - hydroxylation + O-demethylation $\rightarrow$ 降低活性
 ## 排泄 Excretion
 # 應用
-- class IA blocker of fast Na<sup>+</sup> channels
-	- 毒性 & 效力 > [[Quinine]] 
-- anti cholinergic blockade
-	- \+ digitalis glycoside
+- 心律不整用藥
 - 僅限於治療嚴重的瘧疾感染
 # 副作用
 - Quinidine syncope
@@ -26,6 +23,10 @@
 - 加強 [[Cardiac Glycosides]] 
 # 藥化
 ## MOA
+- class IA blocker of fast Na<sup>+</sup> channels
+	- 毒性 & 效力 > [[Quinine]] 
+- anti cholinergic blockade
+	- \+ digitalis glycoside
 - 
 ## SAR
 - quinoline ring + quinuclidine

@@ -3,7 +3,7 @@
   "homepages": {
     "Main Homepage": {
       "version": 2,
-      "openOnStartup": true,
+      "openOnStartup": false,
       "hasRibbonIcon": true,
       "openMode": "Keep open notes",
       "manualOpenMode": "Keep open notes",
@@ -15,7 +15,8 @@
       "pin": false,
       "value": "Homepage",
       "kind": "File",
-      "commands": []
+      "commands": [],
+      "openWhenEmpty": true
     }
   },
   "separateMobile": false
