@@ -11,7 +11,8 @@ aliases:
 	- oxidative dimerization or conjugation
 	- 降低有效時間
 # 應用
-- 降血壓
+- 降血壓用藥
+- 心衰竭用藥
 # 副作用
 - 味覺干擾
 - 皮疹

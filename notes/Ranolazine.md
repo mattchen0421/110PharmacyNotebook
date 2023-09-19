@@ -4,6 +4,7 @@
 ## 代謝 Metabolism
 ## 排泄 Excretion
 # 應用
+- 心絞痛藥物
 # 副作用
 - 頭痛，便秘
 - prolong QT interval
