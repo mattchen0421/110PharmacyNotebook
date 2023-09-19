@@ -3,6 +3,7 @@
 - [[#phase 2 (Plateau phase)|phase 2 (Plateau phase)]]
 - [[#phase 3 (repolarization)|phase 3 (repolarization)]]
 - [[#phase 4|phase 4]]
+![[Pasted image 20230605231633.png|300]]
 ## phase 0
 - resting potential 跨過閥值
 ### Nonpacemaker

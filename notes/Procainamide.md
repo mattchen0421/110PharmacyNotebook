@@ -1,3 +1,4 @@
+
 - [[Cytochrome P-450 Enzymes]] 代謝
 	- acetylation $\rightarrow$ NAPA (*N*-acetyl procainamide)
 		- 高度選擇性 K<sup>+</sup> channel blocker

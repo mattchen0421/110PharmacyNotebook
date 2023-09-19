@@ -1,23 +1,34 @@
-## SAR
-- 3R:4S:8R:9S
-- [[quinine]] 的 C9 stereoisomer  
-## 治療用途
+# 藥動
+## 給藥 Administration
+## 分布 Distribution
+- 選擇性差
+	- 同時抑制 Na<sup>+</sup>, Ca<sup>2+</sup>, K<sup>+</sup>
+## 代謝 Metabolism
+- 高血漿蛋白結合率
+	- 代謝慢
+- hydroxylation + O-demethylation $\rightarrow$ 降低活性
+## 排泄 Excretion
+# 應用
 - class IA blocker of fast Na<sup>+</sup> channels
+	- 毒性 & 效力 > [[Quinine]] 
 - anti cholinergic blockade
 	- \+ digitalis glycoside
 - 僅限於治療嚴重的瘧疾感染
-## 藥動
-- 毒性 & 效力 > [[Quinine]] 
-- 選擇性差
-	- 同時抑制 Na<sup>+</sup>, Ca<sup>2+</sup>, K<sup>+</sup>
-- 高血漿蛋白結合率
-	- 代謝慢
-## 藥物相互作用
-- 強抑制 [[Cytochrome P-450 Enzymes]] 
-## 副作用
+# 副作用
 - Quinidine syncope
 	- 使用初期心跳加速
 	- 缺氧昏迷
 	- 藥物減量已改善
 - Torsades de points 心律不整
-![[Pasted image 20230609200959.png]]
+- 不純物 Dihydroquinidine 有顯著毒性
+# 藥物交互作用
+- 強抑制 [[Cytochrome P-450 Enzymes]] 
+- 加強 [[Cardiac Glycosides]] 
+# 藥化
+## MOA
+- 
+## SAR
+- quinoline ring + quinuclidine
+- 3R:4S:8R:9S
+- [[quinine]] 的 C9 stereoisomer  
+![[Pasted image 20230609200959.png|300]]
