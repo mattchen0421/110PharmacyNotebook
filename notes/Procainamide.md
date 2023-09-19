@@ -1,3 +1,18 @@
+# 藥動
+## 給藥 Administration
+## 分布 Distribution
+## 代謝 Metabolism
+## 排泄 Excretion
+# 應用
+# 副作用
+# 藥物交互作用
+# 藥化
+## MOA
+- 
+## SAR
+- 與 procaine 生物等效
+	- ester $\rightarrow$ amide
+
 
 - [[Cytochrome P-450 Enzymes]] 代謝
 	- acetylation $\rightarrow$ NAPA (*N*-acetyl procainamide)
