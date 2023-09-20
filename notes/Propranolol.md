@@ -13,9 +13,9 @@
 	- hydroxylation $\rightarrow$ 4-hydroxy derivative (活性代謝物)
 ## 排泄 Excretion
 # 應用
-- 抗心律不整
-	- Class II
+- 最適用於治療心房心律不整及防止心肌梗塞復發
 - 也用於治療 digitalis-induced 心律不整
+- 預防偏頭痛第一線用藥
 # 副作用
 - 氣喘
 # 藥物交互作用

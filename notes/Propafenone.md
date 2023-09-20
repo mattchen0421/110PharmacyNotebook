@@ -20,8 +20,10 @@
 - 加長  PR interval
 ## SAR
 - 市場上用 Racemic form
+	- 效果 S > R
 - 結構上與 β1 blocker 相似
 	- phenyloxypropanolamine group
+	- S form 有 β blocker 效果
 
 
 - 選擇性高

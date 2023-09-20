@@ -9,6 +9,7 @@
 - Acetylation 較慢者會引起 lupus-like syndrome
 ## 排泄 Excretion
 # 應用
+- 心律不整用藥
 # 副作用
 - 無顆粒細胞症 agranulocytosis
 # 藥物交互作用

@@ -13,7 +13,10 @@ tags: []
 # 應用
 - 原本是抗癲癇藥
 - 心律不整用藥
+	- 傾向未活化 channels $\rightarrow$ LQT3型心律不整
+- 減緩糖尿病神經病變之疼痛
 # 副作用
+- Brugada syndrome
 # 藥物交互作用
 # 藥化
 ## MOA

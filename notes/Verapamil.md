@@ -10,6 +10,7 @@
 - 心臟首選
 	- 同時抑制 AV node 及血管 $\rightarrow$ 不會產生心跳過速
 - 心絞痛用藥
+- 心律不整用藥
 # 副作用
 - 便祕
 # 藥物交互作用
@@ -17,7 +18,9 @@
 	- 抑制 P-gp $\rightarrow$ digoxin 增加
 # 藥化
 ## MOA
-- 
+- 心律不整
+	- 減少 Ca<sup>+</sup> 流入 $\rightarrow$ 延長 SA and AV nodes 回復
+	- 降低心率
 ## SAR
 - S > R : 20 times in potency 
 - S > R : cardiotoxic effect

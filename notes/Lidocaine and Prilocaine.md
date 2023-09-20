@@ -7,7 +7,7 @@ tags: []
 # Lidocaine
 # 藥動
 ## 給藥 Administration
-- IV
+- 只能 IV
 	- 高 [[First-pass effect]] 
 ## 分布 Distribution
 - 快速發作
@@ -18,6 +18,7 @@ tags: []
 - CYP1A2 and CYP3A4
 	- N-deethylation $\rightarrow$ monoethylglycinexylidide (MEGX) 
 	- 活性代謝物
+	- 中樞中毒
 - 肝衰竭和心衰竭病患 $\rightarrow$ 延長半衰期
 ## 排泄 Excretion
 # 應用
