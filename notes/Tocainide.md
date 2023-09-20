@@ -1,0 +1,3 @@
+- An α-methyl analog structurally related to monoethylglycinexylide 
+- Orally active, for the treatment of ventricular arrhythmias 
+	- α-methyl group: slow the rate of metabolism and, for the oral activity
