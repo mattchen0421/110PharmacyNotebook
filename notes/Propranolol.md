@@ -1,20 +1,33 @@
-## 治療用途
-- 抗心律不整
-	- Class II
-## MOA
-- $\beta_{1}$-blocker
-- blockade of Na<sup>+</sup> channels
-## 藥動
-- 峰值濃度出現在攝入後1至3小時內
+# 藥動
+## 給藥 Administration
 - 有 [[First-pass effect]] 
 	- 口服加大藥量
+- 口服/靜脈注射比值高 - 40:1
+- ==與食物一同服用== $\rightarrow$ bioavailability 高
+## 分布 Distribution
+- 峰值濃度出現在攝入後1至3小時內
+## 代謝 Metabolism
 - 代謝依賴於肝血流
 	- 本身會降低肝血流
-- 口服/靜脈注射比值高 - 40:1
-- ==如與食物一同服用==
-	- bioavailability 高
-## 副作用
+- CYP2D6 
+	- hydroxylation $\rightarrow$ 4-hydroxy derivative (活性代謝物)
+## 排泄 Excretion
+# 應用
+- 抗心律不整
+	- Class II
+- 也用於治療 digitalis-induced 心律不整
+# 副作用
 - 氣喘
+# 藥物交互作用
+# 藥化
+## MOA
+- nonselective β1 and β2 antagonist blocker
+- blockade of Na<sup>+</sup> channels
+- 
+## SAR
+- 
+
+
 ## Blood Pressure
 - No direct and acute action on Blood Pressure
 - But beneficial in hypertensives on prolonged administration

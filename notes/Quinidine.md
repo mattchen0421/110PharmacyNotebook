@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # 藥動
 ## 給藥 Administration
 ## 分布 Distribution

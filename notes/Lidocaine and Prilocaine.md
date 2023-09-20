@@ -2,10 +2,10 @@
 aliases:
   - Lidocaine
   - Prilocaine
+tags: []
 ---
 # Lidocaine
 # 藥動
-
 ## 給藥 Administration
 - IV
 	- 高 [[First-pass effect]] 

@@ -1,22 +1,23 @@
 ---
-aliases: Dilantin, diphenylhydantoin
+aliases:
+  - Dilantin
+  - diphenylhydantoin
 ---
-## 治療用途
+# 藥動
+## 給藥 Administration
+## 分布 Distribution
+## 代謝 Metabolism
+- 高血漿蛋白結合率
+	- 代謝慢
+## 排泄 Excretion
+# 應用
 - 對 partial, tonic-clonic, status seizures 都有效
 - 是癲癇初始治療的首選藥物 (尤其對於成人而言)
 - 也是一種抗心律失常藥物
 	- Afterdepolarization (T de P)
 	- digitalis-induced arrhythmias
+# 副作用
 - 不應突然停止治療
-## MOA
-- 抗心律失常
-	- Class IB blocker of fast Na<sup>+</sup> channels
-## 藥動
-- 高血漿蛋白結合率
-	- 代謝慢
-## 藥物相互作用
-- 誘導 CYP2C,3A & UGT (UDP-glucuronyl transferase)
-## 副作用
 - GI problem
 	- nausea, vomiting 
 - ==眼球震顫 nystagmus== and ==運動失調 ataxia==
@@ -30,3 +31,19 @@ aliases: Dilantin, diphenylhydantoin
 	- cleft lip, cleft palate, slow growth, congenital heart disease, mental deficiency
 - inhibits antidiuretic hormone (ADH) & insulin release 
 - behavior change: confusion, hallucination, drowsiness
+# 藥物交互作用
+- 誘導 CYP2C,3A & UGT (UDP-glucuronyl transferase)
+# 藥化
+## MOA
+- 抗心律失常
+	- Class IB blocker of fast Na<sup>+</sup> channels
+- 
+## SAR
+- 
+
+
+## 治療用途
+## MOA
+## 藥動
+## 藥物相互作用
+## 副作用
