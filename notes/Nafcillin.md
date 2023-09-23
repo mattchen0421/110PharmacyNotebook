@@ -3,8 +3,8 @@
 	- steric role
 	- against penicillinase
 ## 特色
-- 酸不穩定
-	- 口服吸收較不規則
+
+- 口服吸收較不規則
 - 可能有過敏反應
 ## 用途
 - 對 pneumococci and group A $\beta$-hemolytic streptococci 有效

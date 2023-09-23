@@ -1,19 +1,23 @@
+- [[Penicillin 總論]]
 # Narrow spectrum 
-## Natural penicillins (1st generation)
+## 天然 penicillins (1st generation)
 - [[Penicillin G (Benzylpenicillin)]]
 - [[Penicillin V (Phenoxymethylpenicillin)]] 🍋
-## Penicillinase-resistant penicillins (2nd generation)
+## 抗酶 penicillins (2nd generation)
 - [[Methicillin]]
-- [[Nafcillin]] 
-#### Isoxazole ring  derivatives
+- [[Nafcillin]] 🍋
+### Isoxazole ring  derivatives
 - [[Oxacillin and cloxacillin]]🍋
 - [[Dicloxacillin]]🍋
 # Wide spectrum
-## Amino penicillins (3rd generation)
+## Amino penicillins (3rd generation) (+)(-)
 - [[Ampicillin]] 🍋
 - [[Amoxicillin]] 🍋
-## Carboxy penicillins  (4th generation)
+## 4th generation (抗綠膿桿菌) (-) 
+### Carboxy penicillins 
 - [[Ticarcillin]]
-## Acylureidopenicillins (4th generation)
+- Carbenicillin
+### Ureidopenicillins 
 - [[Piperacillin]]
 - Mezlocillin
+- Azlocillin
