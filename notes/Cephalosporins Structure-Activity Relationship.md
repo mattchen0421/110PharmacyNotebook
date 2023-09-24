@@ -6,7 +6,7 @@
 - ==C7== alkoxy 給予 ß-lactamase 抗性
 - 最常見 Ar group 是 3-substituted ==5-aminothiazole==. 出現在3, 4, 5 代
 - C2 carboxylic acid 形成 [[prodrug]] 造成口服活性. ==[[prodrug]] 在小腸壁被 hydrolyzed enzymatically 形成 active cephalosporins==.
-- [[ceftaroline fosamil]] 第四個 [[prodrug]] 一種 phosphoamide derivative  用於 IV
+- [[ceftaroline fosamil]] 四個 [[prodrug]] 一種 phosphoamide derivative  用於 IV
 
 ![[Pasted image 20230328094502.png]]
 ![[Pasted image 20230328094050.png]]

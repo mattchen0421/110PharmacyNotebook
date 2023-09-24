@@ -9,7 +9,7 @@
 ## 排泄 Excretion
 - 尿液排泄
 # 應用
-- 對 gram-negative 有效
+- 對 aerobic G(-) 有效
 - 用於治療 gram-negative microorganisms 引起的嚴重感染 (院內感染)
 	- urinary tract
 	- upper respiratory tract
