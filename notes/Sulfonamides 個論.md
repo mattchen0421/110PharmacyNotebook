@@ -9,9 +9,18 @@ aliases:
   - sulfadiazine
   - Sulfacetamide
 ---
+- [[#Sulfamethoxazole|Sulfamethoxazole]]
+- [[#Sulfisoxazole|Sulfisoxazole]]
+- [[#Sulfamethizole|Sulfamethizole]]
+- [[#Silver sulfadiazine (sulfadiazine)|Silver sulfadiazine (sulfadiazine)]]
+- [[#Mafenide acetate (sulfamylon)|Mafenide acetate (sulfamylon)]]
+- [[#Sulfacetamide (Sulfacetamide Sodium)|Sulfacetamide (Sulfacetamide Sodium)]]
+- [[Sulfasalazine]]
+- [[#Sulfadoxine|Sulfadoxine]]
+- [[Succinylsulfathiazole]]
 
 ## Sulfamethoxazole
- - 字尾 oxazole 雜環是 isoxazole
+- 字尾 oxazole 雜環是 isoxazole
 - 與 [[Erythromycin 紅絲菌素|erythromycin]] 並用
 - 短效型及中效型
 - ![[Pasted image 20230314224415.png|200]]

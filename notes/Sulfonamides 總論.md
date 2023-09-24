@@ -30,14 +30,14 @@
 - **毒漿體原蟲病toxoplasmosis**: [[Sulfonamides 個論|sulfadiazine]] ([[Sulfonamides 個論|Silver sulfadiazine]])
 # 副作用
 ## ⚡晶尿症(Crystalluria)
-- [[sulfisoxazole]], [[Sulfonamides 個論|sulfamethoxazole]]
+- sulfisoxazole, [[Sulfonamides 個論|sulfamethoxazole]]
 ## ⚡溶血性貧血
 - G6PD
 ## ⚡核黃疸(Kernicterus)
 - 新生兒
 ## 加強其他藥物
 - tolbutamide, [[Dicumarol and Warfarin|warfarin]], [[Methotrexate (MTX)|methotrexate]]
-## [[過敏反應 hypersensitivity|過敏]]([[過敏反應 hypersensitivity|Hypersensitivity]])
+## 過敏
 - 紅疹, 血管性水腫(angioedema), [[Stevens-Johnson syndrome|SJS]]
 # 抗藥性
 - alter dihydropteroate synthetase 
