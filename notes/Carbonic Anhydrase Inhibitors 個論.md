@@ -13,6 +13,7 @@
 - 1,3-benzothiazole + sulfonamide
 ## Dichlorphenamide
 - disulfonamide 衍生物
+- CAI 最強效
 ---
 ![[Pasted image 20230925103825.png|300]]
 ## Dorzolamide & Brinzolamide
