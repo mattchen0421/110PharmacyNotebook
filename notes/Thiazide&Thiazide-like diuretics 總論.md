@@ -3,7 +3,11 @@
 ## 分布 Distribution
 ## 代謝 Metabolism
 ## 排泄 Excretion
+- 有機酸分泌系統的 ligand
+	- 與尿酸競爭排泄
 # 應用
+- 最廣泛使用的降血壓藥
+	- 加速水、鈉排出
 # 副作用
 - 高血鈣
 - 高尿酸血症
