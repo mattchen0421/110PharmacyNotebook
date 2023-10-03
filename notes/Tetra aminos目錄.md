@@ -5,7 +5,7 @@
 - [[Chemistry of Aminoglycosides]]
 - [[Aminoglycosides Mechanism of action|Mechanism of action]]
 - [[Aminoglycosides Spectrum of activity|Spectrum of activity]]
-- ⭐[[Aminoglycosides class]]
+- ⭐[[Aminoglycosides 個論]]
 - [[Aminoglycosides Therapeutic Application|Therapeutic Application]]
 - [[Resistance to Aminoglycosides|Resistance]]
 - [[Aminoglycosides Side Effects|Side Effects]]
