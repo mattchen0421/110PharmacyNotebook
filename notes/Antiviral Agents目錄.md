@@ -5,7 +5,7 @@
 ## Inhibitors of viral attachment, penetration or early replication
 - [[Amantadine]] 
 - [[Rimantadine]] 
-- [[Amphotericin B methyl Ester ]]
+- [[Amphotericin B methyl Ester & Nystatin]]
 - [[Tecovirimat (ST-246)]]
 - [[Interferon (IFNSs) ]]
 ## Neuraminidase inhibitors

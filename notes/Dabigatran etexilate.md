@@ -1,0 +1,6 @@
+- 口服有效
+- non-peptidomimetic prodrug
+- 可逆抑制 free and fibrin-bound thrombins
+- 增加 GI bleeding 風險
+- 解毒
+	- Idarucizumab

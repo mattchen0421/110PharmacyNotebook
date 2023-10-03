@@ -1,0 +1,6 @@
+- 65 amino acids
+- 治療 HIT
+- 幾乎不可逆
+- N-terminal amino acid
+	- Lepirudin: leucine-1 and threonin-2 
+	- Desirudin: valine-1 and valine-2

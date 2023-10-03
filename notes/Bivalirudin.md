@@ -1,0 +1,6 @@
+- 20 amino acids
+- 治療心絞痛
+	- 經皮冠狀動脈介入治療 (Percutaneous coronary intervention)
+- 快速起效、短效
+- 可逆抑制 thrombin
+- 第二個 N-terminal proline 被切斷

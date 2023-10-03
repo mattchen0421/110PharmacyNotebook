@@ -4,6 +4,7 @@ aliases:
   - Inamrinone
 ---
 
+![[Pasted image 20231003124202.png|300]]
 # 藥動
 ## 給藥 Administration
 ## 分布 Distribution
