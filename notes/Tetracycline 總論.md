@@ -18,6 +18,15 @@
 	- rickettsiae (立克次體)
 	- chlamydiae (衣原體)
 # 副作用
+- 腸胃不適
+- 可能導致 superinfections 二重感染
+	- pathogenic yeast 
+	- Candida albicans
+- 肝損傷
+	- 孕婦， 腎功能不全病患
+	- 劑量過高
+- 光毒性
+- 螯合 Ca<sup>2+</sup> $\rightarrow$ 孕婦、低於8歲孩童避免使用
 # 藥物交互作用
 # 抗藥性
 - 自然含有 resistance (“R”) factor 通常是質體促使藥物排除
@@ -33,5 +42,5 @@
 - 防止 aminoacyl tRNA 結合成 mRNA-ribosome complex (Mg<sup>+2</sup> required)
 - 少數結合至哺乳類 ribosomes 但不影響蛋白質合成
 ## SAR
-- 
+- 詳閱 [[Tetracyclines Structure-Activity Relationships]] 
 

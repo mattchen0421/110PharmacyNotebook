@@ -5,12 +5,14 @@ aliases: Tigecycline, 老虎黴素, Tygacil
 - C9 glycylamido
 	- ==9-t-butylglycylamido derivative of [[minocycline]]==
 	- 不影響藥物與 rRNA 結合
-- broad-spectrum (體外)
+- 對一些高度抗藥性的 G(+), G(-) 和 anerobic 有療效
+	- 包括 Strep., MRSE (methicillin), VRE (vancomycin),
 - 用途限定
 - 用於治療
-	- complicated skin/skin structure infections
-	- complicated intra-abdominal infections
-- IV
-	- 造成 thrombophlebitis 血栓性靜脈炎，注射部位疼痛
-- 避免 ribosomal protection proteins and efflux pump mechanisms
+	- 複雜性皮膚感染
+	- 複雜性腹腔內感染
+- IV $\rightarrow$ 造成 thrombophlebitis 血栓性靜脈炎，注射部位疼痛
+- 細菌對抗tetracycline的抗藥機轉對 tigecycline無效
+	- ribosomal protection proteins
+	- efflux pump mechanisms
 ![[Pasted image 20230502210643.png]]

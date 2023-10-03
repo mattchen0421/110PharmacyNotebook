@@ -1,6 +1,7 @@
 ---
 aliases: Macrolide
 ---
+## Macrolides
 - ⛏️[[Erythromycin 紅絲菌素]]
 - [[Erythromycin derivative]]
 - [[Clarithromycin]]
@@ -10,3 +11,6 @@ aliases: Macrolide
 - [[Azithromycin (Zithromax, Zmax)]]
 ---
 - [[Fidaxomicin (Dificid)]]
+---
+## Ketolide
+- [[Telithromycin]]

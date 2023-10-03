@@ -15,7 +15,7 @@
 - [[Tetracyclines Spectrum of activity]]
 - [[Tetracyclines epimerization]]
 - [[Tetracyclines Structure-Activity Relationships|Structure-Activity Relationships]]
-- ⭐[[Tetracyclines class]]
+- ⭐[[Tetracyclines 個論]]
 - [[Tetracyclines Toxicity]]
 # 50S 
 ## Macrolides and ketolide antibiotics
@@ -23,7 +23,7 @@
 - [[Chemistry of Macrolides]]
 - [[Macrolides Mechanism of action|Mechanism of action]]
 - [[Macrolides Spectrum of activity|Spectrum of activity]]
-- ⭐[[Macrolides class]]
+- ⭐[[Macrolides 個論]]
 - [[Macrolides Therapeutic Application|Therapeutic Application]]
 - [[Resistance to Macrolides|Resistance]]
 ### Ketolide

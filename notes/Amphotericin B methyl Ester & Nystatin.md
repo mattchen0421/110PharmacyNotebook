@@ -15,7 +15,7 @@ aliases:
 	- 毒性降低
 ## 特色
 - from Streptomyces nodosus
-- polyene [[Macrolides class|macrolide]] antifungal agent
+- polyene [[Macrolides 個論|macrolide]] antifungal agent
 - 容易導致腎小管損傷而降低腎功能
 ## 用途
 - 用於治療
