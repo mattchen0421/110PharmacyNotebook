@@ -10,11 +10,11 @@
 - Liver metabolism
 	-  N-demethylation
 ---
-## Mechanism of action
-- 結合 50S ribosomal subunit 抑制蛋白質合成
-- [[Bacteriostatic and bactericidal|Bacteriostatic]] or [[Bacteriostatic and bactericidal|bactericidal]]
----
-## Lincomycin
+[[Clindamycin]]
+
+--- 
+
+# Lincomycin
 - N-CH<sub>3</sub> ==pyrrolidine ring==
 - C4 n-propyl group
 - C2 α-thiolincosamide group
@@ -29,23 +29,3 @@
 - GI track 吸收良好
 - 分泌在 urine 和 bile
 ![[Pasted image 20230430221919.png]]
-## Clindamycin
-
-^e9fd3d
-
-- 7(R)-OH $\rightarrow$ 7(S)-Cl \[7(S)-chloro-7-deoxylincomycin]
-	- 更高的生物活性，脂溶性
-	- 口服吸收更好
-- SAR
-	- changes in the α-thiolincosamide portion 
-		- decrease activity
-- 用於治療
-	- upper respiratory tract, skin, and tissue infections
-		- caused by susceptible bacteria
-- 對 G-(+) organisms 有關
-	- staphylococci
-	- α-hemolytic streptococci
-	- pneumococci
-- 對 Bacteroides spp. (類桿菌屬) 有效
-	- Propionibacterium acnes when applied topically
-- [[Bacteriostatic and bactericidal|Bacteriostatic]]

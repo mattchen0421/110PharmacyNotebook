@@ -7,7 +7,7 @@
 - [[Lefamulin]]
 - ⛏️[[Retapamulin]]
 #### Streptogramins
-- ⛏️[[Quinupristin and Dalfopristin]]
+- ⛏️[[Quinupristin & Dalfopristin]]
 ---
 - [[Novobiocin]]
 - [[Mupirocin (Bactroban)]]

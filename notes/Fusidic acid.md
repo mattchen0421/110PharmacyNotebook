@@ -1,0 +1,5 @@
+- cyclopentanophenanthrene
+- 抑制 translocation
+- 對多數細菌 bactericidal
+	- MRSA
+- 膽汁排出

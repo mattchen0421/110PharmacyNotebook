@@ -2,7 +2,7 @@
 - ⛏️[[Vancomycin]]
 - [[Teicoplanin]]
 ## Lipoglycopeptide
-- [[Telavancin, dalbavancin, and oritavancin]]
+- [[Telavancin & Dalbavancin & Oritavancin]]
 ## Cyclic Lipopeptide
 -  ⛏️[[Daptomycin (Cubicin)]]
 ## Cyclic peptides

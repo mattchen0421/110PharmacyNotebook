@@ -15,8 +15,10 @@ aliases: Daptomycin, Cubicin
 - 可能增加血漿 creatinine phosphokinase 濃度
 	- 肌肉疼痛，無力
 ## 用途
-- 對 gram-(+) 活性
+- 對 G(+) 活性
+	- 包含 MRSA (methicillin), VRSA & VRE (vancomycin)
 	- skin and skin structure infections
+- 不用於肺炎
 - IV
 	- 30 分鐘一次
 

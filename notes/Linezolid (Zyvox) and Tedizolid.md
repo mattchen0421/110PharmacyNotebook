@@ -10,10 +10,14 @@ aliases: Oxazolidinones, Linezolid, Zyvox, Tedizolid
 - 對 G-(+) 活性
 - 抗藥性
 	- 50S ribosomal subunit 相關 23S rRNA 突變
+	- 不跟其他藥物產生交互抗藥性
 - 不建議同時服用 adrenergic and serotonergic agents
 ## Linezolid (Zyvox)
 - broad spectrum
-- 對 G-(+), including MRSA, penicillin-resistant pneumococci, vancomycin-resistant E. faecalis and E. faecium 活性
+- 對 G(+) 活性
+	- Staphylococci ==MRSE==
+	- vancomycin-resistant E. faecalis and E. faecium ==VRE==
+- 對多數 G(-) 效果低弱
 - 代謝
 	- oxidation of the morpholine ring
 	- 尿液中排除
