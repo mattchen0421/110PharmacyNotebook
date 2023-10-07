@@ -11,5 +11,6 @@
   "livePreview": true,
   "propertiesInDocument": "visible",
   "showLineNumber": true,
-  "autoPairBrackets": true
+  "autoPairBrackets": true,
+  "readableLineLength": false
 }

@@ -1,0 +1,2 @@
+- PCSK9 與 LDL 受體結合會分解受體 $\rightarrow$ 增加血中 LDL
+- Proprotein converse subtilisin/kexin type 9 (PCSK9) 抑制劑
