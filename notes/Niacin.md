@@ -1,0 +1,21 @@
+![[Pasted image 20231007174702.png|300]]
+- vitamin、構成 NAD<sup>+</sup> and NADH<sup>+</sup>
+- 抑制脂肪組織內三酸甘油脂的分解
+- 減少脂肪組織中游離脂肪酸的釋放
+- 減少 VLDL 增加 HDL
+- 不影響 cholesterol
+- 副作用
+	- 皮膚血管舒張
+	- 消化性潰瘍
+	- 肝指數上升
+	- 高血糖
+	- 高尿酸血症和痛風
+- 藥物交互作用
+	- adrenergic blocking agents
+	- ethanol
+	- vasodilating agents
+	- bile acid sequestrants
+	- HMG-CoA reductase inhibitors
+- 應用
+	- Familial hyperlipidemias
+	- Severe hypercholesterolemias
