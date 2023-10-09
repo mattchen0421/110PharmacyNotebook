@@ -20,9 +20,9 @@ aliases:
 		- 但不是 prodrug
 			- 本體跟活性代謝物都有效
 - 在小腸壁被水解
-	- Azilsartan medoxomil $\rightarrow$ azilsartan
-	- candesartan cilexetil $\rightarrow$ candesartan
-	- olmesartan medoxomil $\rightarrow$ olmesartan
+	- Azilsartan medoxomil $\rightarrow$ Azilsartan
+	- Candesartan cilexetil $\rightarrow$ Candesartan
+	- Olmesartan medoxomil $\rightarrow$ Olmesartan
 ## 排泄 Excretion
 # 應用
 - 降血壓
@@ -42,8 +42,8 @@ aliases:
 - 阻斷AT1 receptor
 - 抑制 cAMP, cGMP 代謝 $\rightarrow$ 血管舒張
 ## SAR
-![[Pasted image 20230917152313.png]]
-![[Pasted image 20230917155204.png]]
+![[Pasted image 20230917152313.png|300]]
+![[Pasted image 20230917155204.png|300]]
 - acidic group 模仿 angiotensin II 的 Tyr4 phenol or the Asp1 carboxylate
 	- (A) carboxylic acid 
 	- (B) phenyl tetrazole or isostere

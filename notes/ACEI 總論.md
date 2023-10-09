@@ -19,7 +19,7 @@
 	- 改變藥動性質
 - Zn<sup>2+</sup> binding group
 	- (A) sulfhydryl 
-		- binding 較.好
+		- binding 較好
 	- (B) carboxylic acid
 		- 用 Phe 側鏈補償
 	- (C) phosphinic acid 
