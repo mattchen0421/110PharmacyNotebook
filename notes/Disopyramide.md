@@ -1,7 +1,7 @@
 ---
 tags: []
 ---
-
+![[Pasted image 20231009205008.png|300]]
 # 藥動
 ## 給藥 Administration
 - 口服給藥

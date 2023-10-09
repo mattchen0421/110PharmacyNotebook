@@ -4,6 +4,7 @@ aliases:
   - Prilocaine
 tags: []
 ---
+![[Pasted image 20231009205301.png|300]]
 # Lidocaine
 # 藥動
 ## 給藥 Administration

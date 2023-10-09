@@ -4,6 +4,8 @@ aliases:
   - isosorbide dinitrate
   - mononitrate
 ---
+![[Pasted image 20231009203427.png|300]]
+![[Pasted image 20231009204223.png|300]]
 # 藥動
 ## 給藥 Administration
 - Amyl nitrite

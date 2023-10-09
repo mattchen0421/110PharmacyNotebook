@@ -1,3 +1,4 @@
+![[Pasted image 20231009205634.png|300]]
 # 藥動
 ## 給藥 Administration
 - IV 限定

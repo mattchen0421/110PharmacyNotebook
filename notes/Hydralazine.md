@@ -1,3 +1,4 @@
+![[Pasted image 20231009203348.png|300]]
 # 藥動
 ## 給藥 Administration
 - 無法口服或緊急情況可以 Parenteral

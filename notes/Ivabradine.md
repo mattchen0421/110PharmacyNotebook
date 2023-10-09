@@ -1,3 +1,4 @@
+![[Pasted image 20231009204702.png|300]]
 # 藥動
 ## 給藥 Administration
 ## 分布 Distribution

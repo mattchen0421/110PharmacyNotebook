@@ -11,6 +11,7 @@ tags: []
 - 高血漿蛋白結合率
 	- 代謝慢
 - hydroxylation + O-demethylation $\rightarrow$ 降低活性
+- ![[Pasted image 20231009204838.png|300]]
 ## 排泄 Excretion
 # 應用
 - 心律不整用藥

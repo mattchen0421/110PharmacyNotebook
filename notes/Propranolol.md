@@ -1,3 +1,4 @@
+![[Pasted image 20231009205625.png|300]]
 # 藥動
 ## 給藥 Administration
 - 有 [[First-pass effect]] 
