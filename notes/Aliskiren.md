@@ -1,3 +1,4 @@
+![[Pasted image 20231009151509.png|300]]
 # 藥動
 ## 給藥 Administration
 - 以 hemifumarate salt 形式販售

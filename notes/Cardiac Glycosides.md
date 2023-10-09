@@ -4,7 +4,7 @@ aliases:
   - Digitoxin
   - Ouabain
 ---
-
+![[Pasted image 20231009164816.png|300]]
 # 藥動
 ## 給藥 Administration
 - Ouabain 只能 IV

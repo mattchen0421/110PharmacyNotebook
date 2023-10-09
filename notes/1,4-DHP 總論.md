@@ -7,7 +7,7 @@ aliases:
   - Nicardipine
 ---
 
-![[Pasted image 20230918231049.png]]
+![[Pasted image 20230918231049.png|300]]
 # 藥動
 ## 給藥 Administration
 - 與食物有交互作用
@@ -59,5 +59,18 @@ aliases:
 	- Nifedipine 唯一對稱的
 - C2 和 C6 methyl
 	- 除了 Amlodipine $\rightarrow$ C6 可以有大官能基並能加強活性
-![[Pasted image 20230917164831.png]]
+
+![[Pasted image 20230917164831.png|300]]
+![[Pasted image 20231009152118.png|300]]
+
+| Compound                                       | 背法                      |
+| ---------------------------------------------- | ------------------------- |
+| <span style="color:#ff0000">Am</span>lodipine  | Amine                     |
+| Clevidipine                                    |                           |
+| Felodipine                                     |                           |
+| Ni<span style="color:#ff0000">car</span>dipine | carbon $\rightarrow$ 苯環 |
+| Nifedipine                                     | 對稱                      |
+| Ni<span style="color:#ff0000">mo</span>dipine  | methoxy                   |
+| N<span style="color:#ff0000">iso</span>dipine  | isobutyl                  |
+| Isradipine                                     |                           |
 

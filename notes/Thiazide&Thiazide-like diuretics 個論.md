@@ -1,3 +1,8 @@
+---
+aliases:
+  - Cholorothiazole
+---
+
 ![[Pasted image 20230925210026.png|300]]
 # Thiazide diuretics
 ## Chlorothiazide

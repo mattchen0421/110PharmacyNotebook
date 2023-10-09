@@ -29,7 +29,7 @@ aliases:
 	- Candesartan cilexetil 有對 AT1 最強抑制效果
 	- Telmisartan 最長效
 - Valsartan
-	- 用於心衰竭(不能用 ACEi 的病患)
+	- 用於心衰竭(不能用 ACEI 的病患)
 # 副作用
 - Telmisartan
 	- 避免肝功能不全或膽道阻塞病患
@@ -38,6 +38,7 @@ aliases:
 # 抗藥性
 # 藥化
 ## MOA
+- Angiotensin receptor blockers
 - type III (cardiac) 
 - 阻斷AT1 receptor
 - 抑制 cAMP, cGMP 代謝 $\rightarrow$ 血管舒張
@@ -52,8 +53,8 @@ aliases:
 	- ortho 才有最大活性
 - n-butyl 模仿 angiotensin II 的 Ile5
 	- 可被 ethyl ether group 和 n-propyl group 取代
-		- ethyl ether group: azilsartan，candesartan,
-		- n-propyl group: telmisartan，olmesartan
+		- ethyl ether group: Azilsartan，Candesartan,
+		- n-propyl group: Telmisartan，Olmesartan
 - imidazole ring (isosteric equivalent) 模仿 angiotensin II 的 His6
 - R
 	- carboxylic acid

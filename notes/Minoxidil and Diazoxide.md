@@ -3,6 +3,8 @@ aliases:
   - Diazoxide
   - Minoxidil
 ---
+![[Pasted image 20231009161516.png|300]]
+![[Pasted image 20231009161553.png|300]]
 # 藥動
 ## 給藥 Administration
 - Diazoxide 懸浮液
@@ -36,5 +38,8 @@ aliases:
 	- 血管平滑肌過極化
 	- 關閉 Ca<sup>2+</sup> channel
 ## SAR
-- 
+- Minoxidil
+	- pyrimidine
+- Diazoxide
+	- benzothiadiazine
 
