@@ -1,0 +1,27 @@
+- 治療 Homozygous familial hypercholesterolemia (HoFH)
+	- LDL-C > 190 mg/dL
+	- statins 無效
+	- REMS 評估
+## Lomitapide
+- MOA
+	- 抑制 ER 裡的 microsomal triglyceride transport protein (MTTP)
+		- 阻止 apoB-containing lipoproteins 合成 (VLDL and LDL)
+		- 減少 chylomicrons and VLDL 合成 $\rightarrow$ 降低血中 LDL 濃度
+- 副作用
+	- 肝毒性
+	- CYP3A4 注意
+- 高血漿蛋白結合率
+- 肝臟代謝
+	- Oxidation then glucuronide conjugation
+	- N-dealkylation at piperidine ring
+## Mipomersen
+- 穩定的 oligonucleotide
+- 與 apoB-100 的 mRNA 互補的 DNA 序列
+	- 抑制 apoB-100 protein 合成
+- 副作用
+	- 注射部位反應
+	- 肝指數上升
+	- 肝毒性
+- 延長持續時間
+	- phosphate oxygen $\rightarrow$ S
+	- 頭尾各加5個 2’-O-(2-methoxyethyl) group
