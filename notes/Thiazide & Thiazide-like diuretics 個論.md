@@ -14,6 +14,12 @@ aliases:
 ### Metolazone & Quinethazone
 - C4 keto group
 - Metolazone 可治療 GFR<40 病患
+
+| Compound                                                                         |                                       |
+| -------------------------------------------------------------------------------- | ------------------------------------- |
+| <span style="color:#ff0000">Me</span><span style="color:#00b0f0">to</span>lazone | methyl + toluene + dihydroquinazoline |
+| Quin<span style="color:#ff0000">eth</span>azone                                  | ethyl + dihydroquinazoline                                      |
+
 ## Phthalimidine derivatives
 ### Chlorthalidone
 - 通常形成 benzophenone 衍生物
