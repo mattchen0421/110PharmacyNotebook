@@ -1,4 +1,14 @@
 ![[Pasted image 20231007150510.png|300]]
+
+| Compound                                        |              |            |
+| ----------------------------------------------- | ------------ | ---------- |
+| Rosuvastatin                                    | sulfonamide  | Pyrimidine |
+| <span style="color:#ff0000">A</span>torvastatin | Acetanilide  | Pyrrole    |
+| Simvastatin                                     |              |            |
+| Pravastatin                                     |              |            |
+| Lovastatin                                      |              |            |
+| Fluvastatin                                     |              | Indole     |
+| Pitavastatin                                    | cyclopropane | Quinoline           |
 # 藥動
 ## 給藥 Administration
 - 傍晚或睡前服藥
@@ -46,6 +56,7 @@
 - ==3,5-dihydroxycarboxylate== 重要
 	- ==(3R、5R)==，(3S、5S)
 	- 與 ring system 的距離兩個C剛好
+
 ![[Pasted image 20231007152809.png|300]]
 ### Ring A (Simvastatin、Lovastatin、Pravastatin)
 - Decalin 重要
