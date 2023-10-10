@@ -15,8 +15,9 @@
 # 藥物交互作用
 # 藥化
 ## MOA
-- 
+- Calcium channel blockers
 ## SAR
 - (2S, 3S) 活性最大
 - (2R, 3R) 無活性
+- benzothiazepine
 

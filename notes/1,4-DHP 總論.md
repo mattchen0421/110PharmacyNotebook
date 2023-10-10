@@ -25,6 +25,7 @@ aliases:
 - Nisoldipine Hydroxylation 代謝物有10%活性
 - Amlodipine 半衰期長
 	- 比較不會引發反射性心跳過速
+- ![[Pasted image 20231010165733.png|300]]
 ## 排泄 Excretion
 # 應用
 - Nimodipine 
@@ -66,8 +67,8 @@ aliases:
 | Compound                                       | 背法                      |
 | ---------------------------------------------- | ------------------------- |
 | <span style="color:#ff0000">Am</span>lodipine  | Amine                     |
-| Clevidipine                                    |                           |
-| Felodipine                                     |                           |
+| Clevidipine                                    |      2Cl 長的                     |
+| Felodipine                                     |   2Cl 短的                        |
 | Ni<span style="color:#ff0000">car</span>dipine | carbon $\rightarrow$ 苯環 |
 | Nifedipine                                     | 對稱                      |
 | Ni<span style="color:#ff0000">mo</span>dipine  | methoxy                   |
