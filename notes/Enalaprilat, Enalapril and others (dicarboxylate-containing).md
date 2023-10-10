@@ -25,6 +25,9 @@ aliases:
 # 應用
 - 降血壓
 # 藥化
+## MOA
+- Angiotensin-converting enzyme inhibitor
+
 ## SAR
 ![[Pasted image 20230917134719.png|200]]
 - Tripeptide 受質相似物
@@ -37,4 +40,5 @@ aliases:
 # 其他 dicarboxylate-containing ACEI
 - 不含 pyrrolidine 
 	- BMQ
-![[Pasted image 20230917145701.png]]
+
+![[Pasted image 20230917145701.png|300]]

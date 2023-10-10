@@ -11,7 +11,7 @@
 ## MOA
 - 抑制 Angiotensin ll 形成
 ## SAR
-![[Pasted image 20230917142223.png]]
+![[Pasted image 20230917142223.png|300]]
 - N-ring carboxylic acid
 	- 模仿 ACE 受質的 C-terminal carboxylate
 - N-ring Large hydrophobic heterocyclic rings
