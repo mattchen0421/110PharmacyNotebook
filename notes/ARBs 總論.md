@@ -1,15 +1,3 @@
----
-aliases:
-  - CANDESARTAN
-  - IRBESARTAN
-  - LORSARTAN
-  - OLMESARTAN
-  - EPROSARTAN
-  - TELMISARTAN
-  - AZILSARTAN
-  - Valsartan
----
-
 # 藥動
 ## 給藥 Administration
 ## 分布 Distribution

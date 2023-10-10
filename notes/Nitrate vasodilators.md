@@ -35,8 +35,7 @@ aliases:
 # 應用
 - Nitroglycerin, isosorbide dinitrate, and mononitrate 用於心臟衰竭
 - isosorbide dinitrate + [[Hydralazine]] 
-	- 避免代償效應
-		- 水腫
+	- 避免代償效應(水腫)
 - 治療心絞痛
 	- 減少心室體積，降低心肌需氧量
 	- 減少 preload and afterload
