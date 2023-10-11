@@ -19,7 +19,7 @@ aliases:
 - Moexipril, Perindopril, Ramipril: cyclization to produce diketopiperazines
 ## 排泄 Excretion
 - 主要由腎臟排泄
-- + 肝排泄的有
+- \+ 肝排泄的有
 	- Trandolapril
 	- Moexipril
 # 應用
