@@ -1,14 +1,14 @@
 ![[Pasted image 20231007150510.png|300]]
 
-| Compound                                        |              |            |
-| ----------------------------------------------- | ------------ | ---------- |
-| Rosuvastatin                                    | sulfonamide  | Pyrimidine |
-| <span style="color:#ff0000">A</span>torvastatin | Acetanilide  | Pyrrole    |
-| Simvastatin                                     |              |            |
-| Pravastatin                                     |              |            |
-| Lovastatin                                      |              |            |
-| Fluvastatin                                     |              | Indole     |
-| Pitavastatin                                    | cyclopropane | Quinoline           |
+| Compound                                        |              |            |      |
+| ----------------------------------------------- | ------------ | ---------- | ---- |
+| Rosuvastatin                                    | sulfonamide  | Pyrimidine | 兩性 |
+| <span style="color:#ff0000">A</span>torvastatin | Acetanilide  | Pyrrole    | 酸性 |
+| Simvastatin                                     |              |            | 中性 |
+| Pravastatin                                     |              |            | 酸性 |
+| Lovastatin                                      |              |            | 中性 |
+| Fluvastatin                                     |              | Indole     | 酸性 |
+| Pitavastatin                                    | cyclopropane | Quinoline  | 兩性     |
 # 藥動
 ## 給藥 Administration
 - 傍晚或睡前服藥
