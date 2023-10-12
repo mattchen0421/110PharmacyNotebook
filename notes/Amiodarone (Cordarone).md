@@ -19,10 +19,11 @@ aliases:
 # 副作用
 - 系統性毒性
 	- 肺部纖維化
-	- 甲狀腺亢進
+	- 甲狀腺亢進/低下
 	- 肝臟代謝
 	- 中樞影響
 	- 眼球 (corneal microdeposits)
+	- 角膜沉積、睪丸功能障礙、皮膚變色
 # 藥物交互作用
 - CYP2C9, CYP2D6, and CYP3A4 抑制
 	- Warfarin, cholestyramine, CCBs, cyclosporine
