@@ -56,7 +56,7 @@ aliases:
 - bradycardia
 	- 電刺激
 	- [[Atropine]] 
-- tachycardia 
+- tachycardia  $\rightarrow$ Class IB 抗心律不整藥物
 	- [[Lidocaine and Prilocaine|Lidocaine]]💉
 	- [[Phenytoin]]🩸🥚
 	- [[Mexiletine]]

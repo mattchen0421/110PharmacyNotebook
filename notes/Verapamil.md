@@ -26,5 +26,5 @@
 - S > R : 20 times in potency 
 - S > R : cardiotoxic effect
 - CN
-- Dimethoxybenzene
+- dimethoxyphenyl
 

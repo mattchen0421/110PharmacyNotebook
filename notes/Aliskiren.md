@@ -6,6 +6,7 @@
 ## 分布 Distribution
 ## 代謝 Metabolism
 ## 排泄 Excretion
+- 口服吸收差
 - 90% 由糞便以原型藥排除
 # 應用
 - 降血壓

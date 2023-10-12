@@ -28,5 +28,5 @@ aliases:
 - 抑制 cAMP, cGMP 代謝 $\rightarrow$ Ca<sup>2+</sup> 增加 $\rightarrow$ 血管舒張，心臟收縮
 - 增加 Gs protein $\rightarrow$ 增加 cAMP
 ## SAR
-- 
+- pyridone
 
