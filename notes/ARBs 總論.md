@@ -8,9 +8,9 @@
 		- 但不是 prodrug
 			- 本體跟活性代謝物都有效
 - 在小腸壁被水解
-	- Azilsartan medoxomil $\rightarrow$ Azilsartan
 	- Candesartan cilexetil $\rightarrow$ Candesartan
 	- Olmesartan medoxomil $\rightarrow$ Olmesartan
+	- Azilsartan medoxomil $\rightarrow$ Azilsartan
 ## 排泄 Excretion
 # 應用
 - 降血壓
