@@ -1,7 +1,7 @@
 ---
 tags: []
 ---
-
+![[Pasted image 20231012203935.png|300]]
 # 藥動
 ## 給藥 Administration
 - 口服有效
