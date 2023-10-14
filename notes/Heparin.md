@@ -18,7 +18,7 @@
 # 藥物交互作用
 # 藥化
 ## MOA
-- 與 antithrombin III 結合 $\rightarrow$ 構型改變 $\rightarrow$ 加速反應 $\rightarrow$ 抑制 IIa、Xa
+- 與 antithrombin III 結合 $\rightarrow$ 構型改變 $\rightarrow$ 加速反應 $\rightarrow$ ==抑制 IIa、Xa==
 	- 作為催化劑
 - Fondaparinux
 	- 不作用於 thrombin 僅抑制 Xa

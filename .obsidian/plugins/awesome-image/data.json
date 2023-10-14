@@ -3,7 +3,7 @@
   "viewImageInCPB": true,
   "viewImageWithALink": true,
   "viewImageOther": true,
-  "pinMode": false,
+  "pinMode": true,
   "pinMaximum": 3,
   "pinCoverMode": true,
   "imageMoveSpeed": 10,
