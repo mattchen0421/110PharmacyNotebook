@@ -19,7 +19,7 @@
 # 藥化
 ## MOA
 - Vitamin K
-	- II, VII, IX, and X 凝血因子的必要 cofactor
+	- ==II, VII, IX, and X== 凝血因子的必要 cofactor
 	- protein C、protein S 必要 cofactor
 - Vitamin K antagonists
 	- Coumarin derivative & 1,3-indandiones
