@@ -3,10 +3,9 @@
 	- statins 無效
 	- REMS 評估
 ## Lomitapide
-- MOA
-	- 抑制 ER 裡的 microsomal triglyceride transport protein (MTTP)
-		- 阻止 apoB-containing lipoproteins 合成 (VLDL and LDL)
-		- 減少 chylomicrons and VLDL 合成 $\rightarrow$ 降低血中 LDL 濃度
+- 抑制 ER 裡的 microsomal triglyceride transport protein (MTTP)
+	- 阻止 apoB-containing lipoproteins 合成 (VLDL and LDL)
+	- 減少 chylomicrons and VLDL 合成 $\rightarrow$ 降低血中 LDL 濃度
 - 副作用
 	- 肝毒性
 	- CYP3A4 注意
@@ -14,6 +13,7 @@
 - 肝臟代謝
 	- Oxidation then glucuronide conjugation
 	- N-dealkylation at piperidine ring
+	- 口服生體可用率相當低
 ## Mipomersen
 - 穩定的 oligonucleotide
 - 與 apoB-100 的 mRNA 互補的 DNA 序列
