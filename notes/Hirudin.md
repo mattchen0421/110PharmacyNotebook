@@ -14,6 +14,7 @@
 	- free thrombin and fibrin-bound thrombin
 - 不需要 antithrombin III
 ## SAR
+- 自水蛭分離
 - 65 amino acids 蛋白質
 - 作用於 anionic C-terminus
 

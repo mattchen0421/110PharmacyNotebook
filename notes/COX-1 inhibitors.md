@@ -1,3 +1,10 @@
+---
+aliases:
+  - Aspirin
+  - Triflusal
+  - Indobufen
+---
+
 ![[Pasted image 20231015001318.png|300]]
 # 藥動
 ## 給藥 Administration

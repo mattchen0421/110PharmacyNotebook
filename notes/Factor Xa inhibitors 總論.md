@@ -1,7 +1,15 @@
+---
+aliases:
+  - Rivaroxban
+  - Apixaban
+  - Edoxaban
+  - Betrixaban
+---
+
 ![[Pasted image 20231014232358.png|300]]
 # 藥動
 ## 給藥 Administration
-- Rivaroxban  
+- Rivaroxaban  
 	- 第一個口服 Factor Xa inhibitor
 - Apixaban 
 	- 第二個口服 Factor Xa inhibitor
@@ -15,7 +23,7 @@
 ## 代謝 Metabolism
 | Compound   |            |                        |              |                       |
 | ---------- | ---------- | ---------------------- | ------------ | --------------------- |
-| Rivaroxban | CYP3A4/2J2 | hydroxylation products |              |                       |
+| Rivaroxaban | CYP3A4/2J2 | hydroxylation products |              |                       |
 | Apixaban   | CYP3A4/3A5 | O-desmethylapixaban    | 無活性代謝物 | 也被CYP1A2, P-gp 代謝 |
 | Edoxaban   | P-gp       |                        |              |                       |
 | Betrixaban | P-gp代謝 ❌CYP450  | hydrolysis                       |              |                       |
@@ -47,7 +55,7 @@
 
 | Compond    |             |     |
 | ---------- | ----------- | --- |
-| Rivaroxban | oxazolidine |   Piperidone   |
+| Rivaroxaban | oxazolidine |   Piperidone   |
 | Apixaban   | carboxamide |  Piperidone   |
 | Edoxaban   | Tetrahydrothiazolopyridine            |     |
 | Betrixaban |   Chloropyridine           |     |

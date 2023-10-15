@@ -11,8 +11,8 @@ aliases:
 ## 代謝 Metabolism
 - Warfarin
 	- (S): CYP2C9 $\rightarrow$ 6- and 7-hydroxywarfarins 無活性
-	- (R): CYP3A4, 1A2, 2C19 $\rightarrow$ 4’-, 6- and 8-hydroxywarfarins 無活性
-	- $\rightarrow$ Warfarin hemiketa 可能有活性
+	- (R): CYP3A4, 1A2, 2C19 $\rightarrow$ 2’-, 6- and 8-hydroxywarfarins 無活性
+	- 溶液狀態下 $\rightarrow$ Warfarin hemiketa 有活性
 	- 還原 $\rightarrow$ 2'-Hydroxywrfarin
 	- 高血漿蛋白結合率 $\rightarrow$ 長半衰期
 ## 排泄 Excretion
