@@ -1,3 +1,8 @@
+---
+aliases:
+  - Warfarin
+---
+
 ![[Pasted image 20231002200930.png|300]]
 # 藥動
 ## 給藥 Administration

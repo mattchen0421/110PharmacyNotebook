@@ -1,0 +1,8 @@
+- single-stranded DNA oligonucleotide 9-80 phosphodiester units
+- 促進血漿水解 fibrin
+- 溶解血栓
+	- PGI2, E2, and prostacyclin
+- 副作用
+	- 促進流血、淤青
+	- 低血壓
+- 用於治療造血幹細胞移植後的肝靜脈栓塞
