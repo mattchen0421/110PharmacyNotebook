@@ -1,14 +1,14 @@
 ![[Pasted image 20231007150510.png|300]]
 
-| Compound                                        |              |            |      |
-| ----------------------------------------------- | ------------ | ---------- | ---- |
-| Rosuvastatin                                    | sulfonamide  | Pyrimidine | 兩性 |
-| <span style="color:#ff0000">A</span>torvastatin | Acetanilide  | Pyrrole    | 酸性 |
-| Simvastatin                                     |              |            | 中性 |
-| Pravastatin                                     |              |            | 酸性 |
-| Lovastatin                                      |              |            | 中性 |
-| Fluvastatin                                     |              | Indole     | 酸性 |
-| Pitavastatin                                    | cyclopropane | Quinoline  | 兩性     |
+| Compound                                        |                            |            |      |          |
+| ----------------------------------------------- | -------------------------- | ---------- | ---- | -------- |
+| Lovastatin                                      |                            |            | 中性 |          |
+| Si<span style="color:#ff0000">m</span>vastatin  | methyl                     |            | 中性 |          |
+| Pravastatin                                     |                            |            | 酸性 |          |
+| Fluvastatin                                     |                            | Indole     | 酸性 |          |
+| <span style="color:#ff0000">A</span>torvastatin | Acetanilide                | Pyrrole    | 酸性 | 長半衰期 |
+| Rosuvastatin                                    | N-Methylmethanesulfonamide | Pyrimidine | 兩性 | 長半衰期         |
+| Pitavastatin                                    | cyclopropane               | Quinoline  | 兩性 |          |
 # 藥動
 ## 給藥 Administration
 - 傍晚或睡前服藥
@@ -17,13 +17,15 @@
 - Simvastatin & Pravastatin 併服食物可降低消化不良的現象
 ## 分布 Distribution
 ## 代謝 Metabolism
+- ==Atorvastatin 不用注意腎功能不全==
+
 | 藥名                      | CYP3A4 | CYP2C9 |  | 活性代謝物                                    |
 | ------------------------- |:------:|:------:|:-------------:| --------------------------------------------- |
-| Atorvastatin              |   ✅   |        |   oxidation            | ortho- and parahydroxylated                  |
 | Lovastatin、Simvastatin   |   ✅   |        |    oxidation           | 3,5-dihydroxy acid                            |
-| Rosuvastatin              |   ❌   |   ✅   |               | N-desmethyl                                   |
 | Pitavastatin, Pravastatin |   ❌   |        |               | ❌                                            |
 | Fluvastatin               |   ✅   |   ✅   |     hydroxylation       | active hydroxylated metabolite (不循環至全身) |
+| Atorvastatin              |   ✅   |        |   oxidation            | ortho- and parahydroxylated                  |
+| Rosuvastatin              |   ❌   |   ✅   |               | N-desmethyl                                   |
 ## 排泄 Excretion
 # 應用
 | 症狀                                                           | Rosuvastatin | Atorvastatin | Simvastatin | Pravastatin | Lovastatin | Fluvastatin | Pitavastatin |
@@ -42,7 +44,6 @@
 - 橫紋肌溶解
 	- 與 Fibrates、Niacin 同時使用機率最高
 - 孕婦不可使用
-- ==Atorvastatin 不用注意腎功能不全==
 # 藥物交互作用
 - CYP3A4
 # 藥化

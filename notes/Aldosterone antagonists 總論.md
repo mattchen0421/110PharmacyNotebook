@@ -16,7 +16,7 @@
 # 藥物交互作用
 # 藥化
 ## MOA
-- 抑制 aldosterone 結合至 mineralocorticoid receptor (MR) $\rightarrow$ 減少水和鹽滯留、增加 K<sup>+</sup>、H<sup>+</sup> 分泌
+- 抑制 aldosterone 結合至 mineralocorticoid receptor (MR) $\rightarrow$ 阻礙 aldosterone 與 Methionine 交互作用 $\rightarrow$ 減少水和鹽滯留、增加 K<sup>+</sup>、H<sup>+</sup> 分泌
 - Spironolactone
 	- 競爭型抑制劑
 ## SAR

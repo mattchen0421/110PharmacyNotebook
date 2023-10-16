@@ -18,6 +18,8 @@
 	- 促進肝臟 cholesterol $\rightarrow$ 膽酸
 	- 增加 LDL receptor $\rightarrow$ 促進 cholesterol-containing LDL particles 吸收
 ## SAR 
+![[Pasted image 20231016142113.png|300]]
+![[Pasted image 20231016142227.png|300]]
 - 與膽酸的高親和性
 - Cholestyramine
 	- polystyrene + divinylbenzene

@@ -1,3 +1,12 @@
+| Compound                                                                              |                     |
+| ------------------------------------------------------------------------------------- | ------------------- |
+| <span style="color:#ff0000">Furo</span>semide                                         | furan ring          |
+| <span style="color:#ff0000">Bu</span>metanide                                         | butylamino          |
+| <span style="color:#ff0000">Tor</span>semide                                          | Toluidine 甲苯胺    |
+| <span style="color:#ff0000">Eth</span><span style="color:#00b0f0">ac</span>rynic acid | ethyl + acetic acid |
+| <span style="color:#ff0000">Azo</span>semide                                          | tetrazole           |
+| <span style="color:#ff0000">Pir</span>etanide                                         | pyrrolidin          |
+| <span style="color:#ff0000">Tri</span>pamide                                          | 三環                    |
 ![[Pasted image 20230925220825.png|300]]
 ## Furosemide 
 - anthranilic acid or o-aminobenzoic acid 衍生物
@@ -25,15 +34,6 @@
 	- terminal alkene carbon H $\rightarrow$ 提高活性
 - 雙鍵 $\rightarrow$ 單鍵 $\rightarrow$ 活性降低
 
-| Compound                                                                              |                     |
-| ------------------------------------------------------------------------------------- | ------------------- |
-| <span style="color:#ff0000">Furo</span>semide                                         | furan ring          |
-| <span style="color:#ff0000">Bu</span>metanide                                         | butylamino          |
-| <span style="color:#ff0000">Tor</span>semide                                          | Toluidine 甲苯胺    |
-| <span style="color:#ff0000">Eth</span><span style="color:#00b0f0">ac</span>rynic acid | ethyl + acetic acid |
-| <span style="color:#ff0000">Azo</span>semide                                          | tetrazole           |
-| <span style="color:#ff0000">Pir</span>etanide                                         | pyrrolidin          |
-| <span style="color:#ff0000">Tri</span>pamide                                          | 三環                    |
 
 ---
 ![[Pasted image 20230925222240.png|300]]
