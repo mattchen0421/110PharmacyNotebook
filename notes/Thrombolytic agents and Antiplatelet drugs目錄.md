@@ -16,7 +16,7 @@
 - 血小板活化對止血是必不可少的，同時在中風、心肌梗死和動脈粥樣硬化方面也可能起到重要作用
 ## 藥物
 - [[Aspirin]] and other nonsteroidal antiinflammatory agents ([[NSAIDs]])
-- Dipyridamole
+- [[Phosphodiesterase inhibitors|Dipyridamole]]
 	- PDE inhibitor
 - Sulfinpyrazone
 	- Cyclooxygense inhibitor

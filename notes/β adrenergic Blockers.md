@@ -11,7 +11,7 @@
 - Nonselective (β1 and β2):
 - Without intrinsic sympathomimetic activity: 
 	- [[Propranolol]] (membrane stabilizing action), 
-	- Sotalol
+	- [[Sotalol]]
 	- Nadolol 
 	- [[Drugs used in open angle glaucoma#^f3e73c|Timolol]]
 - With intrinsic sympathomimetic activity (ISA): 

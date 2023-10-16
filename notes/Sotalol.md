@@ -16,13 +16,13 @@
 ## MOA
 - 
 ## SAR
-- phenyl-hydroxyethyl-isopropylamine para-methane sulfonamide
-- 結構與 Class II (ß blocker) 相似但碳鏈不同
+- phenyl-hydroxyethyl-isopropylamine para-methane [[Sulfonamide class|sulfonamide]]
+- 結構與 Class II ([[ß blocker]]) 相似但碳鏈不同
 - 市場上用 Racemic form
 ## d,l - Soltalol
 - 抑制 K<sup>+</sup> channels
-- 非選擇性 ß blocker
+- 非選擇性 [[ß blocker]]
 - 臨床使用
 ## d - Soltalol
 - 抑制 K<sup>+</sup> channels
-- 非 ß blocker
+- 非 [[ß blocker]]
