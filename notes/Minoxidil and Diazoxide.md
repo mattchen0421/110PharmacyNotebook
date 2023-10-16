@@ -12,8 +12,7 @@ aliases:
 ## 分布 Distribution
 ## 代謝 Metabolism
 - minoxidil
-	- 被 hepatic thermolabile phenol sulgotransferase (SULT1A1) 代謝
-		-  $\rightarrow$ minoxidil N-O-sulfate (活性代謝物)
+	- 被 hepatic thermolabile phenol sulgotransferase (SULT1A1) 代謝 $\rightarrow$ minoxidil N-O-sulfate (活性代謝物)
 	- 主要代謝物是 N-O-glucuronide (活性較弱)
 ## 排泄 Excretion
 # 應用

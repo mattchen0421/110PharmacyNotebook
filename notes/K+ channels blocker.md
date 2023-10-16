@@ -61,11 +61,12 @@
 
 
 ## SAR
-| Compound    |                                                             |
-| ----------- | ----------------------------------------------------------- |
-| [[Sotalol]] | phenyl-hydroxyethyl-isopropylamine para-methane sulfonamide |
-| Amiodarone  | diiodinated benzofuran                                      |
-| Ibutilide   | methanesulfonamide                                          |
-| Dofetilide  | bis-methanesulfonamide                                      |
-| Bretylium   | quaternary ammonium salt + Br                                                            |
+| Compound    |                                                                 |
+| ----------- | --------------------------------------------------------------- |
+| [[Sotalol]] | phenyl-hydroxyethyl-isopropylamine para-methane ==sulfonamide== |
+| Amiodarone  | diiodinated benzofuran                                          |
+| Dronedarone | benzofuran methane==sulfonamide==                                                               |
+| Ibutilide   | methane==sulfonamide==                                          |
+| Dofetilide  | bis-methane==sulfonamide==                                      |
+| Bretylium   | quaternary ammonium salt + Br                                   |
 

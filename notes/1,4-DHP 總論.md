@@ -67,11 +67,11 @@ aliases:
 | Compound                                       | 背法                      |
 | ---------------------------------------------- | ------------------------- |
 | <span style="color:#ff0000">Am</span>lodipine  | Amine                     |
-| Clevidipine                                    |      2Cl 長的                     |
-| Felodipine                                     |   2Cl 短的                        |
+| Clevidipine                                    | 2Cl 長的                  |
+| Felodipine                                     | 2Cl 短的                  |
 | Ni<span style="color:#ff0000">car</span>dipine | carbon $\rightarrow$ 苯環 |
 | Nifedipine                                     | 對稱                      |
 | Ni<span style="color:#ff0000">mo</span>dipine  | methoxy                   |
 | N<span style="color:#ff0000">iso</span>dipine  | isobutyl                  |
-| Isradipine                                     |                           |
+| Isradipine                                     | Benzofurazan                          |
 

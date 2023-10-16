@@ -2,7 +2,7 @@
 ## 給藥 Administration
 ## 分布 Distribution
 ## 代謝 Metabolism
-- ethyl ester prodrug
+- ethyl ester prodrug 水解 $\rightarrow$ 活性代謝物 
 ## 排泄 Excretion
 # 應用
 # 副作用
@@ -15,5 +15,5 @@
 - (R, S) form 活性最大
 - S1, S1’: hydrophobic
 - S2’: Arg110, Arg112, Asn542
-![[Pasted image 20230918122758.png]]
+![[Pasted image 20230918122758.png|300]]
 

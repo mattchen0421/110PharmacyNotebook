@@ -6,7 +6,8 @@
 | <span style="color:#ff0000">Eth</span><span style="color:#00b0f0">ac</span>rynic acid | ethyl + acetic acid |
 | <span style="color:#ff0000">Azo</span>semide                                          | tetrazole           |
 | <span style="color:#ff0000">Pir</span>etanide                                         | pyrrolidin          |
-| <span style="color:#ff0000">Tri</span>pamide                                          | 三環                    |
+| <span style="color:#ff0000">Tri</span>pamide                                          | 三環                |
+
 ![[Pasted image 20230925220825.png|300]]
 ## Furosemide 
 - anthranilic acid or o-aminobenzoic acid 衍生物
