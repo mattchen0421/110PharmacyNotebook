@@ -14,15 +14,16 @@
 - 傍晚或睡前服藥
 	- Atorvastatin & Rosuvastatin 長半衰期 $\rightarrow$ 例外
 - Lovastatin 與食物同服
+- Simvastatin & Pravastatin 併服食物可降低消化不良的現象
 ## 分布 Distribution
 ## 代謝 Metabolism
-| 藥名                      | CYP3A4 | CYP2C9 | 活性代謝物                   |
-| ------------------------- |:------:|:------:| ---------------------------- |
-| Atorvastatin              |   ✅   |        | ortho- and parahydroxylated |
-| Lovastatin、Simvastatin   |   ✅   |        | 3,5-dihydroxy acid           |
-| Rosuvastatin              |   ❌   |   ✅   | N-desmethyl                  |
-| Pitavastatin, Pravastatin |   ❌   |        | ❌                           |
-| Fluvastatin               |   ✅   |   ✅   | ❌                           |
+| 藥名                      | CYP3A4 | CYP2C9 |  | 活性代謝物                                    |
+| ------------------------- |:------:|:------:|:-------------:| --------------------------------------------- |
+| Atorvastatin              |   ✅   |        |   oxidation            | ortho- and parahydroxylated                  |
+| Lovastatin、Simvastatin   |   ✅   |        |    oxidation           | 3,5-dihydroxy acid                            |
+| Rosuvastatin              |   ❌   |   ✅   |               | N-desmethyl                                   |
+| Pitavastatin, Pravastatin |   ❌   |        |               | ❌                                            |
+| Fluvastatin               |   ✅   |   ✅   |     hydroxylation       | active hydroxylated metabolite (不循環至全身) |
 ## 排泄 Excretion
 # 應用
 | 症狀                                                           | Rosuvastatin | Atorvastatin | Simvastatin | Pravastatin | Lovastatin | Fluvastatin | Pitavastatin |
