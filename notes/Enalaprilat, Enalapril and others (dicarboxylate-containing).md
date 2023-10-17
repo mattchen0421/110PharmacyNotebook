@@ -14,9 +14,12 @@ aliases:
 ## 代謝 Metabolism
 - prodrug 透過肝 esterases 代謝成活性代謝物
 	- Lisinopril 不是 prodrug
-- Lisinopril 在小腸中形成 di-zwitterion
-- Quinapril, Ramipril, Benazepril: glucuronide conjugation 
-- Moexipril, Perindopril, Ramipril: cyclization to produce diketopiperazines
+
+|                                      |                            |
+| ------------------------------------ | -------------------------- |
+| Lisinopril                           | 在小腸中形成 di-zwitterion |
+| Benazepril<br>Ramipril<br>Quinapril  | glucuronide conjugation    |
+| Ramipril<br>Perindopril<br>Moexipril | cyclization $\rightarrow$ diketopiperazines                           |
 ## 排泄 Excretion
 - 主要由腎臟排泄
 - \+ 肝排泄的有

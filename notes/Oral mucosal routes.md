@@ -7,7 +7,7 @@ aliases: Sublingual
 - Dosage forms suitable for oral mucosal route 
 	- small tablet 
 - These tablets are placed under the tongue or in oral cavity 
-	- e.g. nitroglycerin sublingual tablets
+	- e.g. [[Nitrate vasodilators|nitroglycerin]] sublingual tablets
 # Advantage
 - avoid [[first-pass effect]] 
 - rapid onset 

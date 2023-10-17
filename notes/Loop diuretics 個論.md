@@ -1,3 +1,14 @@
+---
+aliases:
+  - Furosemide
+  - Bumetanide
+  - Torsemide
+  - Ethacrynic acid
+  - Azosemide
+  - Piretanide
+  - Tripamide
+---
+
 | Compound                                                                              |                     |
 | ------------------------------------------------------------------------------------- | ------------------- |
 | <span style="color:#ff0000">Furo</span>semide                                         | furan ring          |

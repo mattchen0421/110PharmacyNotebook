@@ -7,6 +7,6 @@ aliases : First pass effect, 首度效應
 	1. the intact drug plus its 
 	2. changed intermediates. 
 - Some drugs are almost completely removed from the circulation on their first passage through the liver. If metabolism is extensive, the [[Oral (口服用藥)|oral]] administration leads to much lower drug levels than other routes 
-- e.g., nitroglycerin, [[Lidocaine and Prilocaine|lidocaine]], [[isoproterenol]], [[morphine]], [[aspirin]] 
+- e.g., [[Nitrate vasodilators|nitroglycerin]], [[Lidocaine and Prilocaine|lidocaine]], [[isoproterenol]], [[morphine]], [[aspirin]] 
 - If these drugs are given orally, the required dose is much greater than for other [[routes of administration]]
 ![[Pasted image 20230315221149.png]]

@@ -1,3 +1,8 @@
+---
+aliases:
+  - Spironolactone
+---
+
 ![[Pasted image 20231002192232.png|300]]
 # 藥動
 ## 給藥 Administration
