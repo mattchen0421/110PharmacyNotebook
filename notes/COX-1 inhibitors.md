@@ -35,6 +35,7 @@ aliases:
 - 抑制 cyclooxygenase-1 $\rightarrow$ 抑制 TXA2 生合成
 	- [[Aspirin]] 
 		- key serine residue covalent acetylation
+		- 持續 7~10 天
 	- Indobufen
 		- 可逆抑制
 ## SAR

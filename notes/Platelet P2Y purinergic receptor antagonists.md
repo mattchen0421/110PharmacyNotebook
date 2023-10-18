@@ -1,10 +1,10 @@
-| Compound    |        |                               |                   |            |
-| ----------- | ------ | ----------------------------- | ----------------- | ---------- |
-| Ticlopidine | 不可逆 | thienopyridine                | CYP3A4 and CYP2B6 | 活性代謝物 |
-| Clopido<span style="color:#ff0000">grel</span> | 不可逆 | thienopyridine                | CYP3A4 and CYP2C19/1A2/2B6           | 活性代謝物 |
-| Prasu<span style="color:#ff0000">grel</span>   | 不可逆 | thienopyridine                |                   | 活性代謝物 |
-| Tica<span style="color:#00b0f0">grelor</span>  | 可逆   | cyclopentyltriazolopyrimidine | CYP3A4 and 3A5    | 活性代謝物 |
-| Can<span style="color:#00b0f0">grelor</span>   | 可逆   | cyclopentyltriazolopyrimidine | IV                |            |
+| Compound                                       |        |                     |                            |            |
+| ---------------------------------------------- | ------ | ------------------- | -------------------------- | ---------- |
+| Ticlopidine                                    | 不可逆 | thienopyridine + Cl | CYP3A4 and CYP2B6          | 活性代謝物 |
+| Clopido<span style="color:#ff0000">grel</span> | 不可逆 | thienopyridine + Cl | CYP3A4 and CYP2C19/1A2/2B6 | 活性代謝物 |
+| Prasu<span style="color:#ff0000">grel</span>   | 不可逆 | thienopyridine + F     |                            | 活性代謝物 |
+| Tica<span style="color:#00b0f0">grelor</span>  | 可逆   | Triazolopyrimidine  | CYP3A4 and 3A5             | 活性代謝物 |
+| Can<span style="color:#00b0f0">grelor</span>   | 可逆   | Purine              | IV                         |            |
 # MOA
 - P2Y1
 	- 提高胞內 Ca<sup>2+</sup> $\rightarrow$ 改變血小板構型 & 促進血小板聚集
