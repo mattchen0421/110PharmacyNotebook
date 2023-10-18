@@ -7,7 +7,7 @@
 | Pravastatin                                     |                            |            | 酸性 |          |
 | Fluvastatin                                     |                            | Indole     | 酸性 |          |
 | <span style="color:#ff0000">A</span>torvastatin | Acetanilide                | Pyrrole    | 酸性 | 長半衰期 |
-| Rosuvastatin                                    | N-Methylmethanesulfonamide | Pyrimidine | 兩性 | 長半衰期         |
+| Rosuvastatin                                    | N-Methyl==methanesulfonamide== | Pyrimidine | 兩性 | 長半衰期         |
 | Pitavastatin                                    | cyclopropane               | Quinoline  | 兩性 |          |
 # 藥動
 ## 給藥 Administration

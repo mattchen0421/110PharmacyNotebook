@@ -1,3 +1,13 @@
+---
+aliases:
+  - Sotalol
+  - Ibutilide
+  - Dofetilide
+  - Amiodarone
+  - Dronedarone
+  - Bretylium
+---
+
 ![[Pasted image 20231009210402.png|300]]
 # 藥動
 ## 給藥 Administration

@@ -8,6 +8,7 @@
 | IB    | 弱           | 縮短   | 減少                       | ^^                    |
 | IC    | 強           | 無     | 無                         | ^^                    |
 [Class I 分類]
+
 ## 改變離子通道功能 
 ### Class I (blocker of fast Na<sup>+</sup> channels)
 #### class IA (選擇性最差)

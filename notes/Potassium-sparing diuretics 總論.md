@@ -5,8 +5,7 @@
 ## 分布 Distribution
 ## 代謝 Metabolism
 - Triamterene 
-	- CYP1A2 $\rightarrow$ 4′-hydroxytriamterene/sulfate conjugate
-		- 具有活性
+	- CYP1A2 $\rightarrow$ 4′-hydroxytriamterene/sulfate conjugate 活性代謝物
 ## 排泄 Excretion
 # 應用
 - Triamterene +  thiazide/loop diuretic

@@ -20,7 +20,7 @@ tags: []
 - Quinidine syncope
 	- 使用初期心跳加速
 	- 缺氧昏迷
-	- 藥物減量已改善
+	- 藥物減量以改善
 - Torsades de points 心律不整
 - 不純物 Dihydroquinidine 有顯著毒性
 # 藥物交互作用
