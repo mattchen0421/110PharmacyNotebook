@@ -1,3 +1,4 @@
+![[Pasted image 20230406122147.png|300]]
 # 藥動
 ## 給藥 Administration
 - 不能口服

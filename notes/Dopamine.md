@@ -11,4 +11,5 @@
 	- High dose (10-30 μg/kg/minute):
 		- α<sub>1</sub> →  ↑ PVR 
 		- ↓ renal blood flow
+
 ![[Pasted image 20230406122147.png]]

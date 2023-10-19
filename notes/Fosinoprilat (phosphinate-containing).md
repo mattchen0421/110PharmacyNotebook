@@ -7,7 +7,7 @@ aliases:
 ![[Pasted image 20230917143901.png|200]]
 # 藥動
 ## 給藥 Administration
-- 口服活性差
+- Fosinoprilat 口服活性差
 	- 做成prodrug Fosinopril
 ## 代謝 Metabolism
 - Fosinopril 透過肝 esterases 代謝成活性代謝物
