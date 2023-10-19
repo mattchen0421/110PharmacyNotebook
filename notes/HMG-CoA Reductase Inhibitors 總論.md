@@ -5,10 +5,10 @@
 | Lovastatin                                      |                            |            | 中性 |          |
 | Si<span style="color:#ff0000">m</span>vastatin  | methyl                     |            | 中性 |          |
 | Pravastatin                                     |                            |            | 酸性 |          |
-| Fluvastatin                                     |                            | Indole     | 酸性 |          |
-| <span style="color:#ff0000">A</span>torvastatin | Acetanilide                | Pyrrole    | 酸性 | 長半衰期 |
-| Rosuvastatin                                    | N-Methyl==methanesulfonamide== | Pyrimidine | 兩性 | 長半衰期         |
-| Pitavastatin                                    | cyclopropane               | Quinoline  | 兩性 |          |
+| <span style="color:#00b0f0">Flu</span>vastatin                                     |                            | In<span style="color:#00b0f0">dol</span>e     | 酸性 |          |
+| <span style="color:#ff0000">A</span>t<span style="color:#00b0f0">or</span>vastatin | Acetanilide                | Pyr<span style="color:#00b0f0">ro</span>le    | 酸性 | 長半衰期 |
+| <span style="color:#00b0f0">Rosu</span>vastatin                                    | N-Methyl==methanesulfonamide== | Pyri<span style="color:#00b0f0">mi</span>dine | 兩性 | 長半衰期         |
+| <span style="color:#00b0f0">Pita</span>vastatin                                    | cyclopropane               | <span style="color:#00b0f0">Qui</span>noline  | 兩性 |          |
 # 藥動
 ## 給藥 Administration
 - 傍晚或睡前服藥
