@@ -22,6 +22,7 @@ aliases:
 
 ## Phthalimidine derivatives
 ### Chlorthalidone
+- phthalimidine 
 - 通常形成 benzophenone 衍生物
 - 超長效 72 hr
 ## Indolines 

@@ -26,7 +26,7 @@ aliases: Interferon, IFNSs
 	- Statolon
 	- poly I:C
 	- Ampligen
-	- pyran copolymeres, tilorone, diethylaminoethyl dextran, and heparin
+	- pyran copolymeres, tilorone, diethylaminoethyl dextran, and [[heparin]]
 ## 用途
 - IV，IM
 - 用於治療

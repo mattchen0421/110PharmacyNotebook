@@ -10,7 +10,7 @@
 	- 減少鎮痛效果的有效性
 - H<sub>2</sub> blockers
 	- 增加胃酸分泌
-- Heparin and Warfarin
+- [[Heparin]] and Warfarin
 	- 減弱抗凝血作用
 ## 副作用
 - hypertension，tachycardia，lung related-disorders 

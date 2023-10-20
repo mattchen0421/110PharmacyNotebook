@@ -4,7 +4,7 @@
 ## 代謝 Metabolism
 ## 排泄 Excretion
 # 應用
-- thrombotic disorders 時拮抗 heparin
+- thrombotic disorders 時拮抗 [[heparin]]
 # 副作用
 # 藥物交互作用
 # 藥化

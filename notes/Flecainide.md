@@ -23,6 +23,6 @@ tags: []
 - class IC blocker of fast Na<sup>+</sup> channels
 - 也抑制 Ca<sup>+</sup> channels
 ## SAR
-- A bis-trifluoroethoxy benzamide 衍生物
+- bis-trifluoroethoxy benzamide 衍生物
 - 市場上用 acetate salt
 

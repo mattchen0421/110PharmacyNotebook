@@ -55,8 +55,8 @@ aliases:
 
 | Compond    |             |     |
 | ---------- | ----------- | --- |
-| Rivaroxaban | oxazolidine |   Piperidone   |
-| Apixaban   | carboxamide |  Piperidone   |
+| Rivaroxaban | oxazolidine + Chlorothiophene |   Piperidone   |
+| <span style="color:#00b0f0">A</span><span style="color:#ff0000">p</span>ixaban   | carboxamide + <span style="color:#00b0f0">A</span>nisole + <span style="color:#ff0000">p</span>yrazolopyridine|  Piperidone   |
 | Edoxaban   | Tetrahydrothiazolopyridine            |     |
-| Betrixaban |   Chloropyridine           |     |
+| Betrixaban |   Chloropyridine + anthraanilamide           |     |
 

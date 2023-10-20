@@ -14,7 +14,7 @@ aliases:
 # Protamine
 - [[Heparin]] 拮抗劑
 - arginine-rich, highly basic group 蛋白質
-- 與 heparin, fibrinogen, platelets 結合
+- 與 [[heparin]], fibrinogen, platelets 結合
 - 副作用
 	- 過敏 protamine-containing insulin
 	- 高血壓、血栓生成
