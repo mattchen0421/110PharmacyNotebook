@@ -26,7 +26,7 @@
 - blockade of Na<sup>+</sup> channels
 - 
 ## SAR
-- 
+- Naphthol or Naphthalene
 
 
 ## Blood Pressure

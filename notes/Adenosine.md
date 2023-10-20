@@ -1,14 +1,19 @@
-- Nucleoside
-## 用於治療
+# 藥動
+## 給藥 Administration
+## 分布 Distribution
+## 代謝 Metabolism
+- 代謝需經過 Nucleoside transporter
+## 排泄 Excretion
+# 應用
 - bolus IV therapy
 	- 急救用
+# 副作用
+# 藥物交互作用
+- Nucleoside transporter blocker
+	-  [[Phosphodiesterase inhibitors|dipyridamole]]
+- Nucleoside transporter 促進劑
+	- caffeine, theophylline ([[Xanthines]]) 
+# 藥化
 ## MOA
 - Adenosine receptor 位於 pacemaker cells
 	- 打開 K<sup>+</sup> channel
-## 藥動
-- 代謝需經過 Nucleoside transporter
-## 藥物相互作用
-- 代謝被 [[Phosphodiesterase inhibitors|dipyridamole]] 抑制
-	- Nucleoside transporter blocker
-- 代謝被 caffeine, theophylline ([[Xanthines]]) 促進
-	- Nucleoside transporter 促進劑
