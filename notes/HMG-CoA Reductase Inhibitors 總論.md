@@ -12,7 +12,7 @@
 # 藥動
 ## 給藥 Administration
 - 傍晚或睡前服藥
-	- Atorvastatin & Rosuvastatin 長半衰期 $\rightarrow$ 例外
+	- 例外 $\rightarrow$ Atorvastatin & Rosuvastatin 長半衰期
 - Lovastatin 與食物同服
 - Simvastatin & Pravastatin 併服食物可降低消化不良的現象
 ## 分布 Distribution
