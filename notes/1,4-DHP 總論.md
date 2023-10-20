@@ -69,7 +69,7 @@ aliases:
 | <span style="color:#ff0000">Am</span>lodipine  | Amine                     |
 | Clevidipine                                    | 2Cl 長的                  |
 | Felodipine                                     | 2Cl 短的                  |
-| <span style="color:#00b0f0">N</span>i<span style="color:#ff0000">car</span>dipine |N + carbon $\rightarrow$ 苯環 |
+| Ni<span style="color:#ff0000">car</span>dipine |N + carbon $\rightarrow$ 苯環 |
 | Nifedipine                                     | 對稱                      |
 | Ni<span style="color:#ff0000">mo</span>dipine  | methoxy                   |
 | N<span style="color:#ff0000">iso</span>dipine  | isobutyl                  |
