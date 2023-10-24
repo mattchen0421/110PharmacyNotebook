@@ -15,4 +15,5 @@ aliases: Tigecycline, 老虎黴素, Tygacil
 - 細菌對抗tetracycline的抗藥機轉對 tigecycline無效
 	- ribosomal protection proteins
 	- efflux pump mechanisms
-![[Pasted image 20230502210643.png]]
+
+![[Pasted image 20230502210643.png|300]]
