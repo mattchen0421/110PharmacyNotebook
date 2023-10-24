@@ -7,4 +7,5 @@ aliases: Phenoxymethylpenicillin, Penicillin V
 4. activity: 1,695 units/mg
 5. [[Parenteral (via injection)|parenteral]]
 	- potassium salt is used (very soluble in water)
-![[Pasted image 20230321104711.png]]
+
+![[Pasted image 20230321104711.png|300]]

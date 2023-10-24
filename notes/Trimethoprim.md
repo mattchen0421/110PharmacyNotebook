@@ -19,4 +19,4 @@
 # 藥化
 ## MOA
 - Dihydrofolate reductase 抑制劑
-- ![[Pasted image 20230314224142.png]]
+- ![[Pasted image 20230314224142.png|300]]

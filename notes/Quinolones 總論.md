@@ -4,7 +4,7 @@
 - 被食物干擾 (sucralfate, antacids or dietary containing Al<sup>+3</sup> , Mg<sup>+2</sup> , Fe<sup>+3</sup> or Zn<sup>+2</sup>)
 ## 分布 Distribution
 - 存在於骨頭，尿液，腎臟，前列腺
-- 肺 > 血漿
+	- 肺 > 血漿
 - 堆積在巨噬細胞，嗜中性球
 - 只有 ofloxacin 進入 CSF
 ## 代謝 Metabolism

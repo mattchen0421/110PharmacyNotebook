@@ -52,11 +52,4 @@
 		- ![[Pasted image 20230503001757.png|100]]![[Pasted image 20230503002126.png|100]]
 	- five benzene ring
 - 
-
-
-
-
-
-
-
-![[Chemical-structure-of-vancomycin-The-disaccharide-composed-of-vancosamine-and-glucose.png]]
+![[Chemical-structure-of-vancomycin-The-disaccharide-composed-of-vancosamine-and-glucose.png|300]]

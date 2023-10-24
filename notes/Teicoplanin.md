@@ -28,4 +28,4 @@
 - 五個 glycopeptide 混合物
 
 
-![[Pasted image 20230503234856.png]]
+![[Pasted image 20230503234856.png|300]]

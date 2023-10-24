@@ -25,4 +25,4 @@ aliases: Isoniazid, INH
 	- (coadministration of pyridoxine may prevent symptoms 
 	 occurred)
 
-![[Pasted image 20230613135544.png]]
+![[Pasted image 20230613135544.png|300]]

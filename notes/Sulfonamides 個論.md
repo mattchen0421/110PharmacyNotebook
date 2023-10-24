@@ -27,11 +27,13 @@ aliases:
 ## Sulfisoxazole
 - 最不易造成結晶尿
 - 短效型及中效型磺胺藥
+- 用於急性泌尿道感染(UTIs)，土壤絲菌病(Nocardiosis)
 - Sulfisoxazole acetyl
 - Prodrug
 - ![[Pasted image 20230314223831.png|200]]
 ## Sulfamethizole 
 ## Silver sulfadiazine (sulfadiazine)
+- 用於土壤絲菌病(Nocardiosis)
 - 雜環: pyrimidine
 - +CH<sub>3</sub> $\rightarrow$ Sulfamerazine
 - +CH<sub>3</sub> X2 $\rightarrow$ Sulfamethazine

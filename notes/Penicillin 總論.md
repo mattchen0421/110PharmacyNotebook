@@ -1,4 +1,4 @@
-![[Pasted image 20230923104155.png]]
+![[Pasted image 20230923104155.png|300]]
 # 藥動
 ## 給藥 Administration
 - 口服
