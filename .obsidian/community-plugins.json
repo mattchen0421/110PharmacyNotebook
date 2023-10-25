@@ -17,10 +17,10 @@
   "obsidian-latex-suite",
   "obsidian-text-format",
   "obsidian-hover-editor",
-  "table-extended",
   "obsidian-git",
   "janitor",
   "awesome-image",
   "obsidian-hider",
-  "colored-text"
+  "colored-text",
+  "obsidian-excel-to-markdown-table"
 ]
