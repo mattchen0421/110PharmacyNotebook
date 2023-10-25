@@ -1,6 +1,5 @@
 ## MOA
-- 干擾 virus uncoating
-	- 抑制特定蛋白質
+- 抑制 viral membrane protein M2 $\rightarrow$ 干擾 virus uncoating
 - 抑制 RT or the synthesis of virus-specific RNA
 - 不影響吸收和穿透
 ## 特色
