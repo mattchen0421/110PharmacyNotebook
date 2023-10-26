@@ -165,5 +165,13 @@
       ],
       "key": "CapsLock"
     }
+  ],
+  "colored-text:color-text": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
   ]
 }

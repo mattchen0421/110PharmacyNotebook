@@ -12,5 +12,6 @@
   "propertiesInDocument": "visible",
   "showLineNumber": true,
   "autoPairBrackets": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "strictLineBreaks": false
 }
