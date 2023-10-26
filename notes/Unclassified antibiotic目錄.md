@@ -1,6 +1,6 @@
 ##  inhibit protein synthesis 50S
 #### Oxazolidinones
-- ⛏️[[Linezolid (Zyvox) and Tedizolid]]
+- ⛏️[[Linezolid (Zyvox) & Tedizolid]]
 #### Peptidyl transferase
 - [[Chloramphenicol (Chloromycetin)]]
 ---

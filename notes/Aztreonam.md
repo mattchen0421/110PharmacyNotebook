@@ -27,4 +27,4 @@
 ## SAR
 - side chain 與 [[Ceftazidime and avibactam|ceftazidime]] 相似
 
-![[Pasted image 20230531132728.png]]
+![[Pasted image 20230531132728.png|300]]

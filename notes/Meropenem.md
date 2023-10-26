@@ -15,6 +15,6 @@
 	- peritonitis 腹膜炎
 - G-(-) and anaerobic bacteria 活性 > [[Imipenem]] 
 - G-(+) 活性較低
-![[Pasted image 20230426134835.png]]
-![[Pasted image 20230426134841.png]]
-![[Pasted image 20230426134907.png]]
+![[Pasted image 20230426134835.png|300]]
+![[Pasted image 20230426134841.png|300]]
+![[Pasted image 20230426134907.png|300]]

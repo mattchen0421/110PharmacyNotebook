@@ -18,5 +18,5 @@
 		- preexisting CNS disease 
 		- infection
 		- use of large doses
-![[Pasted image 20230426133556.png]]
-![[Pasted image 20230426133625.png]]
+![[Pasted image 20230426133556.png|300]]
+![[Pasted image 20230426133625.png|300]]

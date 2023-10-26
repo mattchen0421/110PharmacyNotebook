@@ -7,4 +7,4 @@
 - 特別應用在 anaerobesused 
 	- once daily parenterally 
 
-![[Pasted image 20230426140320.png]]
+![[Pasted image 20230426140320.png|300]]
