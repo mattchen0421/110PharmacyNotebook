@@ -24,4 +24,5 @@ aliases:
 - 抑制 D-alanine racemase and D-alanine ligase
 	- DCS 是 D-alanine analog
 	- 阻止 D-alanine 形成 peptidoglycan
+
 ![[Pasted image 20230613114842.png|300]]
