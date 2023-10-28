@@ -15,30 +15,30 @@
 ## 排泄 Excretion
 - 腎絲球過濾排除
 # 應用
-## ⚡急性泌尿道感染(UTIs)
-- [[Sulfonamides 個論|sulfisoxazole]], [[co-trimoxazole]]
-## 土壤絲菌病(Nocardiosis)
-- [[Sulfonamides 個論|sulfisoxazole]], [[Sulfonamides 個論|sulfadiazine]] ([[Sulfonamides 個論|Silver sulfadiazine]]), or [[tetracycline]]
-## 外用 (Topical uses)
-- [[Sulfonamides 個論|sulfacetamide]], [[Sulfonamides 個論|silver sulfadiazine]], [[Sulfonamides 個論|mafenide]] ([[Sulfonamides 個論|Mafenide]] acetate ([[Sulfonamides 個論|sulfamylon]]))
-## 細菌性結膜炎(bacterial conjunctivitis)
-- [[Sulfonamides 個論|sulfacetamide]], or [[tetracycline]]
-## 急性中耳炎(Acute otitis media)
-- [[Sulfonamides 個論|sulfisoxazole]]
-## 特殊用途
-- ⚡**瘧疾[[malaria]]**: [[sulfasalazine]], sulfadoxine
-- **毒漿體原蟲病toxoplasmosis**: [[Sulfonamides 個論|sulfadiazine]] ([[Sulfonamides 個論|Silver sulfadiazine]])
+- 急性泌尿道感染(UTIs)
+	- [[Sulfonamides 個論|sulfisoxazole]], [[co-trimoxazole]]
+- 土壤絲菌病(Nocardiosis)
+	- [[Sulfonamides 個論|sulfisoxazole]], [[Sulfonamides 個論|sulfadiazine]] ([[Sulfonamides 個論|Silver sulfadiazine]]), or [[tetracycline]]
+- 外用 (Topical uses)
+	- [[Sulfonamides 個論|sulfacetamide]], [[Sulfonamides 個論|silver sulfadiazine]], [[Sulfonamides 個論|mafenide]] ([[Sulfonamides 個論|Mafenide]] acetate ([[Sulfonamides 個論|sulfamylon]]))
+- 細菌性結膜炎(bacterial conjunctivitis)
+	- [[Sulfonamides 個論|sulfacetamide]], or [[tetracycline]]
+	急性中耳炎(Acute otitis media)
+	- [[Sulfonamides 個論|sulfisoxazole]]
+- 特殊用途
+	- **瘧疾 [[malaria]]**: [[sulfasalazine]], sulfadoxine
+	- **毒漿體原蟲病toxoplasmosis**: [[Sulfonamides 個論|sulfadiazine]] ([[Sulfonamides 個論|Silver sulfadiazine]])
 # 副作用
-## ⚡晶尿症(Crystalluria)
-- sulfisoxazole, [[Sulfonamides 個論|sulfamethoxazole]]
-## ⚡溶血性貧血
-- G6PD
-## ⚡核黃疸(Kernicterus)
-- 新生兒
-## 加強其他藥物
-- tolbutamide, [[Dicumarol and Warfarin|warfarin]], [[Methotrexate (MTX)|methotrexate]]
-## 過敏
-- 紅疹, 血管性水腫(angioedema), [[Stevens-Johnson syndrome|SJS]]
+- 晶尿症(Crystalluria)
+	- sulfisoxazole, [[Sulfonamides 個論|sulfamethoxazole]]
+- 溶血性貧血
+	- G6PD
+- 核黃疸(Kernicterus)
+	- 新生兒
+- 加強其他藥物
+	- tolbutamide, [[Dicumarol and Warfarin|warfarin]], [[Methotrexate (MTX)|methotrexate]]
+- 過敏
+	- 紅疹, 血管性水腫(angioedema), [[Stevens-Johnson syndrome|SJS]]
 # 抗藥性
 - alter dihydropteroate synthetase 
 - 降低細胞膜穿透率
