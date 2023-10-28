@@ -1,3 +1,13 @@
+|                                         |                    |                                                                                 |     |
+| --------------------------------------- | ------------------ | ------------------------------------------------------------------------------- | --- |
+| First-generation (G(-))                 | [[Nalidixic acid]] |                                                                                 |     |
+| ^                                       | [[Cinoxacin]]      |                                                                                 |     |
+| Second-generation (G(-) & G(+))         | [[Norfloxacin]]    |                                                                     |     |
+| ^                                       | [[Ciprofloxacin]]  | 抗炭疽菌和綠膿桿菌<br>對 MRSA, 腸球菌 enterococci & 肺炎鏈球菌 pneumococci 無效 |     |
+| Third-generation (respiratory FQ)       | [[Levofloxacin]]   | 左旋 ofloxacin                                                                                |     |
+| ^                                       | [[Gatifloxacin]]   |                                                                                 |     |
+| ^                                       | [[Gemifloxacin]]   |                                                                                 |     |
+| Fourth-generation (G(-) & G(+)+ & 厭氧) | [[Moxifloxacin]]   |   respiratory FQ<br>肝臟代謝<br>不建議用於泌尿道感染                                                                               |     |
 ## First-generation (G(-))
 - [[Nalidixic acid]]
 	- C3 COOH 沒 F

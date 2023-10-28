@@ -12,6 +12,7 @@
 - C-7 heterocycles: [[Oxidative reactions​|Hydroxylation]]
 ## 排泄 Excretion
 - 腎臟排泄
+	- 除了 [[Moxifloxacin]] $\rightarrow$ 肝臟排泄
 - 與制酸劑併用建議間隔2小時
 - 半衰期 3~5 小時
 # 應用

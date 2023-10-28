@@ -3,6 +3,7 @@
 ## 給藥 Administration
 - 口服
 	- 餐前 30~60min or 餐後 2~3hr
+	- 除了 [[Methicillin]] 
 ## 分布 Distribution
 - 分布至身體多數位置
 - 通常不進入CSF，除非腦膜炎

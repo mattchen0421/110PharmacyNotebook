@@ -26,4 +26,5 @@
 		- murine
 		- Rous
 		- Esh sarcoma viruses
-![[Pasted image 20230508213142.png]]
+
+![[Pasted image 20230508213142.png|300]]

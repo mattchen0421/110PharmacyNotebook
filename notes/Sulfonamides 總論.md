@@ -46,8 +46,7 @@
 # 藥化
 ## MOA
 - 可逆競爭型抑制劑
-- 抑制葉酸合成
-	- 抑制 dihydropteroate synthetase
+- 抑制 dihydropteroate synthetase $\rightarrow$ 抑制葉酸合成
 - [[Bacteriostatic and bactericidal|Bacteriostatic]]
 - false metabolite
 ## SAR
