@@ -21,7 +21,7 @@ aliases:
 - D-alanine racemase 過度表現
 # 藥化
 ## MOA
-- 抑制 D-alanine racemase and D-alanine ligase
+- 抑制 D-alanine racemase 和 D-alanine ligase
 	- DCS 是 D-alanine analog
 	- 阻止 D-alanine 形成 peptidoglycan
 

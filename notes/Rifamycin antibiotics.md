@@ -18,7 +18,7 @@ aliases:
 - Rifapentine
 	- 高血漿蛋白結合
 ## 排泄 Excretion
-- 紅色、橘色 urine, stool, and sweat and tears
+- 紅色、橘色尿液
 # 應用
 - Rifamycin SV 是最早的 rifamycin antibiotics
 - Rifampin
@@ -37,6 +37,8 @@ aliases:
 - Rifapentine
 	- 用於 hepatic dysfunction 病患不須調整劑量
 	- 動物實驗中出現致畸性
+- Rifampin
+	- flu-like syndrome
 # 藥物交互作用
 - Rifampin
 	- 誘導 CYP3A4 and CYP2C
