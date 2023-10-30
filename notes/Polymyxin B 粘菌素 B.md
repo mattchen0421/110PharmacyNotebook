@@ -2,8 +2,7 @@
 aliases: Polymyxin B, 粘菌素 B
 ---
 ## MOA
-- 與細胞質膜 cytoplasmic membranes 的 phosphate groups 結合
-	- 干擾其完整性
+- 與細胞質膜 cytoplasmic membranes 的 phosphate groups 結合 $\rightarrow$ 干擾其完整性
 ## 特色
 - from Bacillus polymyxa
 - 腎毒性和神經毒性

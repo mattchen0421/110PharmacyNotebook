@@ -34,6 +34,8 @@ aliases:
 - Antibiotics-associated colitis 抗生素相關性腸炎
 # 藥物交互作用
 - 抑制肝臟 mixed function oxidase CYP450
+# 抗藥性
+- 製造 enzyme 使藥物去活性化
 # 藥化
 ## MOA
 - 抑制蛋白質合成
@@ -42,13 +44,3 @@ aliases:
 - two chiral carbons
 - ![[Pasted image 20230504212541.png|300]]
 - ==D-threo isomer== (1R,2R) 有活性
-- 
-
-
-## 特色
-- from Streptomyces venezuelae
-- Bacteriostatic
-- 抗藥性
-	- 製造 enzyme 使藥物去活性化
-	- 第一個
-	- Haemophilus influenzae, Salmonella typhi
