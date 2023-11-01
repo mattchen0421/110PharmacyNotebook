@@ -24,5 +24,6 @@
 	- 尤其是 Haemophilus influenzae
 
 ## 用途
+- MAC 的第一線用藥
 
 ![[Pasted image 20230430172148.png]]

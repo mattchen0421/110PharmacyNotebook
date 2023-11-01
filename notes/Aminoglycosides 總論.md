@@ -8,7 +8,7 @@
 ## 排泄 Excretion
 - 原型藥物以腎臟 glomerular filtration 排出
 # 應用
-- serious aerobic G(-) rods & G(+) cocci
+- serious ==aerobic== G(-) rods & G(+) cocci
 	- chronic UTI, plague (鼠疫), tularemia (兔熱病), endocarditis, pneumonia, tuberculosis
 - therapeutic index 狹窄 $\rightarrow$ 被取代
 # 副作用
@@ -16,7 +16,7 @@
 - 腎毒性 (可逆)
 - Neuromuscular paralysis
 	- 少見但嚴重
-	- 被影響 NM junction 的症狀和藥物放大
+	- 避免用於重症肌無力患者、手術前麻醉及服用 NM blockers 患者
 - 過敏
 # 藥物交互作用
 # 抗藥性

@@ -25,11 +25,11 @@ aliases:
 ## MOA
 - 抑制 mucopeptide 細胞壁合成
 	- 干擾細胞膜運作
-	- 抑制 dephosphorylation of bactoprenol (BP) pyrophosphate
+	- 抑制  bactoprenol (BP) pyrophosphate 的 dephosphorylation
 - 
 ## SAR
 - polypeptides 混合物
 	- 商用: A, B, D, E, and F<sub>1-3</sub>
 - 被 Zn 增強
 - 在弱酸和中性溶液中穩定
-![[Pasted image 20230504201115.png]]
+![[Pasted image 20230504201115.png|300]]

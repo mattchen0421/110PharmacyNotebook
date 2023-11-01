@@ -16,5 +16,6 @@ aliases: Azithromycin, Zithromax, Zmax
 ## 用途
 - 對 G-(-) 活性較好，G-(+) 較差
 - 用於治療感染的首選 macrolide
+- MAC 的第一線用藥
 
 ![[Pasted image 20230430202148.png]]

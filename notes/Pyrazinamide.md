@@ -10,7 +10,8 @@
 	- pH $\le$ 5.4 時有效
 # 副作用
 - Pyrazinamide 與代謝物會干擾 uric acid 分泌
-	- 用於 hyperuricemia or gout 病患須注意
+	- 高尿酸血症(Hyperuricemia)
+- 肝毒性
 # 藥物交互作用
 # 藥化
 ## MOA

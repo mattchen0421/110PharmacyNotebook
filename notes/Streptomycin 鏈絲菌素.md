@@ -17,8 +17,9 @@ aliases:
 - 神經毒性
 - vertigo 眩暈
 - disturbance of equilibrium
-- diminished auditory perception 知聽覺喪失
+- 耳毒性
 - nephrotoxicity 腎毒性
+- 局部神經肌肉無力
 # 藥物交互作用
 # 抗藥性
 - 菌株快速形成抗藥性

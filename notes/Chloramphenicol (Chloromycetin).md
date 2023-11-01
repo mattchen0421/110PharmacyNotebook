@@ -38,8 +38,7 @@ aliases:
 - 製造 enzyme 使藥物去活性化
 # 藥化
 ## MOA
-- 抑制蛋白質合成
-	- 結合 50S subparticle in a region near where the macrolides bind
+- 結合 50S subparticle in a region near where the macrolides bind $\rightarrow$ 抑制 Peptidyl Transferase $\rightarrow$ 抑制蛋白質合成
 ## SAR
 - two chiral carbons
 - ![[Pasted image 20230504212541.png|300]]
