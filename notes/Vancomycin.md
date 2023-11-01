@@ -43,7 +43,7 @@
 
 # 藥化
 ## MOA
-- 結合 D-alanine-D-alanine terminals of the uridine diphosphate-N-acetyl-muramyl peptides $\rightarrow$ 抑制 transglycosidase $\rightarrow$ 抑制 mucopeptide 生合成
+- 結合 D-alanine-D-alanine terminals of the uridine diphosphate-N-acetyl-muramyl peptides $\rightarrow$ 抑制 transglycosidase (PGT) $\rightarrow$ 抑制 mucopeptide 生合成
 - 
 ## SAR
 - 結構
