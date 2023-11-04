@@ -13,5 +13,6 @@
   "showLineNumber": true,
   "autoPairBrackets": true,
   "readableLineLength": false,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "foldIndent": false
 }

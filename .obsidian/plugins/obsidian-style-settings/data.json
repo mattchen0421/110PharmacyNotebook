@@ -20,5 +20,6 @@
   "minimal-style@@col-alt": false,
   "minimal-style@@row-alt": true,
   "minimal-style@@table-lines": false,
-  "minimal-style@@table-tabular": false
+  "minimal-style@@table-tabular": false,
+  "minimal-advanced@@cursor": "default"
 }
