@@ -12,7 +12,7 @@
   "propertiesInDocument": "visible",
   "showLineNumber": true,
   "autoPairBrackets": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "strictLineBreaks": false,
   "foldIndent": false
 }
