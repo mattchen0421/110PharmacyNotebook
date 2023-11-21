@@ -15,7 +15,7 @@
 # 藥化
 ## MOA
 - 抑制近曲小管 HCO<sub>3</sub><sup>-</sup> 再吸收
-	- 抑制 Na<sup>+</sup>/H<sup>+</sup>
+	- 抑制 Na<sup>+</sup>/H<sup>+</sup> pump
 	- H<sup>+</sup> 排出減少，Na<sup>+</sup> 滯留
 ## SAR
 - 
