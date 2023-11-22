@@ -18,6 +18,7 @@
 		- 特別是 A2 strains of Asian influenza virus
 	- German measles (rubella)  
 	- togavirus
+	- 帕金森氏症
 - 體外活性
 	- influenza B
 	- parainfluenza (paramyxovirus)
