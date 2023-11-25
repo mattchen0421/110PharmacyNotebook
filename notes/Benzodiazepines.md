@@ -1,14 +1,16 @@
 
-|                   |                                                               |                    |                          |
-| ----------------- | ------------------------------------------------------------- | ------------------ | ------------------------ |
-| Chlorodiazepoxide | CYP3A4 N-demethylation $\rightarrow$ deamination (Demoxepam)  |                    |                          |
-| ^                 | 移除 N-oxide (N-desmethyldiazepam) $\rightarrow$ oxazepam     |                    |                          |
-| ^                 | opened lactam (無活性)                                        |                    |                          |
-| Diazepam          | CYP3A4 $\rightarrow$ N-desmethyldiazepam                     | 快速口服吸收       |                          |
-| Oxazepam          | Chlorodiazepoxide, Diazepam 的活性代謝物                      |                    | 中效用藥                 |
-| Flurazepam        | CYP3A4 N-dealkylated $\rightarrow$ N-desmethyldiazepam 衍生物 | 以鹽類形式口服使用 | 長效用藥                 |
-| Midazolam         | 鹽類劑型開環，進入體內後回復                                  | IV 麻醉誘導        | 短效用藥<br>適合持續輸注 |
-| Flumazenil        |                                                               | 麻醉劑拮抗劑                   |                          |
+|                   |                                           |                                                               |                    |                          |
+| ----------------- | ----------------------------------------- | ------------------------------------------------------------- | ------------------ | ------------------------ |
+| Chlorodiazepoxide | ![[Pasted image 20231125200438.png\|300]] | CYP3A4 N-demethylation $\rightarrow$ deamination (Demoxepam)  |                    |                          |
+| ^                 | ^                                         | 移除 N-oxide (N-desmethyldiazepam) $\rightarrow$ oxazepam     |                    |                          |
+| ^                 |                                           | opened lactam (無活性)                                        |                    |                          |
+| Diazepam          | ![[Pasted image 20231125200806.png\|300]]                                          | CYP3A4 $\rightarrow$ N-desmethyldiazepam                     | 快速口服吸收       |                          |
+| Oxazepam          |  ![[Pasted image 20231125202316.png\|300]]                                         | Chlorodiazepoxide, Diazepam 的活性代謝物                      |                    | 中效用藥                 |
+| Flurazepam        |                                           | CYP3A4 N-dealkylated $\rightarrow$ N-desmethyldiazepam 衍生物 | 以鹽類形式口服使用 | 長效用藥                 |
+| Midazolam         |                                           | 鹽類劑型開環，進入體內後回復                                  | IV 麻醉誘導        | 短效用藥<br>適合持續輸注 |
+| Flumazenil        |                                           |                                                               | 麻醉劑拮抗劑       |                          |
+
+[[Pasted image 20231125203526.png|Chlorodiazepoxide代謝]]
 
 # 藥化
 ## MOA

@@ -1,7 +1,6 @@
 {
   "minimal-advanced@@styled-scrollbars": false,
-  "minimal-style@@header-height": "30px",
-  "minimal-style@@tabs-style": "tabs-underline",
+  "minimal-style@@tabs-style": "tabs-modern",
   "minimal-style@@active-line-on": false,
   "minimal-style@@sidebar-tabs-style": "sidebar-tabs-underline",
   "minimal-style@@image-muted": 1,
@@ -20,6 +19,6 @@
   "minimal-style@@col-alt": false,
   "minimal-style@@row-alt": true,
   "minimal-style@@table-lines": false,
-  "minimal-style@@table-tabular": false,
+  "minimal-style@@table-tabular": true,
   "minimal-advanced@@cursor": "default"
 }

@@ -3,7 +3,9 @@
   "theme": "obsidian",
   "translucency": false,
   "cssTheme": "Minimal",
-  "enabledCssSnippets": [],
-  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "default_image_size"
+  ],
+  "baseFontSize": 19,
   "showViewHeader": true
 }
