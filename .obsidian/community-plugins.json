@@ -1,25 +1,15 @@
 [
   "table-editor-obsidian",
-  "sheets",
   "awesome-image",
   "cmenu-plugin",
   "colored-text",
   "obsidian-contextual-typography",
   "obsidian-emoji-toolbar",
-  "obsidian-hider",
   "homepage",
   "obsidian-hover-editor",
   "janitor",
   "obsidian-latex-suite",
   "obsidian-minimal-settings",
   "note-refactor-obsidian",
-  "obsidian-git",
-  "omnisearch",
-  "obsidian-outliner",
-  "url-into-selection",
-  "obsidian-style-settings",
-  "obsidian-plugin-toc",
-  "text-extractor",
-  "obsidian-text-format",
-  "various-complements"
+  "obsidian-git"
 ]
