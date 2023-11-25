@@ -1,16 +1,14 @@
 
-|     |
-| --- |
-| Chlorodiazepoxide    |
+|                   |                                                               |                    |          |
+| ----------------- | ------------------------------------------------------------- | ------------------ | -------- |
+| Chlorodiazepoxide | CYP3A4 N-demethylation $\rightarrow$ deamination (Demoxepam)  |                    |          |
+| ^                 | 移除 N-oxide (N-desmethyldiazepam) $\rightarrow$ oxazepam     |                    |          |
+| ^                 | opened lactam (無活性)                                        |                    |          |
+| Diazepam          | CYP3A4 $\rightarrow$ N-desmethyldiazepam                     | 快速口服吸收       |          |
+| Oxazepam          | Chlorodiazepoxide, Diazepam 的活性代謝物                      |                    | 中效用藥 |
+| Flurazepam        | CYP3A4 N-dealkylated $\rightarrow$ N-desmethyldiazepam 衍生物 | 以鹽類形式口服使用 | 長效用藥 |
+| Midazolam         | 鹽類劑型開環，進入體內後回復                                                              | IV 麻醉誘導        |  短效用藥        |
 
-# 藥動
-## 給藥 Administration
-## 分布 Distribution
-## 代謝 Metabolism
-## 排泄 Excretion
-# 應用
-# 副作用
-# 藥物交互作用
 # 藥化
 ## MOA
 - 影響 GABA<sub>A</sub> receptors
