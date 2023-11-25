@@ -1,16 +1,18 @@
 
-|                   |                                                               |                    |          |
-| ----------------- | ------------------------------------------------------------- | ------------------ | -------- |
-| Chlorodiazepoxide | CYP3A4 N-demethylation $\rightarrow$ deamination (Demoxepam)  |                    |          |
-| ^                 | 移除 N-oxide (N-desmethyldiazepam) $\rightarrow$ oxazepam     |                    |          |
-| ^                 | opened lactam (無活性)                                        |                    |          |
-| Diazepam          | CYP3A4 $\rightarrow$ N-desmethyldiazepam                     | 快速口服吸收       |          |
-| Oxazepam          | Chlorodiazepoxide, Diazepam 的活性代謝物                      |                    | 中效用藥 |
-| Flurazepam        | CYP3A4 N-dealkylated $\rightarrow$ N-desmethyldiazepam 衍生物 | 以鹽類形式口服使用 | 長效用藥 |
-| Midazolam         | 鹽類劑型開環，進入體內後回復                                                              | IV 麻醉誘導        |  短效用藥        |
+|                   |                                                               |                    |                          |
+| ----------------- | ------------------------------------------------------------- | ------------------ | ------------------------ |
+| Chlorodiazepoxide | CYP3A4 N-demethylation $\rightarrow$ deamination (Demoxepam)  |                    |                          |
+| ^                 | 移除 N-oxide (N-desmethyldiazepam) $\rightarrow$ oxazepam     |                    |                          |
+| ^                 | opened lactam (無活性)                                        |                    |                          |
+| Diazepam          | CYP3A4 $\rightarrow$ N-desmethyldiazepam                     | 快速口服吸收       |                          |
+| Oxazepam          | Chlorodiazepoxide, Diazepam 的活性代謝物                      |                    | 中效用藥                 |
+| Flurazepam        | CYP3A4 N-dealkylated $\rightarrow$ N-desmethyldiazepam 衍生物 | 以鹽類形式口服使用 | 長效用藥                 |
+| Midazolam         | 鹽類劑型開環，進入體內後回復                                  | IV 麻醉誘導        | 短效用藥<br>適合持續輸注 |
+| Flumazenil        |                                                               | 麻醉劑拮抗劑                   |                          |
 
 # 藥化
 ## MOA
+- 正向異位調節 Positive allosteric modulation
 - 影響 GABA<sub>A</sub> receptors
 ## SAR
 ![[Pasted image 20231123205221.png|300]]
