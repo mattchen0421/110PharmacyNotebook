@@ -199,5 +199,13 @@
       "key": "F"
     }
   ],
-  "global-search:open": []
+  "global-search:open": [],
+  "obsidian-smarter-md-hotkeys:toggle-readable-line-length": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Delete"
+    }
+  ]
 }
