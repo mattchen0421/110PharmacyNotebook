@@ -20,7 +20,7 @@
 ### Intravenous general anesthetics
 - [[Propofol]]
 - [[Fospropofol]]
-- [[Barbiturates (Thiopental and Methohexital)]]
+- [[Barbiturates]]
 - [[Benzodiazepines (Midazolam, Lorazepam, Diazepam)]]
 - [[Etomidate]]
 - [[Ketamine]]

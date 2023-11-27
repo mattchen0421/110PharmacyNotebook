@@ -1,5 +1,5 @@
 {
-  "aestheticStyle": "default",
+  "aestheticStyle": "glass",
   "menuCommands": [
     {
       "id": "cmenu-plugin:editor:toggle-strikethrough",
@@ -10,16 +10,6 @@
       "id": "cmenu-plugin:underline",
       "name": "cMenu: Toggle underline",
       "icon": "underline-glyph"
-    },
-    {
-      "id": "cmenu-plugin:superscript",
-      "name": "cMenu: Toggle superscript",
-      "icon": "superscript-glyph"
-    },
-    {
-      "id": "cmenu-plugin:subscript",
-      "name": "cMenu: Toggle subscript",
-      "icon": "subscript-glyph"
     },
     {
       "id": "cmenu-plugin:editor:toggle-code",
@@ -64,6 +54,11 @@
       "id": "obsidian-text-format:text-format-lower",
       "name": "Text Format: Lowercase selected text",
       "icon": "uppercase-lowercase-a"
+    },
+    {
+      "id": "editor:insert-callout",
+      "name": "Insert callout",
+      "icon": "lucide-quote"
     }
   ],
   "appendMethod": "workspace",

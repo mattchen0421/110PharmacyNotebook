@@ -20,4 +20,4 @@ aliases: Pethidine, Meperidine
 - Phenothiazine 
 	- 過度鎮靜、低血壓
 - 不相容性
-	- [[Barbiturates (Thiopental and Methohexital)|barbiturates]], aminophylline, [[heparin]], [[morphine]], [[methicillin]], [[phenytoin]], sodium bicarbonate, iodine, [[Silver sulfadiazine|sulfadiazine]] and [[sulfisoxazole]]
+	- [[Barbiturates|barbiturates]], aminophylline, [[heparin]], [[morphine]], [[methicillin]], [[phenytoin]], sodium bicarbonate, iodine, [[Silver sulfadiazine|sulfadiazine]] and [[sulfisoxazole]]

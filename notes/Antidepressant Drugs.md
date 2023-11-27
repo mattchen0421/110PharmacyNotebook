@@ -31,7 +31,7 @@
 	- acute hypertensive reaction
 - MAOIs + SSRI
 	- 致命
-- [[Barbiturates (Thiopental and Methohexital)|Barbiturates]] 
+- [[Barbiturates|Barbiturates]] 
 	- 誘導 [[Cytochrome P-450 Enzymes]] 
 - serotonin syndrome
 	- hyperthermia, shivering (寒戰), myoclonus (肌陣縮症), agitation (精神激昂), hypomania, nausea, tremor and coma
