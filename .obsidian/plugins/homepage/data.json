@@ -12,7 +12,7 @@
       "refreshDataview": false,
       "autoCreate": true,
       "autoScroll": false,
-      "pin": false,
+      "pin": true,
       "value": "Homepage",
       "kind": "File",
       "commands": [],
