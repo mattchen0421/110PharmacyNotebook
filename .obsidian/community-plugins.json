@@ -1,4 +1,5 @@
 [
+  "obsidian-pangu",
   "table-editor-obsidian",
   "awesome-image",
   "cmenu-plugin",
@@ -12,15 +13,5 @@
   "obsidian-minimal-settings",
   "note-refactor-obsidian",
   "obsidian-git",
-  "omnisearch",
-  "obsidian-outliner",
-  "url-into-selection",
-  "sheets",
-  "obsidian-style-settings",
-  "obsidian-plugin-toc",
-  "text-extractor",
-  "obsidian-text-format",
-  "various-complements",
-  "obsidian-pangu",
-  "obsidian-smarter-md-hotkeys"
+  "omnisearch"
 ]
