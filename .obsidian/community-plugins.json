@@ -1,7 +1,6 @@
 [
   "obsidian-pangu",
   "awesome-image",
-  "cmenu-plugin",
   "colored-text",
   "obsidian-contextual-typography",
   "obsidian-emoji-toolbar",
@@ -21,5 +20,7 @@
   "various-complements",
   "any-block",
   "table-editor-obsidian",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "editing-toolbar",
+  "obsidian-languagetool-plugin"
 ]
