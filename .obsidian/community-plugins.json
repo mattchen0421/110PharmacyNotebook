@@ -1,6 +1,5 @@
 [
   "obsidian-pangu",
-  "table-editor-obsidian",
   "awesome-image",
   "cmenu-plugin",
   "colored-text",
@@ -10,17 +9,17 @@
   "obsidian-hover-editor",
   "janitor",
   "obsidian-latex-suite",
-  "obsidian-minimal-settings",
   "note-refactor-obsidian",
   "obsidian-git",
   "omnisearch",
-  "obsidian-outliner",
   "url-into-selection",
-  "sheets",
   "obsidian-smarter-md-hotkeys",
   "obsidian-style-settings",
   "obsidian-plugin-toc",
   "text-extractor",
   "obsidian-text-format",
-  "various-complements"
+  "various-complements",
+  "any-block",
+  "table-editor-obsidian",
+  "obsidian-minimal-settings"
 ]

@@ -12,8 +12,9 @@
   "propertiesInDocument": "visible",
   "showLineNumber": true,
   "autoPairBrackets": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "strictLineBreaks": false,
   "foldIndent": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "tabSize": 4
 }

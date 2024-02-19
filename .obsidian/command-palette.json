@@ -2,6 +2,7 @@
   "pinned": [
     "colored-text:color-text",
     "colored-text:alter-color-palette",
+    "colored-text:remove-color",
     "obsidian-pangu:pangu-format"
   ]
 }
