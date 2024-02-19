@@ -1,14 +1,12 @@
 [
   "obsidian-pangu",
   "awesome-image",
-  "colored-text",
   "obsidian-contextual-typography",
   "obsidian-emoji-toolbar",
   "homepage",
   "obsidian-hover-editor",
   "janitor",
   "obsidian-latex-suite",
-  "note-refactor-obsidian",
   "obsidian-git",
   "omnisearch",
   "url-into-selection",
@@ -21,6 +19,7 @@
   "any-block",
   "table-editor-obsidian",
   "obsidian-minimal-settings",
-  "editing-toolbar",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "easy-typing-obsidian",
+  "editing-toolbar"
 ]
