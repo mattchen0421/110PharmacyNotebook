@@ -16,5 +16,6 @@
   "strictLineBreaks": false,
   "foldIndent": false,
   "defaultViewMode": "preview",
-  "tabSize": 4
+  "tabSize": 4,
+  "showIndentGuide": true
 }

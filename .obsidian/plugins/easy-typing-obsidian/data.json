@@ -1,6 +1,6 @@
 {
-  "Tabout": true,
-  "SelectionEnhance": true,
+  "Tabout": false,
+  "SelectionEnhance": false,
   "IntrinsicSymbolPairs": true,
   "BaseObEditEnhance": true,
   "FW2HWEnhance": true,

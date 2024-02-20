@@ -10,14 +10,15 @@
   "minimal-style@@image-grid-background@@light": "#000000",
   "minimal-style@@image-grid-background@@dark": "#FFFFFF",
   "minimal-style@@window-title-off": true,
-  "minimal-style@@maximize-tables-off": "maximize-tables",
-  "minimal-style@@row-lines": false,
+  "minimal-style@@maximize-tables-off": "maximize-tables-off",
+  "minimal-style@@row-lines": true,
   "minimal-style@@col-lines": false,
   "minimal-style@@table-numbers": false,
-  "minimal-style@@table-nowrap": false,
-  "minimal-style@@row-hover": true,
+  "minimal-style@@table-nowrap": true,
+  "minimal-style@@row-hover": false,
   "minimal-style@@col-alt": false,
   "minimal-style@@row-alt": true,
   "minimal-style@@table-lines": false,
-  "minimal-style@@table-tabular": true
+  "minimal-style@@table-tabular": true,
+  "minimal-style@@ribbon-style": "ribbon-hidden"
 }

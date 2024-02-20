@@ -1,5 +1,4 @@
 [
-  "obsidian-pangu",
   "awesome-image",
   "obsidian-contextual-typography",
   "obsidian-emoji-toolbar",
@@ -19,9 +18,9 @@
   "any-block",
   "table-editor-obsidian",
   "obsidian-minimal-settings",
-  "obsidian-languagetool-plugin",
   "easy-typing-obsidian",
   "editing-toolbar",
   "remotely-save",
-  "open-in-new-tab"
+  "open-in-new-tab",
+  "obsidian-outliner"
 ]
