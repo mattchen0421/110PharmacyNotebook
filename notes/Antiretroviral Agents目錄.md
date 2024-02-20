@@ -9,7 +9,7 @@
 - Zalcitabine
 ---
 ### purine
-- ⛏️[[Didanosine (DDI)]]
+- ⛏️[[Didanosine (ddI)]]
 - [[Abacavir (ABC)]]
 - [[Tenofovir disoproxil (TFD)]]
 ## Nonnucleoside Reverse Transcriptase Inhibitors

@@ -22,5 +22,6 @@
   "obsidian-languagetool-plugin",
   "easy-typing-obsidian",
   "editing-toolbar",
-  "remotely-save"
+  "remotely-save",
+  "open-in-new-tab"
 ]

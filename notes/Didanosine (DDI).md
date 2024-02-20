@@ -1,5 +1,5 @@
 ---
-aliases: Didanosine, DDI
+aliases: Didanosine, ddI
 ---
 ## MOA
 - ddATP: viral reverse transcriptase 的競爭型抑制劑
