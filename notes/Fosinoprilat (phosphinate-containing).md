@@ -17,8 +17,8 @@ aliases:
 - 通過腎臟 + 肝臟
 # 應用
 - 降血壓
-	- 活性 [[Captopril (sulfhydryl-containing)|Captopril]] < Fosinoprilat < [[Enalaprilat, Enalapril and others (dicarboxylate-containing)|Enalaprilat]] 
+	- 活性 [[Captopril|Captopril]] < Fosinoprilat < [[Enalaprilat, Enalapril and others (dicarboxylate-containing)|Enalaprilat]] 
 # 藥化
 ## SAR
 - phosphinate 模仿 transition state of angiotensin I hydrolysis
-	- 螯合 Zn<sup>2+</sup> 效果 > [[Captopril (sulfhydryl-containing)|Captopril]] 
+	- 螯合 Zn<sup>2+</sup> 效果 > [[Captopril|Captopril]] 

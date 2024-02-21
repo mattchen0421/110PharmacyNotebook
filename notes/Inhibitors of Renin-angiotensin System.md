@@ -2,7 +2,7 @@
 ## ACE inhibitor 
 - ~pril
 ### 藥動
-- [[Captopril (sulfhydryl-containing)|captopril]] and lisinopril 外需透過肝代謝成活性代謝物
+- [[Captopril|captopril]] and lisinopril 外需透過肝代謝成活性代謝物
 - Fosinopril 不主要通過腎臟排泄
 - [[Enalaprilat, Enalapril and others (dicarboxylate-containing)|Enalaprilat]] IV
 ### 副作用

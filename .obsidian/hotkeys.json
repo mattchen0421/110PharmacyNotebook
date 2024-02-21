@@ -207,5 +207,44 @@
       ],
       "key": "Delete"
     }
-  ]
+  ],
+  "easy-typing-obsidian:easy-typing-format-switch": [],
+  "hotkeysplus-obsidian:toggle-readable-length": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "various-complements:reload-custom-dictionaries": [],
+  "text-snippets-obsidian:text-snippets": [],
+  "obsidian-hotkeys-for-templates:next line.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ],
+  "editing-toolbar:superscript": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "editing-toolbar:subscript": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "easy-typing-obsidian:easy-typing-format-article": []
 }

@@ -39,7 +39,7 @@ aliases:
 - R<sub>3</sub> methy group (analine)
 - R<sub>4</sub> Phenylethyl group $\rightarrow$ enalaprilat
 - carboxylate 模仿 transition state of angiotensin I hydrolysis
-	- 螯合 Zn<sup>2+</sup> 效果 > [[Captopril (sulfhydryl-containing)|Captopril]] 
+	- 螯合 Zn<sup>2+</sup> 效果 > [[Captopril|Captopril]] 
 # 其他 dicarboxylate-containing ACEI
 - 不含 pyrrolidine 
 	- BMQ

@@ -16,11 +16,13 @@
   "obsidian-text-format",
   "various-complements",
   "any-block",
-  "table-editor-obsidian",
   "obsidian-minimal-settings",
   "easy-typing-obsidian",
   "editing-toolbar",
   "remotely-save",
   "open-in-new-tab",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "hotkey-helper",
+  "hotkeysplus-obsidian",
+  "obsidian-hotkeys-for-templates"
 ]
