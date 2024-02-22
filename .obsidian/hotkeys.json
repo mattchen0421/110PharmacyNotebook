@@ -25,15 +25,6 @@
     }
   ],
   "file-explorer:new-file-in-new-pane": [],
-  "obsidian-dictionary-plugin:dictionary-open-view": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "D"
-    }
-  ],
   "table-editor-obsidian:table-control-bar": [],
   "cmenu-plugin:hide-show-menu": [
     {
@@ -246,5 +237,13 @@
       "key": "D"
     }
   ],
-  "easy-typing-obsidian:easy-typing-format-article": []
+  "easy-typing-obsidian:easy-typing-format-article": [],
+  "obsidian-hotkeys-for-templates:list2table.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ]
 }

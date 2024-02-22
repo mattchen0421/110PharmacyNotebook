@@ -1,5 +1,5 @@
 {
-  "getLangFromFile": true,
+  "getLangFromFile": false,
   "defaultLanguage": "en_US",
   "normalLang": "en_US",
   "shouldShowSynonymPopover": true,
