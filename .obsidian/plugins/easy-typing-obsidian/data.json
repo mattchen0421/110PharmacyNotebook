@@ -1,9 +1,9 @@
 {
   "Tabout": false,
-  "SelectionEnhance": false,
+  "SelectionEnhance": true,
   "IntrinsicSymbolPairs": true,
-  "BaseObEditEnhance": false,
-  "FW2HWEnhance": false,
+  "BaseObEditEnhance": true,
+  "FW2HWEnhance": true,
   "AutoFormat": true,
   "ExcludeFiles": "",
   "ChineseEnglishSpace": true,
@@ -19,7 +19,7 @@
   "InlineLinkSpaceMode": 1,
   "InlineLinkSmartSpace": true,
   "UserDefinedRegSwitch": true,
-  "UserDefinedRegExp": "{{.*?}}|++\n<.*?>|--\n\\[\\!.*?\\][-+]{0,1}|-+\n(file:///|https?://|ftp://|obsidian://|zotero://|www.)[^\\s（）《》。,，！？;；：“”‘’\\)\\(\\[\\]\\{\\}']+|--\n\n[a-zA-Z0-9_\\-.]+@[a-zA-Z0-9_\\-.]+|++\n(?<!#)#[\\u4e00-\\u9fa5\\w\\/]+|++\n\n[CHON][0-9]|=-\nβ|-=\n[0-9][RS]|==",
+  "UserDefinedRegExp": "{{.*?}}|++\n<.*?>|--\n\\[\\!.*?\\][-+]{0,1}|-+\n(file:///|https?://|ftp://|obsidian://|zotero://|www.)[^\\s（）《》。,，！？;；：“”‘’\\)\\(\\[\\]\\{\\}']+|--\n\n[a-zA-Z0-9_\\-.]+@[a-zA-Z0-9_\\-.]+|++\n(?<!#)#[\\u4e00-\\u9fa5\\w\\/]+|++\n\n[CHON][0-9]|=-\nβ|-=\n[0-9][RS]|==\n",
   "debug": false,
   "userSelRepRuleTrigger": [
     "-",
