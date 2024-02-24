@@ -7,5 +7,6 @@
     "default_image_size"
   ],
   "baseFontSize": 18,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "nativeMenus": true
 }
