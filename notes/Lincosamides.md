@@ -28,4 +28,4 @@
 - 酸性中緩慢分解
 - GI track 吸收良好
 - 分泌在 urine 和 bile
-![[Pasted image 20230430221919.png|300]]
+![[Pasted image 20230430221919.png]]

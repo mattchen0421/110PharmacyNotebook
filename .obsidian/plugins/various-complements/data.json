@@ -14,7 +14,7 @@
   "complementAutomatically": true,
   "delayMilliSeconds": 0,
   "disableSuggestionsDuringImeOn": false,
-  "disableSuggestionsInMathBlock": false,
+  "disableSuggestionsInMathBlock": true,
   "insertAfterCompletion": true,
   "firstCharactersDisableSuggestions": ":/^",
   "patternsToSuppressTrigger": [
@@ -22,7 +22,7 @@
     "^```.*"
   ],
   "phrasePatternsToSuppressTrigger": [],
-  "noAutoFocusUntilCycle": false,
+  "noAutoFocusUntilCycle": true,
   "showMatchStrategy": true,
   "showComplementAutomatically": true,
   "showIndexingStatus": true,
