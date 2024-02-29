@@ -30,4 +30,4 @@ aliases:
 	- ==9-t-butylglycylamido derivative of [[minocycline]]==
 	- 不影響藥物與 rRNA 結合
 
-![[Pasted image 20230502210643.png|300]]
+![[Pasted image 20230502210643.png]]

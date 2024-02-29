@@ -14,6 +14,7 @@
   "complementAutomatically": true,
   "delayMilliSeconds": 0,
   "disableSuggestionsDuringImeOn": false,
+  "disableSuggestionsInMathBlock": false,
   "insertAfterCompletion": true,
   "firstCharactersDisableSuggestions": ":/^",
   "patternsToSuppressTrigger": [
@@ -29,9 +30,7 @@
   "hotkeys": {
     "select": [
       {
-        "modifiers": [
-          "Shift"
-        ],
+        "modifiers": [],
         "key": "Enter",
         "hideHotkeyGuide": false
       }
